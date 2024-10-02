@@ -1,0 +1,49 @@
+group: "cogeo"
+name: "neighbor-deal-mods"
+version: "1.0"
+subfolder: "150-mods"
+
+variants:
+- variant: {maxis.sc4.neighbor-deal.min-amount: "250", maxis.sc4.neighbor-deal.profit: "10"}
+  assets:
+  - assetId: "cogeo-neighbor-deal-mods"
+    include:
+    - "/NeighborDealsMod_MinDeal250.dat"
+
+- variant: {maxis.sc4.neighbor-deal.min-amount: "250", maxis.sc4.neighbor-deal.profit: "33"}
+  assets:
+  - assetId: "cogeo-neighbor-deal-mods"
+    include:
+    - '/NeighborDealsMod_MinDeal250_MinProfit33%.dat'
+
+- variant: {maxis.sc4.neighbor-deal.min-amount: "500", maxis.sc4.neighbor-deal.profit: "10"}
+  assets:
+  - assetId: "cogeo-neighbor-deal-mods"
+    include:
+    - "/NeighborDealsMod_MinDeal500.dat"
+
+- variant: {maxis.sc4.neighbor-deal.min-amount: "500", maxis.sc4.neighbor-deal.profit: "33"}
+  assets:
+  - assetId: "cogeo-neighbor-deal-mods"
+    include:
+    - '/NeighborDealsMod_MinDeal500_MinProfit33%.dat'
+
+# Default values.
+- variant: {maxis.sc4.neighbor-deal.min-amount: "1000", maxis.sc4.neighbor-deal.profit: "10"}
+
+- variant: {maxis.sc4.neighbor-deal.min-amount: "1000", maxis.sc4.neighbor-deal.profit: "33"}
+  assets:
+  - assetId: "cogeo-neighbor-deal-mods"
+    include:
+    - '/NeighborDealsMod_MinProfit33%.dat'
+
+info:
+  summary: "This pack contains a set of Mods that change the Minimum Amount and/or Profit Margin for Power and Water Neighbor Deals."
+  author: "cogeo"
+  website: "https://community.simtropolis.com/files/file/28352-neighbor-deal-mods/"
+
+---
+assetId: "cogeo-neighbor-deal-mods"
+version: "1.0"
+lastModified: "2013-01-05T13:51:51Z"
+url: "https://community.simtropolis.com/files/file/28352-neighbor-deal-mods/?do=download"
