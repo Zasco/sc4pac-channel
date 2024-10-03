@@ -1,0 +1,19 @@
+group: "null-45"
+name: "dbpf-loading"
+version: "1.0.3"
+subfolder: "150-mods"
+
+assets:
+- assetId: "null-45-dbpf-loading"
+
+info:
+  summary: "Optimizes the DBPF plugin loading that the game performs on startup."
+  author: "Null 45"
+  website: "https://community.simtropolis.com/files/file/36244-startup-performance-optimization-dll-for-simcity-4/"
+
+---
+assetId: "null-45-dbpf-loading"
+version: "1.0.3"
+lastModified: "2024-06-17T00:51:07Z"
+url: "https://community.simtropolis.com/files/file/36244-startup-performance-optimization-dll-for-simcity-4/?do=download"
+#url: "https://github.com/0xC0000054/sc4-dbpf-loading/releases/download/v1.0.3/SC4DBPFLoading.zip" # Alternative URL.
