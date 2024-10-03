@@ -1,0 +1,25 @@
+group: "peg"
+name: "water-mod-clipper"
+version: "1.0"
+subfolder: "170-terrain"
+
+assets:
+- assetId: "peg-water-mod-clipper"
+
+info:
+  summary: "This is one of the series of new water texture mods that replace the game's default water textures."
+  description: >
+    These mods use a process similar to that which is used by the newer rock mods to create a more photo-realistic appearance for the game's water.
+    This mod does not alter any of the game's default terrain properties. It simply combines a mixture of reduced scale and luminance for each subsequently lower zoom level that results in a highly realistic looki8ng water texture.
+    The Clipper texture  is a slightly darker version of the Windjammer texture with a notably more pronounced surface texture. Its a tad less translucent in the shallows and becomes quite dark in deeper water. This texture works well for open  ocean areas, large harbors and wide rivers.
+  author: "Pegasus"
+  website: "https://community.simtropolis.com/files/file/11835-peg-water-mod-clipper/"
+
+---
+assetId: "peg-water-mod-clipper"
+version: "1.0"
+lastModified: "2015-07-11T02:29:21Z"
+url: "https://community.simtropolis.com/files/file/11835-peg-water-mod-clipper/?do=download"
+archiveType:
+  format: Clickteam
+  version: "20"
