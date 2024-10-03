@@ -1,0 +1,18 @@
+group: "warrior"
+name: "raise-ui-mod"
+version: "1.0"
+subfolder: "150-mods"
+
+assets:
+  - assetId: "warrior-raise-ui-mod"
+
+info:
+  summary: "This tiny mod simply moves the region name and the whole mayor user interface up by about 40 pixels."
+  author: "warrior"
+  website: "https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/"
+
+---
+assetId: "warrior-raise-ui-mod"
+version: "1.0"
+lastModified: "2011-03-11T19:01:36Z"
+url: "https://community.simtropolis.com/files/file/23771-raise-the-ui-mod/?do=download"
