@@ -1,0 +1,25 @@
+group: "peg"
+name: "water-mod-brigantine"
+version: "1.0"
+subfolder: "170-terrain"
+
+assets:
+- assetId: "peg-water-mod-brigantine"
+
+info:
+  summary: "This is a serie of new water texture mods that replace the game's default water textures."
+  description: >
+    These mods use a process similar to that which is used by the newer rock mods to create a more photo-realistic appearance for the game's water.
+    This mod does not alter any of the game's default terrain properties. It simply combines a mixture of reduced scale and luminance for each subsequently lower zoom level that results in a highly realistic looking water texture.
+    The Brigantine texture is highly universal with a modest surface texture and a very common greenish-blue color that is suitable in almost any climate or region. It closely emulates the color and texture of most large bodies of water. It is fairly translucent in the shallows yet quickly turns opaque as the water gets deeper. This was the texture that ended the series as we feel we just weren't going to find one better than this.
+  author: "Pegasus"
+  website: "https://community.simtropolis.com/files/file/11836-peg-water-mod-brigantine/"
+
+---
+assetId: "peg-water-mod-brigantine"
+version: "1.0"
+lastModified: "2015-07-11T02:27:05Z"
+url: "https://community.simtropolis.com/files/file/11836-peg-water-mod-brigantine/?do=download"
+archiveType:
+  format: Clickteam
+  version: "20"
