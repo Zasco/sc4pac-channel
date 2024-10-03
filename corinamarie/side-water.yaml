@@ -1,0 +1,36 @@
+group: "corinamarie"
+name: "side-water"
+version: "1.0"
+subfolder: "170-terrain"
+
+variants:
+- variant: {maxis.sc4.textures.water.id: "maxis.default"}
+
+- variant: {maxis.sc4.textures.water.id: "peg.brigantine"}
+  assets:
+  - assetId: "corinamarie-side-water-peg-brigantine"
+  dependencies:
+  - "peg:water-mod-brigantine"
+
+- variant: {maxis.sc4.textures.water.id: "peg.clipper"}
+  assets:
+  - assetId: "corinamarie-side-water-peg-clipper"
+  dependencies:
+  - "peg:water-mod-clipper"
+
+info:
+  summary: "Replaces the game's default water side texture."
+  author: "CorinaMarie"
+  websote: "https://community.simtropolis.com/forums/topic/761567-coris-side-water-shoppe/"
+
+---
+assetId: "corinamarie-side-water-peg-brigantine"
+version: "2.0"
+lastModified: "2022-03-16T02:09:37Z"
+url: "https://community.simtropolis.com/files/file/34900-peg-water-mod-brigantine/?do=download"
+
+---
+assetId: "corinamarie-side-water-peg-clipper"
+version: "2.0"
+lastModified: "2022-03-16T02:09:37Z"
+url: "https://community.simtropolis.com/files/file/34909-peg-water-mod-clipper/?do=download"
