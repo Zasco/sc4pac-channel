@@ -1,0 +1,18 @@
+group: "nam"
+name: "nam-dll"
+version: "1.0.3"
+subfolder: "700-transit"
+
+assets:
+  - assetId: "nam-nam-dll"
+
+info:
+  summary: "Recently, the NAM Team has started developing a DLL that complements and expands the functionality of the NAM in ways that would not otherwise be possible. "
+  author: "NAM team, memo"
+  website: "https://community.simtropolis.com/forums/topic/762985-namdll-open-beta/"
+
+---
+assetId: "nam-nam-dll"
+version: "1.0.3"
+lastModified: "2024-02-17T12:56:02Z"
+url: "https://github.com/NAMTeam/nam-dll/releases/download/1.0.3/NAM-dll-1.0.3.zip"
