@@ -1,0 +1,18 @@
+group: "11241036"
+name: "concrete-sidewalk-mod"
+version: "1"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "11241036-concrete-sidewalk-mod"
+
+info:
+  summary: "This sidewalk mod replaces the white pavement on all traffic routes and all wealth levels by a concrete texture made by Maxis themselves."
+  author: "11241036"
+  website: "https://community.simtropolis.com/files/file/33892-concrete-sidewalk-mod/"
+
+---
+assetId: "11241036-concrete-sidewalk-mod"
+version: "1"
+lastModified: "2020-10-18T16:05:32Z"
+url: "https://community.simtropolis.com/files/file/33892-concrete-sidewalk-mod/?do=download"
