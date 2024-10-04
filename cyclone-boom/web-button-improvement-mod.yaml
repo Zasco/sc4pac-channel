@@ -1,0 +1,71 @@
+group: "cyclone-boom"
+name: "web-button-improvement-mod"
+version: "1.0"
+subfolder: "150-mods"
+
+variants:
+- variant: {maxis.sc4.ui.windowed: "true", cyclone-boom.wbim.mode: "blocked"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Windowed Options/z_Windowed - Web Button Improvement Mod - Option A \(Click Prevented\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "true", cyclone-boom.wbim.mode: "exit"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Windowed Options/z_Windowed - Web Button Improvement Mod - Option B \(Replaced with Exit\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "true", cyclone-boom.wbim.mode: "removed"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Windowed Options/z_Windowed - Web Button Improvement Mod - Option C \(Simply Removed\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "true", cyclone-boom.wbim.mode: "simtropolis"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Windowed Options/z_Windowed - Web Button Improvement Mod - Option D \(Simtropolis Link\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "false", cyclone-boom.wbim.mode: "blocked"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Full Screen Options/z_Full Screen - Web Button Improvement Mod - Option A \(Click Prevented\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "false", cyclone-boom.wbim.mode: "exit"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Full Screen Options/Full Screen - Web Button Improvement Mod - Option B \(Replaced with Exit\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "false", cyclone-boom.wbim.mode: "removed"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Full Screen Options/Full Screen - Web Button Improvement Mod - Option C \(Simply Removed\)\.dat'
+
+- variant: {maxis.sc4.ui.windowed: "false", cyclone-boom.wbim.mode: "simtropolis"}
+  assets:
+  - assetId: "cyclone-boom-web-button-improvement-mod"
+    include:
+    - '/Full Screen Options/Full Screen - Web Button Improvement Mod - Option D \(Simtropolis Link\)\.dat'
+
+variantDescriptions:
+  cyclone-boom.wbim:
+    "blocked": "The button is disabled."
+    "exit": "The button is replaced by an exit button."
+    "removed": "The button is removed."
+    "simtropolis": "The button is replaced by a link to the Simtropolis website."
+
+info:
+  summary: "This mod contains 4 options to modify the now defunct SimCity.ea.com website button in the Region View screen."
+  author: "Cyclone Boom"
+  website: "https://community.simtropolis.com/files/file/33583-web-button-improvement-mod/"
+
+---
+url: "https://community.simtropolis.com/files/file/33583-web-button-improvement-mod/?do=download"
+assetId: "cyclone-boom-web-button-improvement-mod"
+version: "1.0"
+lastModified: "2020-10-02T00:15:55Z"
