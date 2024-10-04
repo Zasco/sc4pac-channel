@@ -1,0 +1,18 @@
+group: "agc"
+name: "rock-cliff-1"
+version: "1.0.0"
+subfolder: "170-terrain"
+
+assets:
+- assetId: "agc-rock-cliff-1"
+
+info:
+  summary: "Rock texture replacement, hope you like it."
+  author: "Barroco Hispano"
+  website: "https://community.simtropolis.com/files/file/36461-agc-rock-cliff-01/"
+
+---
+assetId: "agc-rock-cliff-1"
+version: "1.0.0"
+lastModified: "2024-09-23T00:06:07Z"
+url: "https://community.simtropolis.com/files/file/36461-agc-rock-cliff-01/?do=download"
