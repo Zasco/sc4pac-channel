@@ -1,0 +1,82 @@
+group: "gobias"
+name: "hd-sidewalks"
+version: "1.0"
+subfolder: "100-props-textures"
+
+variants:
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.19th-century-cobble"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk 19thC Cobble.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.boston-brick"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk Boston Brick.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.central-park"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk Central Park.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.mediterranean-mortar"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk Mediterranean Mortar.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.modern-cobble"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk Modern Cobble.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.new-england-cobble"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk New England Cobble.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.new-york-slab"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk NY Slab.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.queens-cobble"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk Queens Cobble.dat"
+
+- variant: {maxis.sc4.textures.sidewalk.id: "gobias.suburban-cement"}
+  assets:
+  - assetId: "gobias-hd-sidewalks"
+    include:
+      - "/Sidewalk Suburban Cement.dat"
+
+variantDescriptions:
+  maxis.sc4.textures.sidewalk.id:
+    "gobias.19th-century-cobble": "Gobias 19th century cobble."
+    "gobias.boston-brick": "Gobias Boston brick."
+    "gobias.central-park": "Gobias central park."
+    "gobias.mediterranean-mortar": "Gobias mediterranean mortar."
+    "gobias.modern-cobble": "Gobias modern cobble."
+    "gobias.new-england-cobble": "Gobias New England cobble"
+    "gobias.new-york-slab": "Gobias New York slab."
+    "gobias.queens-cobble": "Gobias queens cobble."
+    "gobias.suburban-cement": "Gobias suburban cement."
+
+info:
+  summary: "Sidewalk Texture Pack by Gobias."
+  author: "Gobias"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/23-transportation-mods/25-gobias-hd-sidewalks"
+
+---
+assetId: "gobias-hd-sidewalks"
+version: "1.0"
+lastModified: "2023-07-20T03:17:21-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=25:gobias-hd-sidewalks"
