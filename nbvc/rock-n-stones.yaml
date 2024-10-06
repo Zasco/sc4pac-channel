@@ -1,0 +1,18 @@
+group: "nbvc"
+name: "rock-n-stones"
+version: "1.0"
+subfolder: "150-mods"
+
+assets:
+- assetId: "nbvc-rock-n-stones"
+
+info:
+  summary: "Rocks and stones for mayor menu."
+  author: "nbvc"
+  website: "https://community.simtropolis.com/files/file/27092-rock-n-stones/"
+
+---
+assetId: "nbvc-rock-n-stones"
+version: "1.0"
+lastModified: "2011-12-23T06:31:56Z"
+url: "https://community.simtropolis.com/files/file/27092-rock-n-stones/?do=download"
