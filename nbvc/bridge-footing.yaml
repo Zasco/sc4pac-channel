@@ -1,0 +1,18 @@
+group: "nbvc"
+name: "bridge-footing"
+version: "1.0"
+subfolder: "150-mods"
+
+assets:
+- assetId: "nbvc-bridge-footing"
+
+info:
+  summary: "Two eye candy Lots for bridges."
+  author: "nbvc"
+  website: "https://community.simtropolis.com/files/file/26928-bridge-footing/"
+
+---
+assetId: "nbvc-bridge-footing"
+version: "1.0"
+lastModified: "2011-10-30T05:42:22Z"
+url: "https://community.simtropolis.com/files/file/26928-bridge-footing/?do=download"
