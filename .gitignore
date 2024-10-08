@@ -1,3 +1,9 @@
+/metadata/
+sc4pac-channel-contents.json
+*.url
+*.lnk
+*.bat
+
 /gh-pages/channel/
 /sc4pac-latest/
 /sc4pac-latest.zip
