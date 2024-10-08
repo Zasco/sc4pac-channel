@@ -1,0 +1,18 @@
+group: "leonv93"
+name: "art-museum"
+version: "1.0.0"
+subfolder: "600-civics"
+
+assets:
+- assetId: "leonv93-art-museum"
+
+info:
+  summary: "Large Art Museum"
+  author: "leonv93"
+  website: "https://community.simtropolis.com/files/file/36490-art-museum/"
+
+---
+assetId: "leonv93-art-museum"
+version: "1.0.0"
+lastModified: "2024-10-07T23:28:11Z"
+url: "https://community.simtropolis.com/files/file/36490-art-museum/?do=download"

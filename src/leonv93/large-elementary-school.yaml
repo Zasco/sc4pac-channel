@@ -1,0 +1,18 @@
+group: "leonv93"
+name: "large-elementary-school"
+version: "1.0.0"
+subfolder: "620-education"
+
+assets:
+- assetId: "leonv93-large-elementary-school"
+
+info:
+  summary: "Larger (Higher Student Capacity) Elementary School"
+  author: "leonv93"
+  website: "https://community.simtropolis.com/files/file/36489-large-elementary-school/"
+
+---
+assetId: "leonv93-large-elementary-school"
+version: "1.0.0"
+lastModified: "2024-10-07T22:47:32Z"
+url: "https://community.simtropolis.com/files/file/36489-large-elementary-school/?do=download"

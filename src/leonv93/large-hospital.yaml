@@ -1,0 +1,18 @@
+group: "leonv93"
+name: "large-hospital"
+version: "1.0.0"
+subfolder: "630-health"
+
+assets:
+- assetId: "leonv93-large-hospital"
+
+info:
+  summary: "Larger Hospital, Capacity 8000"
+  author: "leonv93"
+  website: "https://community.simtropolis.com/files/file/36488-large-hospital/"
+
+---
+assetId: "leonv93-large-hospital"
+version: "1.0.0"
+lastModified: "2024-10-07T22:41:59Z"
+url: "https://community.simtropolis.com/files/file/36488-large-hospital/?do=download"
