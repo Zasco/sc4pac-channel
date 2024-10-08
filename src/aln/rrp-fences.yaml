@@ -1,0 +1,18 @@
+group: "aln"
+name: "rrp-fences"
+version: "1.0"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "aln-rrp-fences"
+
+info:
+  summary: "A pack of fences and gravel paths to give your rural areas more realism."
+  author: "ChrisAdams3997"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/20-ploppable/166-bsc-aln-rrp-fences"
+
+---
+assetId: "aln-rrp-fences"
+version: "1.0"
+lastModified: "2023-11-11T07:36:03-08:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=166:bsc-aln-rrp-fences&catid=20"
