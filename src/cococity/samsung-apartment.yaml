@@ -1,0 +1,23 @@
+group: "cococity"
+name: "samsung-apartment"
+version: "1.0.0"
+subfolder: "200-residential"
+
+assets:
+  - assetId: "cococity-samsung-apartment"
+
+info:
+  summary: "This is an old apartment in Korea."
+  description: > 
+    R$ 7x3
+    Capacity Satisfied 4112 / 3212
+    Stage 4
+    Landmark
+  author: "CocoCity"
+  website: "https://community.simtropolis.com/files/file/36495-coco-samsung-apartment/"
+
+---
+assetId: "cococity-samsung-apartment"
+version: "1.0.0"
+lastModified: "2024-10-09T02:24:22Z"
+url: "https://community.simtropolis.com/files/file/36495-coco-samsung-apartment/?do=download"
