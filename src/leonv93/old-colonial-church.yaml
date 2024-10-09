@@ -1,0 +1,18 @@
+group: "leonv93"
+name: "old-colonial-church"
+version: "1.0.0"
+subfolder: "650-religion"
+
+assets:
+- assetId: "leonv93-old-colonial-church"
+
+info:
+  summary: "Landmark; Large Colonial Church"
+  author: "leonv93"
+  website: "https://community.simtropolis.com/files/file/36478-old-colonial-church/"
+
+---
+assetId: "leonv93-old-colonial-church"
+version: "1.0.0"
+lastModified: "2024-09-30T00:34:46Z"
+url: "https://community.simtropolis.com/files/file/36478-old-colonial-church/?do=download"
