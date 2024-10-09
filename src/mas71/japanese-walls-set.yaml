@@ -1,0 +1,20 @@
+group: "mas71"
+name: "japanese-walls-set"
+version: "1.0"
+subfolder: "150-mods"
+
+assets:
+- assetId: "mas71-japanese-walls-set"
+  include:
+  - "/JPN_Walls_All-Design/"
+
+info:
+  summary: "I made simple LOTs set that designed with \"Jpanaese popular walls\"."
+  author: "Mas71"
+  website: "https://community.simtropolis.com/files/file/17875-japanese-walls-set/"
+
+---
+assetId: "mas71-japanese-walls-set"
+version: "1.0"
+lastModified: "2007-03-16T14:00:50Z"
+url: "https://community.simtropolis.com/files/file/17875-japanese-walls-set/?do=download"
