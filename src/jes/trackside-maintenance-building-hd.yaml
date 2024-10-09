@@ -1,0 +1,42 @@
+group: "jes"
+name: "trackside-maintenance-building-hd"
+version: "1.0.0"
+subfolder: "300-commercial"
+
+assets:
+- assetId: "jes-trackside-maintenance-building-hd"
+
+dependencies:
+- "bsc:vip-girafe-carpack-vol03"
+- "girafe:berries"
+- "girafe:feather-grass"
+- "bsc:bat-props-jes-vol10"
+- "bsc:bat-props-jes-vol11"
+- "bsc:bat-props-jes-vol12"
+- "jes:resource-pack-vol27"
+
+info:
+  summary: "Here you have a simple building in two versions usable in a variety of ways. It comes as a CS$1 growable and ploppable."
+  description: >
+    Lot Size:         3x1 Tiles
+    Building style(s):     Building: Commercial, Building: CS$
+    Growth stage:     1
+    Menu position:     Landmarks [Ploppable]
+    Occupants:     CS$ - 35
+    Bulldoze cost:     $143
+    Building Value:     $268
+    Construction Time:     14 days
+    Max. Fire Stage:     2
+    Power consumption:     1 MWh/month
+    Water consumption:     9 Gallons/month
+    Air pollution:     1 over 5 tiles
+    Water pollution:     1 over 5 tiles
+    Garbage pollution:     4 over 0 tiles
+  author: "jestarr"
+  website: "https://community.simtropolis.com/files/file/36460-trackside-maintenance-building_hd/"
+
+---
+assetId: "jes-trackside-maintenance-building-hd"
+version: "1.0.0"
+lastModified: "2024-09-21T23:08:14Z"
+url: "https://community.simtropolis.com/files/file/36460-trackside-maintenance-building_hd/?do=download"
