@@ -1,0 +1,45 @@
+group: "jes"
+name: "jones-bros-hd"
+version: "1.0.0"
+subfolder: "300-commercial"
+
+assets:
+- assetId: "jes-jones-bros-hd"
+
+dependencies:
+- "bsc:vip-girafe-carpack-vol01-vol02"
+- "bsc:vip-girafe-carpack-vol03"
+- "bsc:vip-girafe-carpack-vol04"
+- "bsc:textures-vol02"
+- "girafe:oaks"
+- "girafe:ashes"
+- "bsc:bat-props-jes-vol10"
+- "bsc:bat-props-jes-vol12"
+- "bsc:bat-props-jes-vol13"
+- "jes:resource-pack-vol27"
+
+info:
+  summary: "Here you have Jones Bros. A simple commercial lot in HD. It comes as a CS$1 and as a plop."
+  description: >
+    Lot size:     2x2 tiles
+    Building style(s):     Building: Commercial, Building: CS$
+    Growth stage:     1
+    Menu position:     Landmarks [Ploppable Version]
+    Occupants:     15 CS$
+    Bulldoze cost:     $103
+    Building Value:     $114
+    Construction Time:     10 days
+    Max. Fire Stage:     2
+    Power consumption:     1 MWh/month
+    Water consumption:     5 Gallons/month
+    Air pollution:     1 over 5 tiles
+    Water pollution:     1 over 5 tiles
+    Garbage pollution:     4 over 0 tiles
+  author: "jestarr"
+  website: "https://community.simtropolis.com/files/file/36451-jones-bros-hd/"
+
+---
+assetId: "jes-jones-bros-hd"
+version: "1.0.0"
+lastModified: "2024-09-15T17:50:44Z"
+url: "https://community.simtropolis.com/files/file/36451-jones-bros-hd/?do=download"
