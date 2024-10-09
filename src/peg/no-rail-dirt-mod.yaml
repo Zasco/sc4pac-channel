@@ -1,0 +1,26 @@
+group: "peg"
+name: "no-rail-dirt-mod"
+version: "1.0"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "peg-mountain-trail-rail-crossing"
+  include:
+  - "/SWAMPER-PEG_NoRailDirt_MOD_205.dat"
+
+info:
+  summary: "As is pictured above, the No Rail Dirt Mod eliminates the dirt texture under the railway tracks..."
+  description: >
+    However, with the game's default "dirt" underlying the rail road tracks everywhere in the game, there was no way to get this lot to look quite right. Thus spawned a collective effort at the support site for a means to improve the appearance of the railroad tracks.
+    The result of that collective effort, is the SWAMPER-PEG No Rail Dirt Mod, which was initially released on the STEX along with Swamper77's OneWay Railroad Crossings Mod ... and is also included in this archive. As is pictured above, the No Rail Dirt Mod eliminates the dirt texture under the railway tracks... which doesn't look bad on straight sections, but looked like chunky Hell on diagonal sections and turns and turnouts.
+    The side effect to this mod is that is also removes the underlying dirt that appears on streets adjacent to farm and landfill zones. On those tiles, between the road and the sidewalk,  the true underlying terrain (usually grass) is visible instead of the dirt. Its barely noticeable and not objectionable in appearance, but a side effect none-the-less.
+  website: "https://community.simtropolis.com/files/file/14055-peg-mtp-mountain-trail-rail-crossing/"
+
+---
+assetId: "peg-mountain-trail-rail-crossing"
+version: "1.0"
+lastModified: "2005-10-31T10:20:32Z"
+url: "https://community.simtropolis.com/files/file/14055-peg-mtp-mountain-trail-rail-crossing/?do=download"
+archiveType:
+  format: Clickteam
+  version: "20"
