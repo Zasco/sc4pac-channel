@@ -1,0 +1,26 @@
+group: "sfbt"
+name: "kenworth-commuter-stations-v2"
+version: "1.0.0"
+subfolder: "700-transit"
+
+dependencies:
+- "bsc:textures-vol01"
+- "sfbt:essentials"
+- "maxis:buildings-as-props"
+
+assets:
+- assetId: "sfbt-kenworth-commuter-stations-v2"
+
+info:
+  summary: "Five new stations with typical German appearance for urban and rural settings, with and without elevator, some with parking lots and integrated bus stop, handicap accessible, with information plates and ticket machines."
+  description: >
+    Gooooooooooong! "Attention on platform two! Now arriving Regio Runner to Leipzig Central Station! Please stand clear of the edge of platform two!" - This or something similar takes place on Germany's train stations every day. Unfortunately, the number of German train stations for SimCity was next to nonexistant. And weren't you looking for a station with elevators that can be connected to the NAM overpasses? That can be changed with this set: Five new stations with typical German appearance for urban and rural settings, with and without elevator, some with parking lots and integrated bus stop, handicap accessible, with information plates and ticket machines. The stations are designed after real-life examples around Leipzig, Germany - ideal for your cities with European flair!
+  warning: "It is highly recommended that if you previously used these lots in your cities, before you update, you must bulldoze all of these older versions and remove all instances from your plugins."
+  author: "Andreas Roth"
+  website: "https://community.simtropolis.com/files/file/36491-sfbt-kenworth-commuter-stations-v2/"
+
+---
+assetId: "sfbt-kenworth-commuter-stations-v2"
+version: "1.0.0"
+lastModified: "2024-10-08T11:37:47Z"
+url: "https://community.simtropolis.com/files/file/36491-sfbt-kenworth-commuter-stations-v2/?do=download"
