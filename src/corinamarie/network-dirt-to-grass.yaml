@@ -1,0 +1,18 @@
+group: "corinamarie"
+name: "network-dirt-to-grass"
+version: "0.07"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "corinamarie-network-dirt-to-grass"
+
+info:
+  summary: "There is one single Maxis Texture for the dirt which appears adjacent to streets, roads, and rail. I replaced that with a modified version of the R$ Grass."
+  author: "Corina Marie"
+  website: "https://community.simtropolis.com/forums/topic/65176-show-us-your-beforeafter-shots/?page=6&tab=comments#comment-1730404"
+
+---
+assetId: "corinamarie-network-dirt-to-grass"
+version: "0.07"
+lastModified: "2020-05-11T07:13:39Z"
+url: "https://community.simtropolis.com/applications/core/interface/file/attachment.php?id=57787"
