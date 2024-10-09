@@ -1,0 +1,43 @@
+group: "jes"
+name: "willis-nut-bolt-hd"
+version: "1.0.0"
+subfolder: "300-commercial"
+
+assets:
+- assetId: "jes-willis-nut-bolt-hd"
+
+dependencies:
+- "bsc:vip-girafe-carpack-vol01-vol02"
+- "bsc:vip-girafe-carpack-vol03"
+- "bsc:vip-girafe-carpack-vol04"
+- "girafe:honey-locust"
+- "bsc:bat-props-jes-vol10"
+- "bsc:bat-props-jes-vol13"
+- "bsc:bat-props-jes-vol15"
+- "jes:resource-pack-vol27"
+
+info:
+  summary: "Purveyor of nuts and bolts in various sizes and materials."
+  description: >
+    Lot size:         2x2 tiles
+    Building style(s):     Building: Commercial, Building: CS$
+    Growth stage:     3
+    Menu position:     Landmarks [Ploppable]
+    Occupants:     91 - CS$
+    Bulldoze cost:     $251
+    Building Value:     $697
+    Construction Time:     25 days
+    Max. Fire Stage:     3
+    Power consumption:     2 MWh/month
+    Water consumption:     20 Gallons/month
+    Air pollution:     1 over 5 tiles
+    Water pollution:     1 over 5 tiles
+    Garbage pollution:     4 over 0 tiles
+  author: "jestarr"
+  website: "https://community.simtropolis.com/files/file/36494-willis-nut-bolt-hd/"
+
+---
+assetId: "jes-willis-nut-bolt-hd"
+version: "1.0.0"
+lastModified: "2024-10-08T18:48:22Z"
+url: "https://community.simtropolis.com/files/file/36494-willis-nut-bolt-hd/?do=download"
