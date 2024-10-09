@@ -1,0 +1,58 @@
+group: "hugues-aroux"
+name: "walls-sets"
+version: "1.1.0"
+subfolder: "150-mods"
+
+assets:
+- assetId: "hugues-aroux-walls-sets"
+
+dependencies:
+- "mas71:japanese-walls-set"
+- "namspopof:props-pack-vol2"
+
+- "girafe:daisy"
+- "girafe:rowan-trees"
+- "girafe:feather-grass"
+- "girafe:beeches"
+- "girafe:bushes"
+- "girafe:sparaxis"
+- "girafe:hedges"
+
+- "bsc:mega-props-cp-vol01"
+- "shk:parking-pack"
+- "neko:prop-set-vol03"
+- "wmp:mega-props-vol01"
+- "peg:spot"
+
+
+info:
+  summary: "This plugin offers Lots of “Walls on Slopes” in 6 sets of textures."
+  description: >
+    This plugin offers Lots of “Walls on Slopes” in 6 sets of textures:
+    Sandstone, Granite, Brick, Concrete, Rubble and Retaining
+    (see attached illustrations).
+    Each set has around 35 pieces, it depends... of my mood. The textures adapt to the different shapes that the Terrain tiles can take. Lots are of several types:
+      Straight – 1 to 3 variations,
+      Intermediate straight (without wall, parapet or fence),
+      Stairs - (pedestrian Transit Enable) simple and double tile ramp from MAS71,
+      Diagonal Top - 1 to 4 variations of the ground,
+      Diagonal Bottom - 1 to 4 var' + L|R ends of wall pieces,
+      Inner corner,
+      Outer corner (rare that one... isn’t it!) - with L|R ends of wall,
+      Filler - to «close» a space or extend the parapet on the flat (or not) tiles,
+      Transition - joining two (textures) walls,
+      Underbridge - from the left/right for 3 terrain heights: 8, 15 and 22 m.
+    I would like to mention here the contribution of @rsc204 which offered the small, but no less essential, Prop which made it possible to manufacture the «underbridges» quickly and easily. For your pleasure .. and mine!
+    Speaking of Bridge, the Sandstone, Concrete and Retaining sets are «floodable», meaning that several pieces of this set can be placed on submerged Terrain tiles (Maxis water).
+    Speaking of water, diagonal pieces (for all sets) come with either a grassy/sidewalk half or «empty»!
+    That is to say that part of it is transparent and allows the Terrain to be seen. This implies, in a standard game situation, the appearance of the «water bug» after using the Pipes tool... Unless of course you use the solution proposed here:
+    .. Simtropolis <coris-partial-water-bug-fix> Topic ..
+    Otherwise, well... don’t use these Lots! You have been warned ;-)! 
+  author: "Hugues Aroux"
+  website: "https://community.simtropolis.com/files/file/35922-scoty-walls-sets/"
+
+---
+assetId: "hugues-aroux-walls-sets"
+version: "1.1.0"
+lastModified: "2024-01-05T11:14:10Z"
+url: "https://community.simtropolis.com/files/file/35922-scoty-walls-sets/?do=download"
