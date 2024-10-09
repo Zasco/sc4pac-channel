@@ -1,0 +1,38 @@
+group: "paeng"
+name: "maximum-security-fence"
+version: "1.0"
+subfolder: "150-mods"
+
+assets:
+- assetId: "paeng-maximum-security-fence"
+
+dependencies:
+- "peg:security-fencing-kit"
+- "bsc:mega-props-snm-vol01" # For the "SNM_SecurityFencingv2_props.dat" file.
+- "sfbt:essentials"
+- "peg:spot"
+
+info:
+  summary: "This set will make it possible to construct a double-sided perimeter fence around special industries, airports, prisons, secret facilities or anything else you want to protect."
+  description: >
+    The set has seven pieces:
+      1x1 straight
+      2x1 straight
+      1x1 outer curve
+      1x1 inner curve
+      1x1 inner gate (access to inner area)
+      3x2 main gate (eyecandy)
+      2x1 main gate (transit enabled)
+    Also included is a set of four path textures - concrete (default), asphalt, red stone and plain dirt.
+    Choose one of the textures only (or rename the one you want to use with the prefix 'z_...', i.e. 'z_asphalt.dat'). You can exchange the texture for another one any time, no need to re-plop the lots.
+    Make sure the 'keep_this_texture.dat' is installed all the time, as it contains the custom overlays.
+    Of course you can also change the path texture with anything you please using LotEditor.
+    The eyecandy gate can be used for any buildings that don't need direct road access. For all others you can use the transit enabled gate.
+  author: "paeng"
+  website: "https://community.simtropolis.com/files/file/22998-maximum-security-fence/"
+
+---
+assetId: "paeng-maximum-security-fence"
+version: "1.0"
+lastModified: "2009-12-20T23:16:57Z"
+url: "https://community.simtropolis.com/files/file/22998-maximum-security-fence/?do=download"
