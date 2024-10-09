@@ -3,6 +3,7 @@ sc4pac-channel-contents.json
 *.url
 *.lnk
 *.bat
+*.zip
 
 /gh-pages/channel/
 /sc4pac-latest/
