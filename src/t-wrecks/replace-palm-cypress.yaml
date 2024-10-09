@@ -1,0 +1,15 @@
+group: "t-wrecks"
+name: "replace-palm-cypress"
+version: "1.0.0"
+subfolder: "180-flora"
+
+# Uses the asset defined in "t-wrecks:maxis-tree-hd-replacement-mod".
+assets:
+- assetId: "maxis-tree-hd-replacement-base-pack"
+  include:
+  - "/Maxis Tree HD Replacement_PalmsToCypresses.dat"
+
+info:
+  summary: "Replacement of palm trees by cypresses"
+  author: "T Wrecks"
+  website: "https://community.simtropolis.com/files/file/31898-maxis-tree-hd-replacement-mod/"
