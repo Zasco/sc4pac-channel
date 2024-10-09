@@ -1,0 +1,25 @@
+group: "sfbt"
+name: "khiyana-bus-stops"
+version: "1.0.0"
+subfolder: "700-transit"
+
+dependencies:
+- "sfbt:essentials"
+
+assets:
+- assetId: "sfbt-khiyana-bus-stops"
+
+info:
+  summary: "Yet another small detail that makes SimCity 4 even more realistic: two simple, slightly run down bus stops, like they can be found everywhere in Germany and the rest of the world."
+  description: >
+    The download includes two different lots, one that has some grass behind the shelter, and an urban version with the standard sidewalk texture. Both the bus stop shelters and the signs are prop families, so each bus stop will look a bit different when plopped. The stats are comparable to the in-game bus stop, but the capacity is three times as high, so you can use these lots also in a dense development, such as a Plattenbau quarter.
+    All stations have been updated for the latest NAM/MTA capacity/TSEC standards. Submenu support has been added as well.
+    The bus stops are located in the "Misc Transportation" menu.
+  author: "Andreas Roth, Khiyana"
+  website: "https://community.simtropolis.com/files/file/36493-sfbt-khiyana-bus-stops/"
+
+---
+assetId: "sfbt-khiyana-bus-stops"
+version: "1.0.0"
+lastModified: "2024-10-08T11:56:33Z"
+url: "https://community.simtropolis.com/files/file/36493-sfbt-khiyana-bus-stops/?do=download"
