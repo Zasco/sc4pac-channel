@@ -1,0 +1,54 @@
+group: "jasoncw"
+name: "innovation-center"
+version: "1.0.0"
+subfolder: "400-industrial"
+
+variants:
+- variant: {nightmode: "standard", "jasoncw:innovation-center:multiplier": "1"}
+  assets:
+  - assetId: "jasoncw-innovation-center-mn"
+    exclude:
+    - '/Jasoncw - Innovation Center - Grow - 4x Jobs (IHT$$$5_4x4).SC4Lot'
+
+- variant: {nightmode: "standard", "jasoncw:innovation-center:multiplier": "4"}
+  assets:
+  - assetId: "jasoncw-innovation-center-mn"
+    exclude:
+    - '/Jasoncw - Innovation Center - Grow (IHT$$$5_4x4).SC4Lot'
+
+
+- variant: {nightmode: "dark", "jasoncw:innovation-center:multiplier": "1"}
+  assets:
+  - assetId: "jasoncw-innovation-center-dn"
+    exclude:
+    - '/Jasoncw - Innovation Center - Grow - 4x Jobs (IHT$$$5_4x4).SC4Lot'
+    dependencies:
+    - "simfox:day-and-nite-mod"
+
+- variant: {nightmode: "dark", "jasoncw:innovation-center:multiplier": "4"}
+  assets:
+  - assetId: "jasoncw-innovation-center-dn"
+    exclude:
+    - '/Jasoncw - Innovation Center - Grow (IHT$$$5_4x4).SC4Lot'
+    dependencies:
+    - "simfox:day-and-nite-mod"
+
+info:
+  summary: "The Innovation Center is a facility at the Pontifical Catholic University of Chile, where business can collaborate with researchers."
+  description: >
+    It comes to the game as a high tech industrial. 
+    There's a x4 jobs version, and a normal version. Don't use both at the same time (delete the one you don't need).
+  author: " Jasoncw"
+  website: "https://community.simtropolis.com/files/file/36496-innovation-center/"
+
+---
+assetId: "jasoncw-innovation-center-mn"
+version: "1.0.0"
+lastModified: "2024-10-10T03:05:13Z"
+url: "https://community.simtropolis.com/files/file/36496-innovation-center/?do=download&r=203813"
+
+---
+assetId: "jasoncw-innovation-center-dn"
+version: "1.0.0"
+lastModified: "2024-10-10T03:05:13Z"
+url: "https://community.simtropolis.com/files/file/36496-innovation-center/?do=download&r=203814"
