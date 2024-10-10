@@ -1,9 +1,11 @@
 /metadata/
-sc4pac-channel-contents.json
-*.url
-*.lnk
-*.bat
-*.zip
+/sc4pac-channel-contents.json
+/*.lnk
+/*.bat
+
+/src/**/*
+!/src/*/
+!/src/*/*.yaml
 
 /gh-pages/channel/
 /sc4pac-latest/
