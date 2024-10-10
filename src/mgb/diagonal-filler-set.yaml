@@ -1,0 +1,38 @@
+group: "mgb"
+name: "diagonal-filler-set"
+version: "2.2"
+subfolder: "150-mods"
+
+assets:
+- assetId: "mgb-diagonal-filler-set"
+
+dependencies:
+- "sfbt:essentials"
+#- "mas71:walls-pack-2"
+
+info:
+  summary: "Far too long in the works, but finally here, is version 2 of my Filler Set."
+  description: >
+    Used together, this set of lots can provide a powerful set of tools to deal with the diagonal jaggies problem and help to create more visually pleasing areas. The basic filler lots are texture-based and intended to transition cleanly between Sidewalks, Grass & Concrete textures. Sometimes though, we want to fill half a tile or an unsightly gap, which such fillers alone can't handle. Due to game limitations, a lot can either be fully transparent or completely show a texture. If you try to use partial transparency, the water bug appears, which is both ugly and annoying. Overhanging Lots can help here, because they do not use textures, but models that display them. So we can use transparency and/or extend textures beyond the boundaries of the lots they are upon. The main downside is that such models aren't very slope tolerant.
+    During install, you can choose which types, if any, of overhanging fillers to install. Note that different textures include different pieces, I've tried to balance flexibility whilst being mindful of the number of menu items. Each sidewalk variant has 8 lots, grass comes with 5 and all others just 2. But, I think for most users that will cover the bulk of situations you will really need. Find all installed lots at the top of your Parks Menu. The Extender options are as follows:
+    Lotters/Tinkerers will find 156 props to play with, 13 for each of the 12 supported textures. So if you are willing to make some lots, it's possible to have every prop type for every network. But that wasn't something I felt I wanted to do for various reasons. The complete package runs to 60-ish lots already too, you have to stop somewhere.
+    Included are the following options, which can be selected from the installer of this download:
+    Diagonal Filler Lots
+    Like the v1 release, but with many updates/tweaks and a few new lots. All lots are sidewalk adaptable and supported by TGN.
+    Overhanging Filler Lots
+    Using S3D / RTK0 Props, here is a very flexible set of Lots and Props, which unlike traditional BAT models, are not fixed in terms of the textures upon them. AutoMagically™ certified, most of these props will simply adapt to your installed texture choices. Some will require overriding included textures to adapt, but this is still a new level of flexibility for such items. Lots for the following networks are included:
+      Sidewalks (all wealths)
+      Rural / Dirt (used for Rail/I-AG zoning)
+      Grass (all wealths)
+      Concrete (I-M & I-HT)
+      Pedmalls (Cobble, Red Brick & Sandstone)
+    Overrides for Paeng's Mods
+    Extenders for Paeng's Parks, Bikepaths and overhanging models made by Krashspeed, which were used in various releases by Paeng. See this post for a more complete explanation and links to those files. Installing these will convert existing and new lots from the fixed models to my adaptable set instead. Allowing sidewalks, grass and other elements to be customised like never before.
+  author: "rsc204"
+  website: "https://community.simtropolis.com/files/file/29797-mgb-diagonal-filler-set/"
+
+---
+assetId: "mgb-diagonal-filler-set"
+version: "2.2"
+lastModified: "2019-07-06T11:15:55Z"
+url: "https://community.simtropolis.com/files/file/29797-mgb-diagonal-filler-set/?do=download"
