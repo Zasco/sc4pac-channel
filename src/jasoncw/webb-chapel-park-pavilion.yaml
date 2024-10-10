@@ -1,0 +1,35 @@
+group: "jasoncw"
+name: "webb-chapel-park-pavilion"
+version: "1.0.0"
+subfolder: "660-parks"
+
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "jasoncw-webb-chapel-park-pavilion-mn"
+
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "jasoncw-webb-chapel-park-pavilion-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+info:
+  summary: "Webb Chapel Park Pavilion is a picnic shelter located in Webb Chapel Park, in Dallas, Texas, USA."
+  description: >
+    Along the pavilion is a grassy mound which can be used for play or for seating. 
+    It can be found near the end of your parks menu.
+  author: " Jasoncw"
+  website: "https://community.simtropolis.com/files/file/36497-webb-chapel-park-pavilion/"
+
+---
+assetId: "jasoncw-webb-chapel-park-pavilion-mn"
+version: "1.0.0"
+lastModified: "2024-10-10T03:08:05Z"
+url: "https://community.simtropolis.com/files/file/36497-webb-chapel-park-pavilion/?do=download&r=203817"
+
+---
+assetId: "jasoncw-webb-chapel-park-pavilion-dn"
+version: "1.0.0"
+lastModified: "2024-10-10T03:08:05Z"
+url: "https://community.simtropolis.com/files/file/36497-webb-chapel-park-pavilion/?do=download&r=203818"
