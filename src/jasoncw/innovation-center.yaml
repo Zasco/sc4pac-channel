@@ -8,20 +8,20 @@ variants:
   assets:
   - assetId: "jasoncw-innovation-center-mn"
     exclude:
-    - '/Jasoncw - Innovation Center - Grow - 4x Jobs (IHT$$$5_4x4).SC4Lot'
+    - '/Jasoncw - Innovation Center - Grow - 4x Jobs \(IHT\$\$\$5_4x4\).SC4Lot'
 
 - variant: {nightmode: "standard", "jasoncw:innovation-center:multiplier": "4"}
   assets:
   - assetId: "jasoncw-innovation-center-mn"
     exclude:
-    - '/Jasoncw - Innovation Center - Grow (IHT$$$5_4x4).SC4Lot'
+    - '/Jasoncw - Innovation Center - Grow \(IHT\$\$\$5_4x4\).SC4Lot'
 
 
 - variant: {nightmode: "dark", "jasoncw:innovation-center:multiplier": "1"}
   assets:
   - assetId: "jasoncw-innovation-center-dn"
     exclude:
-    - '/Jasoncw - Innovation Center - Grow - 4x Jobs (IHT$$$5_4x4).SC4Lot'
+    - '/Jasoncw - Innovation Center - Grow - 4x Jobs \(IHT\$\$\$5_4x4\).SC4Lot'
   dependencies:
   - "simfox:day-and-nite-mod"
 
@@ -29,7 +29,7 @@ variants:
   assets:
   - assetId: "jasoncw-innovation-center-dn"
     exclude:
-    - '/Jasoncw - Innovation Center - Grow (IHT$$$5_4x4).SC4Lot'
+    - '/Jasoncw - Innovation Center - Grow \(IHT\$\$\$5_4x4\).SC4Lot'
   dependencies:
   - "simfox:day-and-nite-mod"
 
