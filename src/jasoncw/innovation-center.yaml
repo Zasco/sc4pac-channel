@@ -33,6 +33,11 @@ variants:
   dependencies:
   - "simfox:day-and-nite-mod"
 
+variantDescriptions:
+  "jasoncw:innovation-center:multiplier":
+    "1": "1x jobs multiplier."
+    "4": "4x jobs multiplier."
+
 info:
   summary: "The Innovation Center is a facility at the Pontifical Catholic University of Chile, where business can collaborate with researchers."
   description: >
