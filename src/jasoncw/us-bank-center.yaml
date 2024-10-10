@@ -1,0 +1,61 @@
+group: "jasoncw"
+name: "us-bank-center"
+version: "1.1"
+subfolder: "300-commercial"
+
+# TO DO : Add CO$$ and CO$$$ variants...
+variants:
+- variant: {nightmode: "standard", "jasoncw:us-bank-center:sign": "true"}
+  assets:
+  - assetId: "jasoncw-us-bank-center-mn"
+
+- variant: {nightmode: "dark", "jasoncw:us-bank-center:sign": "true"}
+  assets:
+  - assetId: "jasoncw-us-bank-center-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+
+- variant: {nightmode: "standard", "jasoncw:us-bank-center:sign": "false"}
+  assets:
+  - assetId: "jasoncw-us-bank-center-mn"
+    exclude:
+    - '/Jasoncw - US Bank Center - Sign \(MN\).dat'
+
+- variant: {nightmode: "dark", "jasoncw:us-bank-center:sign": "false"}
+  assets:
+  - assetId: "jasoncw-us-bank-center-dn"
+    exclude:
+    - '/Jasoncw - US Bank Center - Sign \(DN\).dat'
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+variantDescriptions:
+  "jasoncw:us-bank-center:sign":
+    "true": "US Bank sign is displayed."
+    "false": "US Bank sign is hidden."
+
+info:
+  summary: "US Bank Center, located in the city of Milwaukee, was completed in 1973 and was designed by Bruce Graham of SOM."
+  description: >
+    The building was originally built for First Wisconsin National Bank. Today it is named after US Bank, which First Wisconsin National Bank acquired in 2001.
+    5x10 and 10x5 growables. 5x10 ploppable.
+    CO§§ and CO§§§.
+    The US Bank sign is optional. Remove "Jasoncw - US Bank Center - Sign (XN).dat" to remove the sign.
+    The ploppable lot is transit enabled. The growable lots have a plaza in that space.
+  author: "Jasoncw"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_02/template---new-secondary-image.jpg.20c67e9cf08312adbfedad721f8d5901.jpg"
+  website: "https://community.simtropolis.com/files/file/26920-us-bank-center/"
+
+---
+assetId: "jasoncw-us-bank-center-mn"
+version: "1.1"
+lastModified: "2024-10-10T03:24:40Z"
+url: "https://community.simtropolis.com/files/file/26920-us-bank-center/?do=download&r=203821"
+
+---
+assetId: "jasoncw-us-bank-center-dn"
+version: "1.1"
+lastModified: "2024-10-10T03:24:40Z"
+url: "https://community.simtropolis.com/files/file/26920-us-bank-center/?do=download&r=203822"
