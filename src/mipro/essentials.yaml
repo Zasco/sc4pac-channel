@@ -1,0 +1,18 @@
+group: "mipro"
+name: "essentials"
+version: "2019-01"
+subfolder: "100-props-textures"
+
+assets:
+  - assetId: "mipro-essentials"
+
+info:
+  summary: "This upload contains queries, props, and textures for current and future mipro uploads."
+  author: "mipro"
+  website: "https://community.simtropolis.com/files/file/29130-mipro-essentials/"
+
+---
+assetId: "mipro-essentials"
+version: "2019-01"
+lastModified: "2019-02-01T00:17:55Z"
+url: "https://community.simtropolis.com/files/file/29130-mipro-essentials/?do=download&r=174514"
