@@ -38,14 +38,7 @@ subfolders = r"""
 # versions would otherwise fail and if there is a reason why the versions
 # differ.
 ignore_version_mismatches = set([
-    "vortext:vortexture-1",
-    "vortext:vortexture-2",
-    "t-wrecks:industrial-revolution-mod-addon-set-i-d",
-    "memo:industrial-revolution-mod",
-    "bsc:mega-props-jrj-vol01",
-    "bsc:mega-props-diggis-canals-streams-and-ponds",
-    "bsc:mega-props-rubik3-vol01-wtc-props",
-    "bsc:mega-props-newmaninc-rivers-and-ponds",
+    "t-wrecks:replace-palm-cypress",
 ])
 
 unique_strings = {
