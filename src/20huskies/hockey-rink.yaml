@@ -1,0 +1,25 @@
+group: "20huskies"
+name: "hockey-rink"
+version: "1.0.0"
+subfolder: "660-parks"
+
+assets:
+- assetId: "20huskies-hockey-rink"
+
+info:
+  summary: "In the northern climates, where snow can cover a field or a court, athletes take to the ice."
+  description: >
+    Stats:
+      Lot Size: 1x2
+      Plop Cost (maintenance): 17 (15)
+      Pollution: -1,-1,1,0 @ 2,2,1,0
+      Power: 3
+      Water 1
+  author: "20huskies"
+  website: "https://community.simtropolis.com/files/file/34971-hockey-rink/"
+
+---
+assetId: "20huskies-hockey-rink"
+version: "1.0.0"
+lastModified: "2022-03-05T21:04:16Z"
+url: "https://community.simtropolis.com/files/file/34971-hockey-rink/?do=download"
