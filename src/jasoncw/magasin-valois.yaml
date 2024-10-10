@@ -1,0 +1,35 @@
+group: "jasoncw"
+name: "magasin-valois"
+version: "1.0.0"
+subfolder: "300-commercial"
+
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "jasoncw-magasin-valois-mn"
+
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "jasoncw-magasin-valois-dn"
+    dependencies:
+    - "simfox:day-and-nite-mod"
+
+dependencies:
+- "mipro:essentials"
+
+info:
+  summary: "Magasin Valois, the brand only the most fashionable high wealth sims wear."
+  author: " Jasoncw"
+  website: "https://community.simtropolis.com/files/file/36465-magasin-valois/"
+
+---
+assetId: "jasoncw-magasin-valois-mn"
+version: "1.0.0"
+lastModified: "2024-09-25T23:56:22Z"
+url: "https://community.simtropolis.com/files/file/36465-magasin-valois/?do=download&r=203589"
+
+---
+assetId: "jasoncw-magasin-valois-dn"
+version: "1.0.0"
+lastModified: "2024-09-25T23:56:22Z"
+url: "https://community.simtropolis.com/files/file/36465-magasin-valois/?do=download&r=203590"
