@@ -1,0 +1,32 @@
+group: "zasco"
+name: "mapart-style-regional-transportation-map"
+version: "1.0.0"
+subfolder: "900-overrides"
+
+variants:
+- variant: {maxis.sc4.ui.style.id: "maxis.default"}
+  assets:
+  - assetId: "zasco-mapart-themed-regional-transportation-map"
+    include:
+    - "/Zasco - MapArt style regional transportation map_vanilla.dat"
+
+- variant: {maxis.sc4.ui.style.id: "hugues-aroux.blue-skin"}
+  assets:
+  - assetId: "zasco-mapart-themed-regional-transportation-map"
+    include:
+    - "/Zasco - MapArt style regional transportation map_blue-skin.dat"
+
+info:
+  summary: "This mod improves the regional transportation map with more networks displayed and improved colors/icons."
+  description: >
+    The color palette is taken from MapArt and was inspired by this mapping tutorial.
+    There is currently two style available for the legend's frame : Vanilla and @hugues aroux's UI Blue Skin. Simply chose and install the right file.
+    Please ensure this mod is loaded after the NAM and any other mod that might change the regional transportation map settings.
+  author: "Zasco"
+  website: "https://community.simtropolis.com/files/file/35400-mapart-style-regional-transportation-map/"
+
+---
+assetId: "zasco-mapart-themed-regional-transportation-map"
+version: "1.0.0"
+lastModified: "2023-01-07T17:18:59Z"
+url: "https://community.simtropolis.com/files/file/35400-mapart-style-regional-transportation-map/?do=download"
