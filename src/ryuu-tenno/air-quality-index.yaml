@@ -1,0 +1,24 @@
+group: "ryuu-tenno"
+name: "air-quality-index"
+version: "1.0.1"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "ryuu-tenno-air-quality-index"
+
+info:
+  summary: "This is an Air Pollution data view mod, that utilizes the US National Weather Service's Air Quality Index colors."
+  description: >
+    It seems that Maxis had already incorporated much of the information involved with it, as I've seen the pollution brackets for each of the data view legend colors, and it matches up extraordinarily closely to that of what the AQI has established. I had this idea after the Canadian wildfires began affecting the southeastern US, and looked up what the acceptable limits are (somewhere in yellow, and low orange), and figured this would make for a great mod.
+    Took me a few hours to put this together with a bit of experimentation (and exploration as I kept breaking the mod trying to get parts of it to work properly, lol), but well worth it, imo. In the image above, you'll see that there's a weird green "halo" around various areas in the city (I used the Big City Tutorial for the test), and these are where pollution's beginning to build up, but is not yet at a concerning level. After finding out that there were 11 (eleven) levels for colors I had to work through different color mixes until I got to an acceptable combination. Adding to that, I found out that the lowest level was completely transparent, and discovered this by accident, when I loaded it up, and found that it didn't show up in the same way. I personally like this feature, so, I've left it in as a result.
+    I'm still having trouble with getting a good shade of orange with it, but I may need to change out a neighboring shade for it. If I can get a better shade (orange or yellow), I'll likely upload an updated version. It's compressed into a 7zip file, same as my Maxis Bay region upload (and I don't think I labeled it as such, sorry D: ), so use an appropriate unzip program.
+    This mod should work without trouble, though if you've got any other air pollution data view mods, this will likely conflict with them, so, choose one to use at a time. I think the colors used here can actually help to better identify problem spots.
+    All feedback is welcome! (Especially in regards to the orange and yellow, :lol:)
+  author: "Ryuu Tenno"
+  website: "https://community.simtropolis.com/files/file/35580-air-quality-index/"
+
+---
+assetId: "ryuu-tenno-air-quality-index"
+version: "1.0.1"
+lastModified: "2024-10-11T06:17:33Z"
+url: "https://community.simtropolis.com/files/file/35580-air-quality-index/?do=download"

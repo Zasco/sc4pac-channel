@@ -1,0 +1,25 @@
+group: "ryuu-tenno"
+name: "water-pollution-index"
+version: "1.0.1"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "ryuu-tenno-water-pollution-index"
+
+info:
+  summary: "This is a Water Pollution data view mod, that works much the same as my Air Quality Index mod."
+  description: >
+    This is a Water Pollution data view mod, that works much the same as my Air Quality Index mod.
+    When messing around with the AQI mod in a few of my cities, I realized that it could also be useful for the water pollution, and mentioned that I was thinking about making this mod, over in the SC4D/E discord server. Someone there mentioned they'd love to have it for the water pollution view, and I told them I'd make it when I got home after work.
+    Now, everyone can enjoy it! It uses the same color options that are used in the AQI data view mod, however, I did adjust the shade of orange used, and it does seem to show up a bit better.
+    This is also the quickest mod I've done so far while using iLives Reader (I've done others but as they're not yet complete they've not been posted for use).
+    Same as before, it should run out the box, and will likely conflict with any other water pollution data view mods, so make sure this is the only one in your list or you may have issues.
+    I also used the same test city of Big City Tutorial from the Maxis default Timbuktu region. And due to the levels and colors involved, they look extraordinarily similar. Please note however, that while you can use this mod alongside my AQI mod, you can use it independently as well, and thus not have to worry about the near identical views in some cities.
+  author: "Ryuu Tenno"
+  website: "https://community.simtropolis.com/files/file/35581-water-pollution-index/"
+
+---
+assetId: "ryuu-tenno-water-pollution-index"
+version: "1.0.1"
+lastModified: "2024-10-11T06:25:18Z"
+url: "https://community.simtropolis.com/files/file/35581-water-pollution-index/?do=download"

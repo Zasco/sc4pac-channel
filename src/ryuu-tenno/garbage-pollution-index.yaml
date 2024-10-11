@@ -1,0 +1,22 @@
+group: "ryuu-tenno"
+name: "garbage-pollution-index"
+version: "1.0.0"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "ryuu-tenno-garbage-pollution-index"
+
+info:
+  summary: "Much like the other two Data Views I've uploaded, this one uses the same 6 colors to chart the amount of garbage within your city."
+  description: >
+    Rounding out the common trio of pollution types, this one helps to show the different levels of garbage in much the same way as my previous Air Quality Index, and Water Pollution Index.
+    Much like the other two Data Views I've uploaded, this one uses the same 6 colors to chart the amount of garbage within your city. However, when trash does begin to pile up, it'll be a bit more subtle to see, as the green has a tendency to blend in with the grass (with Maxis default terrain textures).
+    Not only have the colors changed for the amounts, but I've also included an update to the sanitation lots. They will now show up as blue, to help keep them separate from the rest of the chart. In this way, they will be considerably easier to spot, and to see if there may be any issues involved with the trash making it's way to the disposal facilities. 
+  author: "Ryuu Tenno"
+  website: "https://community.simtropolis.com/files/file/36498-garbage-pollution-index/"
+
+---
+assetId: "ryuu-tenno-garbage-pollution-index"
+version: "1.0.0"
+lastModified: "2024-10-11T06:04:26Z"
+url: "https://community.simtropolis.com/files/file/36498-garbage-pollution-index/?do=download"
