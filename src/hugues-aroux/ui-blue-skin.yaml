@@ -1,0 +1,21 @@
+group: "hugues-aroux"
+name: "ui-blue-skin"
+version: "1.2"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "hugues-aroux-ui-blue-skin"
+
+info:
+  summary: "If your favorite color is green, look away from this skin, because there is ... blue!"
+  description: >
+    Nothing really extraordinary, just a slight remodeling of the original skin. New icons but in the spirit of the original. Pretty much! The idea is not to change everything, but just not to have that pale blue-gray!
+    The interface support for DAMN Manager, overloading its icons. As well as the God terraforming Mod .. If you do not use this plugin, delete the [ z__scoty_blue-skin_God_Mod.dat ] file from the directory.
+  author: "Hugues Aroux"
+  website: "https://community.simtropolis.com/files/file/33048-ui-blue-skin/"
+
+---
+assetId: "hugues-aroux-ui-blue-skin"
+version: "1.2"
+lastModified: "2023-04-23T13:59:16Z"
+url: "https://community.simtropolis.com/files/file/33048-ui-blue-skin/?do=download"

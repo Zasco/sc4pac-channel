@@ -1,0 +1,27 @@
+group: "hugues-aroux"
+name: "ui-carbon-skin"
+version: "1.0.0"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "hugues-aroux-ui-carbon-skin"
+
+info:
+  summary: "This Mod replaces the SC4 interface. Its dominant colors are Anthracite and Gray."
+  description: >
+    More than a simple graphic layer, CarbonSkin offers light retouching, corrections and repositioning of interface objects. Also slight adjustments to fonts (+1|2 points).
+    Nothing too disruptive for this version (the next one perhaps :ooh:). And a new icon set. “old”* players will find their way there.
+    The choice of gray, rather than full anthracite, is a compromise with my original intention. It should be noted that certain «Budget» windows are generated in the EXE
+    where the text color is forced to Maxis Blue. In addition, hundreds of query windows and buttons (partially) personalized in the plugins - follow my gaze to the BSC team ;-) - retain the Maxis colors, ... !!
+    What this interface does or does not do
+    CarbonSkin doesn’t make your breakfast, even though its round head looks like a coffee maker.
+    It does not support the small screen interface (800x600), «tutorial» mode, Developer
+    mode or non-transparent mode - details below.
+  author: "Hugues Aroux"
+  website: "https://community.simtropolis.com/files/file/36149-scoty-ui-carbon-skin/"
+
+---
+assetId: "hugues-aroux-ui-carbon-skin"
+version: "1.0.0"
+lastModified: "2024-04-18T20:04:52Z"
+url: "https://community.simtropolis.com/files/file/36149-scoty-ui-carbon-skin/?do=download"
