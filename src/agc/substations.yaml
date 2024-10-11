@@ -1,0 +1,22 @@
+group: "agc"
+name: "substations"
+version: "1.0.0"
+subfolder: "500-utilities"
+
+assets:
+- assetId: "agc-substations"
+
+dependencies:
+- "agc:automobile-dlc"
+- "agc:industry-energy-telecom-dlc"
+
+info:
+  summary: "The file contains two 3x2, 3x3, 4x2 lots. The substations generate between 200 and 1600 MWh/Month."
+  author: "Barroco Hispano"
+  website: "https://community.simtropolis.com/files/file/36449-agc-substations/"
+
+---
+assetId: "agc-substations"
+version: "1.0.0"
+lastModified: "2024-09-13T22:22:01Z"
+url: "https://community.simtropolis.com/files/file/36449-agc-substations/?do=download"
