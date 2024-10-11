@@ -13,6 +13,12 @@ This repository contains all the metadata of packages contained in my custom [*s
 ## Channel features
 This channel will (try to) cover most of the latest [**STEX**](https://community.simtropolis.com/files) releases. The channel **URL** is `https://zasco.github.io/sc4pac-channel/channel`.
 
+### List of packages
+No dynamic package list like the one for the default channel is currently provided. To know which packages are part of this channel, head to it's [file browser](https://github.com/Zasco/sc4pac-channel/tree/master/src).
+
 ## Installation
 To add this channel to your *sc4pac* sources, simply use the command:
 `sc4pac channel add "https://zasco.github.io/sc4pac-channel/channel"`
+
+## Credits
+Many thanks to [*memo33*](https://github.com/memo33) who helped me setup this channel.
