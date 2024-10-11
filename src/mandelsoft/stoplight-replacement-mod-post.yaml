@@ -4,50 +4,50 @@ version: "1.1"
 subfolder: "150-mods"
 
 variants:
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "france"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "france"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_France/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "germany"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "germany"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_Germany/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "maxisesque"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "maxisesque"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_Maxisesque/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "simple-angled"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "simple-angled"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_SimpleAngled/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "simple-curved"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "simple-curved"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_SimpleCurved/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "sweden"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "sweden"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_Sweden/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "netherlands"}
+- variant: {"mandelsoft:stoplight-replacement-mod:post": "netherlands"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/StoplightPosts_TheNetherlands/"
 
 variantDescriptions:
-  "mandelsoft:stoplight-replacement-mod-layout:post":
+  "mandelsoft:stoplight-replacement-mod:post":
     "france": "France posts."
     "germany": "Germany posts."
     "maxisesque": "Maxisesque posts."

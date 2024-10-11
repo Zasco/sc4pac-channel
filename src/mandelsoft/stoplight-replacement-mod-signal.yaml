@@ -4,111 +4,111 @@ version: "1.1"
 subfolder: "150-mods"
 
 variants:
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "generic", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "generic", "mandelsoft:stoplight-replacement-mod:signal.size": "small"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Generic_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "generic", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "generic", "mandelsoft:stoplight-replacement-mod:signal.size": "large"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Generic_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "germany", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small", "mandelsoft:stoplight-replacement-mod-layout:signal.panel": "false"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "germany", "mandelsoft:stoplight-replacement-mod:signal.size": "small", "mandelsoft:stoplight-replacement-mod:signal.panel": "false"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Germany_NoPanel_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "germany", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large", "mandelsoft:stoplight-replacement-mod-layout:signal.panel": "false"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "germany", "mandelsoft:stoplight-replacement-mod:signal.size": "large", "mandelsoft:stoplight-replacement-mod:signal.panel": "false"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Germany_NoPanel_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "germany", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small", "mandelsoft:stoplight-replacement-mod-layout:signal.panel": "true"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "germany", "mandelsoft:stoplight-replacement-mod:signal.size": "small", "mandelsoft:stoplight-replacement-mod:signal.panel": "true"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Germany_Panel_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "germany", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large", "mandelsoft:stoplight-replacement-mod-layout:signal.panel": "true"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "germany", "mandelsoft:stoplight-replacement-mod:signal.size": "large", "mandelsoft:stoplight-replacement-mod:signal.panel": "true"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Germany_Panel_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "scandinavia", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "scandinavia", "mandelsoft:stoplight-replacement-mod:signal.size": "small"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Scandinavia_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "scandinavia", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "scandinavia", "mandelsoft:stoplight-replacement-mod:signal.size": "large"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_Scandinavia_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "netherlands", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "netherlands", "mandelsoft:stoplight-replacement-mod:signal.size": "small"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_TheNetherlands_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "netherlands", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "netherlands", "mandelsoft:stoplight-replacement-mod:signal.size": "large"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_TheNetherlands_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "uk", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "uk", "mandelsoft:stoplight-replacement-mod:signal.size": "small"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_UK_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "uk", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "uk", "mandelsoft:stoplight-replacement-mod:signal.size": "large"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_UK_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "usa", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small", "mandelsoft:stoplight-replacement-mod-layout:signal.color": "black"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "usa", "mandelsoft:stoplight-replacement-mod:signal.size": "small", "mandelsoft:stoplight-replacement-mod:signal.color": "black"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_USA_Black_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "usa", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large", "mandelsoft:stoplight-replacement-mod-layout:signal.color": "black"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "usa", "mandelsoft:stoplight-replacement-mod:signal.size": "large", "mandelsoft:stoplight-replacement-mod:signal.color": "black"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_USA_Black_Large.dat"
 
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "usa", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "small", "mandelsoft:stoplight-replacement-mod-layout:signal.color": "yellow"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "usa", "mandelsoft:stoplight-replacement-mod:signal.size": "small", "mandelsoft:stoplight-replacement-mod:signal.color": "yellow"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_USA_Yellow_Small.dat"
 
-- variant: {"mandelsoft:stoplight-replacement-mod-layout:signal.style": "usa", "mandelsoft:stoplight-replacement-mod-layout:signal.size": "large", "mandelsoft:stoplight-replacement-mod-layout:signal.color": "yellow"}
+- variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "usa", "mandelsoft:stoplight-replacement-mod:signal.size": "large", "mandelsoft:stoplight-replacement-mod:signal.color": "yellow"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/Stoplights_SignalModels_USA_Yellow_Large.dat"
 
 variantDescriptions:
-  "mandelsoft:stoplight-replacement-mod-layout:signal.style":
+  "mandelsoft:stoplight-replacement-mod:signal.style":
     "generic": "Generic signal style."
     "germany": "Germany signal style."
     "scandinavia": "Scandinavian signal style."
@@ -116,15 +116,15 @@ variantDescriptions:
     "uk": "United Kingdom signal style."
     "usa": "United States of America signal style."
   
-  "mandelsoft:stoplight-replacement-mod-layout:signal.size":
+  "mandelsoft:stoplight-replacement-mod:signal.size":
     "small": "Small signal size."
     "large": "Large signal size."
   
-  "mandelsoft:stoplight-replacement-mod-layout:signal.panel":
+  "mandelsoft:stoplight-replacement-mod:signal.panel":
     "true": "With panel."
     "false": "Without panel."
   
-  "mandelsoft:stoplight-replacement-mod-layout:signal.color":
+  "mandelsoft:stoplight-replacement-mod:signal.color":
     "black": "Black colored signal."
     "yellow": "Yellow colored signal."
 
