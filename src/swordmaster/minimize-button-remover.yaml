@@ -11,7 +11,7 @@ info:
   description: >
     Place this file anywhere in your plugins folder. The button is just invisible - it's still there so you can still click on it to bring the UI back. Otherwise, use the shortcut NumLock.
     You probably want to combine with this: Yellow pause thingy remover.
-  conflict: "zasco:minimize-button-dynamic-remover"
+  conflicts: "zasco:minimize-button-dynamic-remover"
   author: "Swordmaster"
   website: "https://community.simtropolis.com/files/file/28243-minimize-button-remover/"
 
