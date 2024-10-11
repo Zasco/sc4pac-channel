@@ -1,0 +1,18 @@
+group: "agc"
+name: "environment-dlc"
+version: "5.0.0"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "agc-environment-dlc"
+
+info:
+  summary: "This DLC will contain trees, plants, rocks, ponds and everything related to the environment."
+  author: "Barroco Hispano"
+  website: "https://community.simtropolis.com/files/file/34720-agc-environment-dlc/"
+
+---
+assetId: "agc-environment-dlc"
+version: "5.0.0"
+lastModified: "2023-06-10T16:11:53Z"
+url: "https://community.simtropolis.com/files/file/34720-agc-environment-dlc/?do=download"

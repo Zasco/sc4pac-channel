@@ -1,0 +1,32 @@
+group: "agc"
+name: "industry-energy-telecom-dlc"
+version: "1.0.0"
+subfolder: "100-props-textures"
+
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "agc-industry-energy-telecom-dlc-mn"
+
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "agc-industry-energy-telecom-dlc-dn"
+    dependencies:
+    - "simfox:day-and-nite-mod"
+
+info:
+  summary: "Industry, Energy & Telecom DLC will contain props & buildings (No lots)."
+  author: "Barroco Hispano"
+  website: "https://community.simtropolis.com/files/file/36448-agc-industry-energy-telecom-dlc/"
+
+---
+assetId: "agc-industry-energy-telecom-dlc-mn"
+version: "1.0.0"
+lastModified: "2024-09-14T12:11:15Z"
+url: "https://community.simtropolis.com/files/file/36448-agc-industry-energy-telecom-dlc/?do=download&r=203435"
+
+---
+assetId: "agc-industry-energy-telecom-dlc-dn"
+version: "1.0.0"
+lastModified: "2024-09-14T12:11:15Z"
+url: "https://community.simtropolis.com/files/file/36448-agc-industry-energy-telecom-dlc/?do=download&r=203436"

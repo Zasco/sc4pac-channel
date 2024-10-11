@@ -1,0 +1,18 @@
+group: "agc"
+name: "automobile-dlc"
+version: "7.0.0"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "agc-automobile-dlc"
+
+info:
+  summary: "Automobile DLC will contain cars, trucks, tractors and bikes."
+  author: "Barroco Hispano"
+  website: "https://community.simtropolis.com/files/file/34163-agc-automobile-dlc/"
+
+---
+assetId: "agc-automobile-dlc"
+version: "7.0.0"
+lastModified: "2024-09-13T21:11:43Z"
+url: "https://community.simtropolis.com/files/file/34163-agc-automobile-dlc/?do=download"
