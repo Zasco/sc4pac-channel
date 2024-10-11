@@ -1,0 +1,22 @@
+group: "swordmaster"
+name: "minimize-button-remover"
+version: "1.0"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "swordmaster-minimize-button-remover"
+
+info:
+  summary: "Ever wanted to take clean snapshots without the minimize button in the lower left corner?"
+  description: >
+    Place this file anywhere in your plugins folder. The button is just invisible - it's still there so you can still click on it to bring the UI back. Otherwise, use the shortcut NumLock.
+    You probably want to combine with this: Yellow pause thingy remover.
+  conflict: "zasco:minimize-button-dynamic-remover"
+  author: "Swordmaster"
+  website: "https://community.simtropolis.com/files/file/28243-minimize-button-remover/"
+
+---
+assetId: "swordmaster-minimize-button-remover"
+version: "1.0"
+lastModified: "2012-11-25T04:59:18Z"
+url: "https://community.simtropolis.com/files/file/28243-minimize-button-remover/?do=download"
