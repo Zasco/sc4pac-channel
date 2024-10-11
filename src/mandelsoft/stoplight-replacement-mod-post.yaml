@@ -1,0 +1,62 @@
+group: "mandelsoft"
+name: "stoplight-replacement-mod-post"
+version: "1.1"
+subfolder: "150-mods"
+
+variants:
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "france"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_France/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "germany"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_Germany/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "maxisesque"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_Maxisesque/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "simple-angled"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_SimpleAngled/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "simple-curved"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_SimpleCurved/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "sweden"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_Sweden/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:post": "netherlands"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/StoplightPosts_TheNetherlands/"
+
+variantDescriptions:
+  "mandelsoft:stoplight-replacement-mod-layout:post":
+    "france": "France posts."
+    "germany": "Germany posts."
+    "maxisesque": "Maxisesque posts."
+    "simple-angled": "Simple angled posts."
+    "simple-curved": "Simple curved posts."
+    "sweden": "Sweden posts."
+    "netherlands": "The Netherlands posts."
+
+info:
+  summary: "The post selection of the stoplight replacement mod."
+  author: "MandelSoft"
+  website: "https://community.simtropolis.com/files/file/27739-stoplight-replacement-mod-srm/"

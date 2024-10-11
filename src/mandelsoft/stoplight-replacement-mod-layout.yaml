@@ -1,0 +1,41 @@
+group: "mandelsoft"
+name: "stoplight-replacement-mod-layout"
+version: "1.1"
+subfolder: "150-mods"
+
+variants:
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:layout": "scandi-rhd"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/European_Scandinavia_RHD/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:layout": "eu-1-lhd"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/European_Variation1_LHD/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:layout": "eu-1-rhd"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/European_Variation1_RHD/"
+
+- variant: {"mandelsoft:stoplight-replacement-mod-layout:layout": "eu-2-rhd"}
+  assets:
+  - assetId: "mandelsoft-stoplight-replacement-mod"
+    include:
+    - "/European_Variation2_RHD/"
+
+variantDescriptions:
+  "mandelsoft:stoplight-replacement-mod-layout:layout":
+    "scandi_rhd": "Scandinavian variation / right hand drive."
+    "eu_1_lhd": "European variation 1 / left hand drive."
+    "eu_1_rhd": "European variation 1 / right hand drive."
+    "eu_2_rhd": "European variation 2 / right hand drive."
+
+info:
+  summary: "The layout selection of the stoplight replacement mod."
+  author: "MandelSoft"
+  website: "https://community.simtropolis.com/files/file/27739-stoplight-replacement-mod-srm/"

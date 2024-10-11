@@ -1,0 +1,34 @@
+group: "mandelsoft"
+name: "stoplight-replacement-mod"
+version: "1.1"
+subfolder: "150-mods"
+
+assets:
+- assetId: "mandelsoft-stoplight-replacement-mod"
+  include:
+  - "/Z_Stoplights_Exemplars_Posts.dat"
+  - "/Stoplight_Island-0x5ad0e817_0x3ce23eed_0x30000.SC4Model"
+
+dependencies:
+- "mandelsoft:stoplight-replacement-mod-layout"
+- "mandelsoft:stoplight-replacement-mod-post"
+- "mandelsoft:stoplight-replacement-mod-signal"
+
+info:
+  summary: "This mod replaces all the in-game stoplights with custom full 3D stoplights."
+  description: >
+    After almost two months of work it's finally here: the Stoplight Replacement Mod (SRM)! This mod replaces all the in-game stoplights with custom full 3D stoplights. The stoplight setups are more advanced than the standard stoplights, and all stoplight posts are rendered HD (the stoplights themselves are full 3D so automatically HD-compatible).
+    So, what does the SRM have to offer?
+      4 stoplights layout setups: 3 RHD compatible and one LHD compatible setup.
+      8 different signal models, all available in a large and small version
+      7 different stoplight post models, all rendered in HD
+      Endless ways to combine the above in different compositions, whatevery you like!
+    Please read the ReadMe for detailed installation instructions. If you still have questions or bug reports, post them at the Stoplight Replacement Mod (SRM) Support Topic
+  author: "MandelSoft"
+  website: "https://community.simtropolis.com/files/file/27739-stoplight-replacement-mod-srm/"
+
+---
+assetId: "mandelsoft-stoplight-replacement-mod"
+version: "1.1"
+lastModified: "2014-01-26T11:15:14Z"
+url: "https://community.simtropolis.com/files/file/27739-stoplight-replacement-mod-srm/?do=download"
