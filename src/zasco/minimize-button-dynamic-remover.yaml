@@ -1,0 +1,24 @@
+group: "zasco"
+name: "minimize-button-dynamic-remover"
+version: "1.0.0"
+subfolder: "900-overrides"
+
+assets:
+- assetId: "zasco-minimize-button-dynamic-remover"
+
+info:
+  summary: "This mod dynamically hides the minimize button."
+  description: >
+    Ever wanted to take clean screenshots without the "minimize button" in the lower left corner?
+    This mod is meant to be an improvement of @Swordmaster's Minimize button remover.
+    As this button is used throughout the user interface, completely removing it also removes it where it is required for navigation (ex.: the "Trip types" window). While when removed, it's still possible to click it, it is hard to find or know it's there. The improvement of this mod is that it only removes the button's "on hover" icon. This way, it only disappears when hovering it and remains visible otherwise. It also removes it's label ("Show toolbars"), but only when it is used as the toolbars' "maximizer button".
+    One simply has to hover the button while taking a screenshot to make it, momentarily, completely disappear.
+  conflicts: "swordmaster:minimize-button-remover"
+  author: "Zasco"
+  website: "https://community.simtropolis.com/files/file/35399-minimize-button-dynamic-remover/"
+
+---
+assetId: "zasco-minimize-button-dynamic-remover"
+version: "1.0.0"
+lastModified: "2023-01-07T15:08:24Z"
+url: "https://community.simtropolis.com/files/file/35399-minimize-button-dynamic-remover/?do=download"
