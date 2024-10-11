@@ -2,7 +2,7 @@ name: Sc4pac CI
 
 on:
   push:
-    branches: [ "master", "action" ]
+    branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
   workflow_dispatch:  # for manually triggering the workflow from Actions tab
