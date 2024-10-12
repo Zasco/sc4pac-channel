@@ -7,25 +7,25 @@ dependencies:
 - "mandelsoft-stoplight-replacement-mod"
 
 variants:
-- variant: {"mandelsoft:stoplight-replacement-mod:layout": "scandi-rhd"}
+- variant: {driveside: "right", "mandelsoft:stoplight-replacement-mod:layout": "scandinavian"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/European_Scandinavia_RHD/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod:layout": "eu-1-lhd"}
+- variant: {driveside: "left", "mandelsoft:stoplight-replacement-mod:layout": "eu-1"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/European_Variation1_LHD/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod:layout": "eu-1-rhd"}
+- variant: {driveside: "right", "mandelsoft:stoplight-replacement-mod:layout": "eu-1"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
     - "/European_Variation1_RHD/"
 
-- variant: {"mandelsoft:stoplight-replacement-mod:layout": "eu-2-rhd"}
+- variant: {driveside: "right", "mandelsoft:stoplight-replacement-mod:layout": "eu-2"}
   assets:
   - assetId: "mandelsoft-stoplight-replacement-mod"
     include:
@@ -33,10 +33,9 @@ variants:
 
 variantDescriptions:
   "mandelsoft:stoplight-replacement-mod:layout":
-    "scandi_rhd": "Scandinavian variation / right hand drive."
-    "eu_1_lhd": "European variation 1 / left hand drive."
-    "eu_1_rhd": "European variation 1 / right hand drive."
-    "eu_2_rhd": "European variation 2 / right hand drive."
+    "scandi": "Scandinavian variation."
+    "eu-1": "European variation 1."
+    "eu-2": "European variation 2."
 
 info:
   summary: "The layout selection of the stoplight replacement mod."
