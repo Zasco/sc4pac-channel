@@ -3,6 +3,9 @@ name: "stoplight-replacement-mod-signal"
 version: "1.1"
 subfolder: "900-overrides"
 
+dependencies:
+- "mandelsoft-stoplight-replacement-mod"
+
 variants:
 - variant: {"mandelsoft:stoplight-replacement-mod:signal.style": "generic", "mandelsoft:stoplight-replacement-mod:signal.size": "small"}
   assets:

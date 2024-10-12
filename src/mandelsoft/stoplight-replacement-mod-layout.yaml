@@ -3,6 +3,9 @@ name: "stoplight-replacement-mod-layout"
 version: "1.1"
 subfolder: "900-overrides"
 
+dependencies:
+- "mandelsoft-stoplight-replacement-mod"
+
 variants:
 - variant: {"mandelsoft:stoplight-replacement-mod:layout": "scandi-rhd"}
   assets:
