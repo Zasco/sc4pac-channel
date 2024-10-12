@@ -1,0 +1,18 @@
+group: "pclark06"
+name: "mega-props-vol1"
+version: "1.0.1"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "pclark06-mega-props-vol1"
+
+info:
+  summary: "Mega Prop Pack. This has props for future uploads as well as supersedes the following files:"
+  author: "pclark06"
+  website: "https://community.simtropolis.com/files/file/32952-pc-mega-props-vol-1/"
+
+---
+assetId: "pclark06-mega-props-vol1"
+version: "1.0.1"
+lastModified: "2020-04-13T18:29:27Z"
+url: "https://community.simtropolis.com/files/file/32952-pc-mega-props-vol-1/?do=download"

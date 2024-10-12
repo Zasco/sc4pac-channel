@@ -1,0 +1,20 @@
+group: "pclark06"
+name: "mega-props-vol3"
+version: "1.0.1"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "pclark06-mega-props-vol3"
+
+info:
+  summary: "Mega props 3. Mostly signs, some for future releases."
+  description: >
+    I call this the sign update because there are 300+ new sign props in this zip. I'll probably update this with more Asian-based brands in the future.
+  author: "pclark06"
+  website: "https://community.simtropolis.com/files/file/34787-pc-mega-props-3/"
+
+---
+assetId: "pclark06-mega-props-vol3"
+version: "1.0.1"
+lastModified: "2021-12-25T00:04:14Z"
+url: "https://community.simtropolis.com/files/file/34787-pc-mega-props-3/?do=download"
