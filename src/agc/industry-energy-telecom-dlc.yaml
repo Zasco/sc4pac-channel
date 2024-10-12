@@ -11,8 +11,8 @@ variants:
 - variant: {nightmode: "dark"}
   assets:
   - assetId: "agc-industry-energy-telecom-dlc-dn"
-    dependencies:
-    - "simfox:day-and-nite-mod"
+  dependencies:
+  - "simfox:day-and-nite-mod"
 
 info:
   summary: "Industry, Energy & Telecom DLC will contain props & buildings (No lots)."
