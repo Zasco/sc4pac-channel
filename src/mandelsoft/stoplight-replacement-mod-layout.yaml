@@ -4,7 +4,7 @@ version: "1.1"
 subfolder: "900-overrides"
 
 dependencies:
-- "mandelsoft-stoplight-replacement-mod"
+- "mandelsoft:stoplight-replacement-mod"
 
 variants:
 - variant: {driveside: "right", "mandelsoft:stoplight-replacement-mod:layout": "scandinavian"}
