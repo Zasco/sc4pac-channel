@@ -1,10 +1,18 @@
 group: "cococity"
 name: "samsung-apartment"
-version: "1.0.0"
+version: "1.1.0"
 subfolder: "200-residential"
 
-assets:
-  - assetId: "cococity-samsung-apartment"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "cococity-samsung-apartment-mn"
+
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "cococity-samsung-apartment-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
 
 info:
   summary: "This is an old apartment in Korea."
@@ -13,11 +21,19 @@ info:
     Capacity Satisfied 4112 / 3212
     Stage 4
     Landmark
+    Plop Cost 110000
+    Bulldoze 100
   author: "CocoCity"
   website: "https://community.simtropolis.com/files/file/36495-coco-samsung-apartment/"
 
 ---
-assetId: "cococity-samsung-apartment"
-version: "1.0.0"
-lastModified: "2024-10-09T02:24:22Z"
-url: "https://community.simtropolis.com/files/file/36495-coco-samsung-apartment/?do=download"
+assetId: "cococity-samsung-apartment-mn"
+version: "1.1.0"
+lastModified: "2024-10-13T13:44:11Z"
+url: "https://community.simtropolis.com/files/file/36495-coco-samsung-apartment/?do=download&r203881"
+
+---
+assetId: "cococity-samsung-apartment-dn"
+version: "1.1.0"
+lastModified: "2024-10-13T13:44:11Z"
+url: "https://community.simtropolis.com/files/file/36495-coco-samsung-apartment/?do=download&r203882"
