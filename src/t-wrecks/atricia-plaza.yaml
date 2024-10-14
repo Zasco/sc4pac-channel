@@ -1,0 +1,24 @@
+group: "t-wrecks"
+name: "atricia-plaza"
+version: "1.1"
+subfolder: "200-residential"
+info:
+  summary: "Do you remember this building? superstar BATted it a loooong time ago and was nice enough to grant his permission to upload this lot, so a big thx to him!"
+  website: "https://community.simtropolis.com/files/file/13978-atricia-plaza-by-superstar-complete-overhaul/"
+  description: >
+    The original building was a CO$$, so I decided to take that old building, get rid of the palm trees, whip up an entirely new lot and convert it from CO§§§ to a R§§ with a high occupant number - 5,800 to be precise. Well, it's very high, it's on a 4x6 lot, so it can hold many people. It grows in the two modern tilesets, i.e. Houston and Euro.
+  author: "T Wrecks"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0008/40a37848a2f2c6194c189b3df6fea4a6-AtriciaPlaza_STEX1.jpg"
+  - "https://www.simtropolis.com/objects/screens/0008/40a37848a2f2c6194c189b3df6fea4a6-AtriciaPlaza_STEX2.jpg"
+assets:
+- assetId: "t-wrecks-atricia-plaza"
+dependencies:
+- "superstar:atricia-plaza"
+- "bsc:textures-vol01"
+
+---
+url: "https://community.simtropolis.com/files/file/13978-atricia-plaza-by-superstar-complete-overhaul/?do=download"
+assetId: "t-wrecks-atricia-plaza"
+version: "1.1"
+lastModified: "2024-10-14T12:11:25Z"

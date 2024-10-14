@@ -1,0 +1,40 @@
+group: "superstar"
+name: "atricia-plaza"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Now, the \"Atricia Plaza\" is a very nice looking building...."
+  website: "https://community.simtropolis.com/files/file/34243-the-thing-preset-ii-by-pgx/"
+  description: >
+    Finally!!! The first Superstar GX BAT is out to the open....
+    I first showed off this BAT in Superstars Super BATs thread, this was because this BAT was made using Generation 1 and 2 BAT* skills as the change came as I was half way done with this....
+    Now, the 'Atricia Plaza' is a very nice looking building....
+    It has a nice cool lot, planted well by palm trees and the famous globe wich lays at the back...
+    This building is a CO$$ with around 5000-6000 jobs for all your sims
+    This BAT has a plopable and Growable version so any one you like use!
+    That is all I have to say about the 'Atricia Plaza', hope you guys like it, many more BAT on the way, look out 'Superstar GX' is in buis!
+  author: "Superstar"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0023/d20dc49b703c7cd3f970a4860d1298f0-1day.jpg"
+  - "https://www.simtropolis.com/objects/screens/0023/d20dc49b703c7cd3f970a4860d1298f0-1night.jpg"
+assets:
+- assetId: "superstar-atricia-plaza"
+  include:
+  - "/Atricia Plaza-0x5ad0e817_0x4dfb4b26_0x30000.SC4Model"
+variants:
+- variant: {superstar:atricia-plaza:version: grow}
+  assets:
+  - assetId: "superstar-atricia-plaza"
+    include:
+    - "/Growable/"
+- variant: {superstar:atricia-plaza:version: plop}
+  assets:
+  - assetId: "superstar-atricia-plaza"
+    include:
+    - "/Plopable/"
+
+---
+url: "https://community.simtropolis.com/files/file/4302-atricia-plaza/?do=download"
+assetId: "superstar-atricia-plaza"
+version: "1.0"
+lastModified: "2004-09-19T13:20:28Z"
