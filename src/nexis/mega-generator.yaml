@@ -1,0 +1,29 @@
+group: "nexis"
+name: "mega-generator"
+version: "1.0"
+subfolder: "500-utilities"
+info:
+  summary: "Inspired by the Ice Planet Basecamp-Generator from Star Wars' Empire Strikes Back, Nexis brings you another unique, useful and simple BAT."
+  description: >
+    Left behind and forgotten by an ancient unknown civilization on our Simplanet way before today's Simkind arrived, Sims finally figured out how to make this power generating machine function and make good use it. Inspired by the Ice Planet Basecamp-Generator from Star Wars' Empire Strikes Back, Nexis brings you another unique, useful and simple BAT. The Nexis Mega-Generator produces powerful electricity by melting Hydro-monoxide molecule leftovers without any pollution at all and at a very low maintenance cost, therefore the need to connect it to your watersystems is very important and absolutely necessary. Unfortunetly it uses quite a lot of water while functioning, but gives you back enormous amounts of very clean energy, some 30,000 MWts.
+    Plop price is $8,500
+    Bulldozing will cost you $250
+    Power 30,000
+    Need of water 200
+    Lotsize 2x5
+    Ploppable only in places where approved by the Governor.......
+  author: "mrbisonm"
+  website: "https://community.simtropolis.com/files/file/21092-nexis-mega-generator-i/"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0010/5514ca9c4371fbea9f090e4572516c97-Sandbox%20City%20MegGen1.jpg"
+  - "https://www.simtropolis.com/objects/screens/0010/5514ca9c4371fbea9f090e4572516c97-Sandbox%20City%20MegGen2.jpg"
+dependencies:
+- "maxis:buildings-as-props"
+assets:
+- assetId: "nexis-mega-generator"
+
+---
+url: "https://community.simtropolis.com/files/file/21092-nexis-mega-generator-i/?do=download"
+assetId: "nexis-mega-generator"
+version: "1.0"
+lastModified: "2009-02-09T20:13:34Z"
