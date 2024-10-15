@@ -1,0 +1,27 @@
+group: "corinamarie"
+name: "zaunset-fence-props"
+version: "1.0"
+subfolder: "100-props-textures"
+assets:
+- assetId: "corinamarie-zaunset-fence-props"
+info:
+  summary: "This is a long lost, prop pack containing some fences and is being uploaded in good faith because the original web page for it no longer exists."
+  author: "CorinaMarie, PB"
+  website: "https://community.simtropolis.com/files/file/32945-zaunset-fence-props/"
+  description: >
+    From the included text file we only know the creator as PB. (These were not created by me.)
+    Here's the information translated from German:
+    Fence elements for SimCity 4
+    a set in wood
+    a set in white
+    Each set consists of 1, 2, 4 meters elements
+    the elements belong in the plugin folder for SC4
+    and can be found in the LOT-Editor under PROPS. 
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2019_06/ZAUN4.JPG.a0169d0cc4e3f5f3800030c0601264ae.JPG"
+
+---
+assetId: "corinamarie-zaunset-fence-props"
+version: "1.0"
+lastModified: "2019-06-02T16:35:47Z"
+url: "https://community.simtropolis.com/files/file/32945-zaunset-fence-props/?do=download"
