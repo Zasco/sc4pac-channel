@@ -1,0 +1,38 @@
+group: "nexis"
+name: "country-church"
+version: "1.0"
+subfolder: "650-religion"
+variants:
+- variant: {nexis:country-church:version: "vanilla"}
+  assets:
+  - assetId: "nexis-country-church"
+- variant: {nexis:country-church:version: "zaunset"}
+  assets:
+  - assetId: "nexis-country-church-zaunset"
+  dependencies:
+  - "corinamarie:zaunset-fence-props"
+variantDescriptions:
+  nexis:country-church:version:
+    zaunset: Version using zaunset fences.
+    vanilla: Version using vanilla fences.
+info:
+  summary: "Inspired by the Church in the SC3K game, which I liked so much in smaller towns, I have created something similar for SC4."
+  author: "mrbisonm"
+  website: "https://community.simtropolis.com/files/file/3695-nexis-country-church/"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0025/dfa7d04d4a397bd0549a3d9e688577af-SC3Church1.JPG"
+  - "https://www.simtropolis.com/objects/screens/0025/dfa7d04d4a397bd0549a3d9e688577af-SC3Church2.jpg"
+  description: >
+    I know it's supposed to be the Boston church or something like that, but this is the *St-Nexis Church*....lol.. I didn't like the high tower and the windows of the original , so I modified it ,and now it looks like a country church that could be found all over Quebec/Canada.
+
+---
+assetId: "nexis-country-church-zaunset"
+version: "1.0"
+lastModified: "2019-06-03T17:03:13Z"
+url: "https://community.simtropolis.com/files/file/3695-nexis-country-church/?do=download"
+
+---
+assetId: "nexis-country-church"
+version: "1.0"
+lastModified: "2019-06-03T17:03:13Z"
+url: "https://community.simtropolis.com/applications/core/interface/file/attachment.php?id=46570"
