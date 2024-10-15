@@ -1,0 +1,25 @@
+group: "nexis"
+name: "new-england-church"
+version: "1.0"
+subfolder: "650-religion"
+assets:
+- assetId: "nexis-new-england-church"
+info:
+  summary: "The New England Church is a Reward lot that will be offered to you at a certain time. It is on a 3x3 lot."
+  author: "mrbisonm"
+  website: "https://community.simtropolis.com/files/file/11768-nexis-new-england-church/"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0025/e62946109aecf3f20e5cbcfaf64e55d1-Pic1.jpg"
+  - "https://www.simtropolis.com/objects/screens/0025/e62946109aecf3f20e5cbcfaf64e55d1-pic2.jpg"
+  description: >
+    If you ever had the chance to visit the north-eastern part of the US and of Canada, you probably have noticed these little white wooden churches in almost every town or village.The New England Church is a Reward lot that will be offered to you at a certain time. It is on a 3x3 lot.
+    Similar to the Nexis SC3 Church, this one is a lot smaller to fit in better in these villages,towns or suburban area of your region.
+    This lot does have any dependencies except for the standard ones from the Official site.
+    Thanks  and credit go to GrampaAl for tweaking the lot and to the readers of my CJ,Nexis Of Genesis, who have given me the ideas and courage to continue to create my BATs.
+    Have Fun with Nexis.
+
+---
+assetId: "nexis-new-england-church"
+version: "1.0"
+lastModified: "2005-02-24T10:30:32Z"
+url: "https://community.simtropolis.com/files/file/11768-nexis-new-england-church/?do=download"
