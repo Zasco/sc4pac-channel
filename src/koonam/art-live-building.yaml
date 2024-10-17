@@ -1,0 +1,28 @@
+group: "koonam"
+name: "art-live-building"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "It's my own designed building inspired from old vintage Art-Deco buildings from America."
+  description: >
+    This is my 1st BAT upload! *:D Thanks to everyone who helped me with my BAT making. And thanks to all the tutorials and threads!
+    
+    It's my own designed building inspired from old vintage Art-Deco buildings from America.
+    
+    The .zip file including Growable and Ploppable(Landmark) folders and files.
+        - Both CO$$ and Landmark are 4x5 lot size.
+        - MaxisNite version only. (I'll add the DarkNite version when I learn how to make it one day.)
+        - No Dependencies
+  author: "Koonam"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/6710c1f1d9e36_1-331111728737843-2.png.6f8571f0df6cefe581a57355c2425d14.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/6710c1fdbfbe0_1-331141728737866-2.png.2712313edbfda3b9a9f4d32b8ee8cfb9.png"
+  website: "https://community.simtropolis.com/files/file/36508-art-live-building-maxisnite/"
+assets:
+- assetId: "koonam-art-live-building"
+
+---
+url: "https://community.simtropolis.com/files/file/36508-art-live-building-maxisnite/?do=download"
+assetId: "koonam-art-live-building"
+version: "1.0.0"
+lastModified: "2024-10-17T08:21:21Z"
