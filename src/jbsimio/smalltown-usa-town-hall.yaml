@@ -1,0 +1,23 @@
+group: "jbsimio"
+name: "smalltown-usa-town-hall"
+version: "1.0"
+subfolder: "640-government"
+info:
+  summary: "The Town Hall is the fourteenth release in the Smalltown, USA series.  This package contains a total of six different versions in two building styles."
+  description: >
+    As Smalltown grew from a fork in the road into a legitimate village, local leaders began to consider the idea of building a meeting hall.  The more the area grew, the more necessary it became to have a place other than Edna Rausch’s basement to store important records and building permits.  Unfortunately, simply voting in favor of building a town hall was the easy part.  The debate over style and location lasted for three years.  Some people wanted a clock tower that would fit snugly between other businesses on
+    Main Street
+    .  Others wanted a building that would stand alone with graceful lawns and gardens.  Still others thought Edna’s house should just be converted into a town hall.  During all this bickering, the need for a police station became another hot issue in town.  Finally in 1924, after years of delays, voters decided to erect a building at the head of the Village Common Park that would house all the official town offices as well as offices for the local police.  Although some feel Smalltown has outgrown its once controversial structure, the building is still in use today, thanks to the ever watchful efforts of SLICH.  Rather than rebuild, a small jail annex was added in 1967.  Oddly enough, the first visitor to the new jail was a former record keeper.  Followers of this series will all remember why she was not only fired, but also served a ten day sentence.
+  author: "JBSimio"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0011/5c5873901c85c7e7a81e3a1d6d5cff92-JB_Town%20Hall_Clock.jpg"
+  - "https://www.simtropolis.com/objects/screens/0011/5c5873901c85c7e7a81e3a1d6d5cff92-JB_Town%20Hall_Cupola.jpg"
+  website: "https://community.simtropolis.com/files/file/16389-smalltownusa-town-hall/"
+assets:
+- assetId: "jbsimio-smalltown-usa-town-hall"
+
+---
+url: "https://community.simtropolis.com/files/file/16389-smalltownusa-town-hall/?do=download"
+assetId: "jbsimio-smalltown-usa-town-hall"
+version: "1.0"
+lastModified: "2006-07-15T14:27:49Z"
