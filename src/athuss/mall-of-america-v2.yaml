@@ -1,0 +1,21 @@
+group: "athuss"
+name: "mall-of-america-v2"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Tried to do a better job of mimicing the real Mall of America."
+  description: >
+    Also, I adjusted the jobs so that they're more realistic. And more outdoor props have been added. 
+  author: "athuss"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0004/1df89fbf6e3e7f24202ca592926d71cf-MOA%20Day.JPG"
+  - "https://www.simtropolis.com/objects/screens/0004/1df89fbf6e3e7f24202ca592926d71cf-MOA%20Night.JPG"
+  website: "https://community.simtropolis.com/files/file/1189-mall-of-america-v2/"
+assets:
+- assetId: "athuss-mall-of-america-v2"
+
+---
+url: "https://community.simtropolis.com/files/file/1189-mall-of-america-v2/?do=download"
+assetId: "athuss-mall-of-america-v2"
+version: "1.0"
+lastModified: "2003-08-25T18:55:43Z"
