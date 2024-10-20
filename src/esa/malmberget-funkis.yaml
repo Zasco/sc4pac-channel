@@ -1,0 +1,42 @@
+group: "esa"
+name: "malmberget-funkis"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "This is a villa made in Funkis style after a villa built in the Swedish Town of Malmberget."
+  website: "https://community.simtropolis.com/files/file/36514-esa-malmberget-funkis/"
+  description: >
+    Bulldoze Cost     130                     
+    Wealth     Low Wealth                     
+    Pollution at center     Air     Water     Garbage     Radiation         
+    1     1     4     0         
+    Pollution radii     Air     Water     Garbage     Radiation         
+    5     5     0     0         
+    Flammability     45                     
+    MaxFireStage     2                     
+    Power Consumed     1                     
+    Water Consumed     1                     
+    SFX:Query Sound     0x6A63BBA2                     
+    Query exemplar GUID     0x4A5672BF                     
+    OccupantGroups     Building: Residential     Building: R$     Style: Houston             
+    Occupant Size     Width     Height     Depth             
+    12.80000019     10     19.3526001             
+    Occupant Types     R$                     
+    Building value     271                     
+    Capacity Satisfied     R-$ 20
+  author: "Oidaas"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/67142f9011bd9_(Byske)-Apr.6471729372261.jpg.00f34d8f703e99c8eca7f48cdbb97e58.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/67142f90a1326_(Byske)-Apr.6471729372273.jpg.6ad173f41bedde28670eab20e0e9dc24.jpg"
+dependencies:
+- "girafe:maples"
+- "girafe:birches"
+- "bsc:texturepack-cycledogg-vol01"
+- "bsc:mega-props-cp-vol01"
+- "ndex:glenni-mega-props-vol02"
+
+---
+url: "https://community.simtropolis.com/files/file/36514-esa-malmberget-funkis/?do=download"
+assetId: "esa-malmberget-funkis"
+version: "1.0.0"
+lastModified: "2024-10-19T22:19:10Z"
