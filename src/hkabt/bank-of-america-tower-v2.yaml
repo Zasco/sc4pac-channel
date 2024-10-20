@@ -1,0 +1,30 @@
+group: "hkabt"
+name: "bank-of-america-tower-v2"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Bank of America Tower, formerly known as Gammon House, was built in the 1974 and rises 146 m above the ground."
+  description: >
+    This is version 2 of this building. It only includes enhanced renders as well as a dark night version of the building. It is recommended to delete any previous versions of this building from your plugin map.
+    Bank of America Tower, formerly known as Gammon House, was built in the 1974 and rises 146 m above the ground. It is situated at the junction of Central and Admiralty and surrounded by world class hotels, retail establishments and restaurants. Due to its prime location and flexible office setting, the building has attracted many international and local corporations as its long term occupants for decades.
+    Its design is characterized by the white rectangular shape with unique red metal frames in some of the floors and accentuated by its distinctive rectangular windows all around its facades. The base features a parking garage entrance, and the parking lot on top of the base contains both BATted cars and randomly appearing car props that change during the day.
+    The parking garage entrance will connect to adjacent road networks if possible, but does not influence the funtionality of the building in any way, nor does it affect traffic. The only functional consequence is that the growable version cannot be overgrown automatically, so if this BAT appears where you don't want to kep it, you will have to bulldoze it manually. Given the not-so-common lot size, however, this should not occur too often. BoA has been modded to serve three functions:
+    
+        - Ploppable landmark
+        - Ploppable functional CO§§
+        - Growable CO§§
+    
+    All lots share the same basic design, but flora and cars on them are randomized and will change every time the building grows or is plopped.
+  author: "paulvmontfort, T Wrecks"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0025/e4a83bd75043605ee3ad6f5e2d1a18ae-HKABT_BoAV2_Day.jpg"
+  - "https://www.simtropolis.com/objects/screens/0025/e4a83bd75043605ee3ad6f5e2d1a18ae-HKABT_BoAV2_Night.jpg"
+  website: "https://community.simtropolis.com/files/file/22851-hk-bank-of-america-tower-v2/"
+assets:
+- assetId: "hkabt-bank-of-america-tower-v2"
+
+---
+url: "https://community.simtropolis.com/files/file/22851-hk-bank-of-america-tower-v2/?do=download"
+assetId: "hkabt-bank-of-america-tower-v2"
+version: "1.0"
+lastModified: "2009-11-17T16:44:40Z"
