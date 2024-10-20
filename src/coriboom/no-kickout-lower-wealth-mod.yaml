@@ -1,0 +1,25 @@
+group: "coriboom"
+name: "no-kickout-lower-wealth-mod"
+version: "1.0"
+subfolder: "150-mods"
+assets:
+- assetId: "coriboom-no-kickout-lower-wealth-mod"
+info:
+  summary: "This mod grants the flexibility to have all 3 wealth levels (low, medium, high) coexist in any given location, without the higher wealths gobbling up the lower ones."
+  author: "CorinaMarie, Cyclone Boom"
+  website: "https://community.simtropolis.com/files/file/34027-coris-no-kickout-lower-wealth-mod/"
+  description: >
+    This is a vast improvement over the default game setting, where the two lowest wealths can upgrade to a higher wealth. While this behaviour is desirable in certain situations, it forces you (the mayor) to mark lots as historical as a preventative measure. This can be a tedious process which soon becomes a boring chore. (Like washing dishes.)
+    
+    The default automatic upgrades are a common cause of population instability and a major factor causing the dreaded no job zots. In regular gameplay, a higher wealth and stage often takes over before the conditions are suitable. NKO fixes the method which the SC4 simulation uses. By doing so, the control is now at your fingertips to decide when a wealth level should be allowed to upgrade and replace a lower wealth.
+    
+    For example with houses, it means R$ can coexist within an area containing R$ homes, and even R$$ mansions too! There's no need to mark each as historical for preventing them from being destroyed and replaced with higher wealth. This finer control means there's significantly less micro management involved to ensure RCI growth sustainability.
+    
+    Then if one wishes, the bulldozing tool is useful for giving the green light for a higher wealth to take its place. At this point, certain zones will reassess and grow what the simulation deems as appropriate (based on the RCI demand and local desirability factors).
+  warning: "If using the CAM, make sure NKO loads after it since the exemplar is the same. To make sure, a good idea is to place NKO directly inside the same folder CAM is installed to."
+
+---
+assetId: "coriboom-no-kickout-lower-wealth-mod"
+version: "1.0"
+lastModified: "2021-01-02T14:05:00Z"
+url: "https://community.simtropolis.com/files/file/34027-coris-no-kickout-lower-wealth-mod/?do=download"
