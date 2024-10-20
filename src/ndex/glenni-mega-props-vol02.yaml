@@ -1,0 +1,47 @@
+group: "ndex"
+name: "glenni-mega-props-vol02"
+version: "1.0"
+subfolder: "100-props-textures"
+info:
+  summary: "This is the newest required dependency for my new batch of buildings to be uploaded then, quite a variety in this, there's both new and old models ( some are as old as from back in 2006) from me, so not all of them are top notch, but hey, it might be useful for some."
+  description: >
+    Buildings (both orthogonal and diagonal)
+    Åseli gata 34
+    Hotel Atlas
+    Kaigaten 14
+    Kongsgate 56
+    Oscarsgate 14
+    Steffensonhjørnet
+    Steinsveien 56
+    Strandgaten 67
+    Thuhaug Veien 25
+    ICA Store
+    Kiwi Store
+    Rimi Store
+    Spar Grocery Store
+    Bridges
+    Ulvøy Bridge (eye-candy prop)
+    Russian Cars and Helicopters
+    (these appear as prop families as well)
+    Lada
+    Polonez
+    UAZ
+    Volga
+    MI-27
+    Sami props:
+    Lavvu
+    Reindeers
+    Sled
+  author: "Glenni"
+  website: "https://community.simtropolis.com/files/file/20564-ndex-glenni-mega-props-vol02/"
+assets:
+- assetId: "ndex-glenni-mega-props-vol02"
+
+---
+url: "https://community.simtropolis.com/files/file/20564-ndex-glenni-mega-props-vol02/?do=download"
+assetId: "ndex-glenni-mega-props-vol02"
+version: "1.0"
+lastModified: "2008-10-19T22:29:20Z"
+archiveType:
+  format: Clickteam
+  version: "40"
