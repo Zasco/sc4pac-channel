@@ -1,0 +1,20 @@
+group: "leonv93"
+name: "police-station"
+version: "1.0.0"
+subfolder: "610-safety"
+info:
+  summary: "Large Police Station"
+  author: "leonv93"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/67145401f1684_Regopolis-Feb.56811728871282.png.d9a29f313c55d3c6c96dc32f25788921.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/67145404c239d_Regopolis-Feb.56811728871266.png.3800b166d2b408ba38b58741985f35cf.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/6714540620f54_Regopolis-Nov.16811728866567.png.f404e108e3b9df73f155770f9f40ca17.png"
+  website: "https://community.simtropolis.com/files/file/36516-police-station/"
+assets:
+- assetId: "leonv93-police-station"
+
+---
+url: "https://community.simtropolis.com/files/file/36516-police-station/?do=download"
+assetId: "leonv93-police-station"
+version: "1.0.0"
+lastModified: "2024-10-20T00:52:37Z"
