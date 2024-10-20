@@ -34,6 +34,8 @@ dependencies:
 - "bsc:texturepack-cycledogg-vol01"
 - "bsc:mega-props-cp-vol01"
 - "ndex:glenni-mega-props-vol02"
+assets:
+- assetId: "esa-malmberget-funkis"
 
 ---
 url: "https://community.simtropolis.com/files/file/36514-esa-malmberget-funkis/?do=download"
