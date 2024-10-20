@@ -1,0 +1,21 @@
+group: "null-45"
+name: "allow-more-building-styles"
+version: "3.0"
+subfolder: "150-mods"
+info:
+  summary: "A DLL Plugin for SimCity 4 that allows the game to use more than 4 building styles."
+  description: >
+    This DLL mod is intended as a dependency for other mods that add new building styles beyond the 4 that Maxis included, it does not add any building styles to the game by itself.
+    
+    Maxis programmed the Building Style Control UI to only recognize the check boxes of the 4 built-in styles, no matter how may check boxes are actually present. This mod patches the game's memory to remove that restriction.
+  author: "Null 45"
+  website: "https://community.simtropolis.com/files/file/36112-allow-more-building-styles-dll-plugin/"
+  warning: "Requires SimCity 4 in version 641."
+assets:
+- assetId: "null-45-allow-more-building-styles"
+
+---
+url: "https://community.simtropolis.com/files/file/36112-allow-more-building-styles-dll-plugin/?do=download"
+assetId: "null-45-allow-more-building-styles"
+version: "3.0"
+lastModified: "2024-10-17T20:10:58Z"
