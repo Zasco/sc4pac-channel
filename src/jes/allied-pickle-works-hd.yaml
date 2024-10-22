@@ -1,0 +1,52 @@
+group: "jes"
+name: "allied-pickle-works-hd"
+version: "1.0.0"
+subfolder: "400-industrial"
+info:
+  summary: "Makers of the best pickles for your sims decerning palate."
+  description: >
+    Lot Details and Information:
+    
+    Lot Size:     5x3 Tiles
+    Building Style(s):     Building: Industrial, Building: IM, Industry: Anchor, BTE: Ind - Manufacturing
+    Growth Stage:         2
+    Menu Position:         Landmarks [ploppable]
+    Occupants:         18 - IM$
+    Bulldoze Cost:         $183
+    Building Value:         $137
+    Construction Time:         18 days
+    Max. Fire Stage:         2
+    Power Consumption:     2 MWh/month
+    Water Consumption:         16 Gallons/month
+    Air Pollution:         1 over 9 tiles
+    Water Pollution:         1 over 13 tiles
+    Garbage Pollution:         4 over 0 tiles
+  author: "jestarr"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/AlliedPickleWorks_Day.jpg.c4f9c8bb93807d799b2014967500adcc.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/AlliedPickleWorks_Nite.jpg.dfcd462ae21e5b4126f8b7329d89bc95.jpg"
+  website: "https://community.simtropolis.com/files/file/36521-allied-pickle-works-hd/"
+  assets:
+  - assetId: "jes-allied-pickle-works-hd"
+dependencies:
+- "bsc:vip-girafe-carpack-vol01-vol02-remastered"
+- "bsc:vip-girafe-carpack-vol03"
+- "bsc:vip-girafe-carpack-vol04"
+- "bsc:textures-vol02"
+- "girafe:elms"
+- "girafe:berries"
+- "girafe:chestnuts"
+- "jes:resource-pack-vol27"
+- "bsc:bat-props-jes-vol10"
+- "bsc:bat-props-jes-vol11"
+- "bsc:bat-props-jes-vol12"
+- "bsc:bat-props-jes-vol13"
+- "bsc:bat-props-jes-vol14"
+- "bsc:bat-props-jes-vol15"
+- "bsc:bat-props-jes-vol17"
+
+---
+url: "https://community.simtropolis.com/files/file/36521-allied-pickle-works-hd/?do=download"
+assetId: "jes-allied-pickle-works-hd"
+version: "1.0.0"
+lastModified: "2024-10-21T22:17:37Z"
