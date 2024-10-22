@@ -1,6 +1,6 @@
 group: "jes"
 name: "resource-pack-vol27"
-version: "1.0.5"
+version: "1.0.6"
 subfolder: "100-props-textures"
 
 assets:
@@ -8,11 +8,13 @@ assets:
 
 info:
   summary: "This is a consolidation of my latest SD props & newer textures to keep your plugins file neat and tidy."
+  description: >
+    I'll be adding to this over time. There's a cleanitol file included.
   author: "jestarr"
   website: "https://community.simtropolis.com/files/file/35753-jes_resourcepack_vol27-v5/"
 
 ---
 assetId: "jes-resource-pack-vol27"
-version: "1.0.5"
-lastModified: "2024-09-15T17:32:03Z"
+version: "1.0.6"
+lastModified: "2024-10-21T22:10:15Z"
 url: "https://community.simtropolis.com/files/file/35753-jes_resourcepack_vol27-v5/?do=download"
