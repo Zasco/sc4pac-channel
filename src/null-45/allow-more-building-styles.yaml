@@ -1,6 +1,6 @@
 group: "null-45"
 name: "allow-more-building-styles"
-version: "3.0.1"
+version: "3.0.2"
 subfolder: "150-mods"
 info:
   summary: "A DLL Plugin for SimCity 4 that allows the game to use more than 4 building styles."
@@ -17,5 +17,5 @@ assets:
 ---
 url: "https://community.simtropolis.com/files/file/36112-allow-more-building-styles-dll-plugin/?do=download"
 assetId: "null-45-allow-more-building-styles"
-version: "3.0.1"
-lastModified: "2024-10-21T04:15:41Z"
+version: "3.0.2"
+lastModified: "2024-10-22T07:11:34Z"
