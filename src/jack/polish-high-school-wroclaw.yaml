@@ -1,0 +1,40 @@
+group: "jack"
+name: "polish-high-school-wroclaw"
+version: "1.0.0"
+subfolder: "620-education"
+info:
+  summary: "It's a midsize highschool based on the Telecommunication and Electronics School complex in Wroclaw."
+  description: >
+    It fits into W2W environment. 
+    This Polish High School was made by Jack and originally was uploaded onto http://www.simcitypolska.pl/, which is no longer existing and this upload hasn't been available according to my best knowladge since then. 
+    Please note as part of the SimCity Polska Restoration efforts and with the permission of the Simtropolis Staff Members (Cyclone Boom, CorinaMarie and Tyberius06), this file has been uploaded on behalf of Jack. All the works contained within this download (lots, descriptors and models) were created by Jack.
+    The lot file has been updated by the SC4PIM-X (x-Tool) by Tyberius06
+    ---------------------------------------
+    STATS HIGH SCHOOL:
+    Lot size :           5x4
+    Plop Cost:              §3,700
+    Bulldoze Cost:       §270
+    Catalogue Capacity:  2,400
+    Catalogue Cost/Mth:  §2250
+    Pollution:           5 (Air)/ 3 (Water)/ 2 (Garbage )
+    Pollution Radius:    2/3/0
+    Coverage Radius:     688.0
+    EQ Boost:            8
+    School Effect vs Age:20 (5), 30 (5), 40 (5), 50 (2.5), 60 (0), 70 (0), 80 (0)
+    School Pop vs Dist:  100 100
+    Power Consumed:         9 Mwh
+    Water Consumed:      35 Gal/Month
+    Occupant Group:      Civic; School;
+    SchoolsHS Demand Created:         R§ 65; R§§ 22; R§§§ 20  
+  author: "Jack"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/6717acb118435_PolishHighSchoolWroclaw.jpg.987c557ca348e4198bc4378e4e2e7d1d.jpg"
+  website: "https://community.simtropolis.com/files/file/36522-jack-polish-high-school-wroclaw/"
+assets:
+- assetId: "jack-polish-high-school-wroclaw"
+
+---
+url: "https://community.simtropolis.com/files/file/36522-jack-polish-high-school-wroclaw/?do=download"
+assetId: "jack-polish-high-school-wroclaw"
+version: "1.0.0"
+lastModified: "2024-10-22T13:49:04Z"
