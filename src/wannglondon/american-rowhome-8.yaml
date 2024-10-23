@@ -1,0 +1,28 @@
+group: "wannglondon"
+name: "american-rowhome-8"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "A corner residential to complement other American rowhomes."
+  description: >
+    Mirror version is included. Townhomes 7 to be uploaded soon as well.
+    - R$ 1x2 lot
+    - Chicago & NY tilesets
+    - DarkNite version only 
+  author: "WannGLondon"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/East.jpg.8934bb7bea98f73b554e0bfebe7e1743.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/West.jpg.c143131039248e228186c5b9d78a9beb.jpg"
+  website: "https://community.simtropolis.com/files/file/36523-american-rowhome-8/"
+variants:
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "wannglondon-american-rowhome-8"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/36523-american-rowhome-8/?do=download"
+assetId: "wannglondon-american-rowhome-8"
+version: "1.0.0"
+lastModified: "2024-10-23T17:15:29Z"
