@@ -1,0 +1,46 @@
+group: "cococity"
+name: "hillstate-apartment"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "This building is a south Korea apartment."
+  description: >
+    R$
+    4x2
+    Capacity Satisfied 4112 /3076 /4128 /1699
+    Stage 4
+    Bulldoze Cost 1740
+    Landmark
+    4x2
+    Plop  Cost 110000
+    Bulldoze Cost 100
+  author: "CocoCity"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/671a5ce55b53b_01.jpg.709f2b61c64369c3e0a5b56dd4a74eae.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/image02.jpg.1a684231baf1467322dd67b0a809267e.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/671a5d0c381f4_.jpg.d0f10d269de8d7d4faea646dc5bcd0ac.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/671a5d199281b_2.jpg.b63a9927744c02637fe4a1855f0ea137.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/671a5d24e716f_.jpg.86c9c833f701c38790d21a0e028c9aff.jpg"
+  website: "https://community.simtropolis.com/files/file/36526-coco-hillstate-apartment/"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "cococity-hillstate-apartment-mn"
+
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "cococity-hillstate-apartment-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/36526-coco-hillstate-apartment/?do=download&r=204068"
+assetId: "cococity-hillstate-apartment-mn"
+version: "1.0.0"
+lastModified: "2024-10-24T15:12:16Z"
+
+---
+url: "https://community.simtropolis.com/files/file/36526-coco-hillstate-apartment/?do=download&r=204069"
+assetId: "cococity-hillstate-apartment-dn"
+version: "1.0.0"
+lastModified: "2024-10-24T15:12:16Z"
