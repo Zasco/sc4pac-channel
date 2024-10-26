@@ -1,0 +1,43 @@
+group: "maranello575"
+name: "the-trump-world-tower"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "My First BAT.It's not perfect but then again neither am I."
+  description: >
+    Trump World Tower
+    
+    845 United Nations Plaza
+    
+    70th tallest building in the world (tallest residential tower in the world 2001 - 2002)
+    
+    Architect: Costas Kondylis
+    Height: 861 ft (262 m), 72 floors, construction started: 1999, completed: 2001
+    
+    In reality this is an all residential building and seeing how they don't work as
+    ploppables, I decided to release this as a CS$$ lot and a Landmark.
+    
+    2000 CS$$ Jobs
+  author: "Maranello575"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0026/f268c025b1748f25a7aa298524238ec1-TWT%20DAY.JPG"
+  - "https://www.simtropolis.com/objects/screens/0026/f268c025b1748f25a7aa298524238ec1-TWT%20NIGHT.JPG"
+  website: "https://community.simtropolis.com/files/file/16710-the-trump-world-tower/"
+variants:
+- variant: {maranello575:the-trump-world-tower:version: "commercial"}
+  assets:
+  - assetId: "maranello575-the-trump-world-tower"
+    exclude:
+    - "/Trump World Tower-LM_11f71328.SC4Lot"
+
+- variant: {maranello575:the-trump-world-tower:version: "landmark"}
+  assets:
+  - assetId: "maranello575-the-trump-world-tower"
+    exclude:
+    - '/Trump World Tower-CS\$\$\$ Ploppable_11f71328.SC4Lot'
+
+---
+url: "https://community.simtropolis.com/files/file/16710-the-trump-world-tower/?do=download"
+assetId: "maranello575-the-trump-world-tower"
+version: "1.0"
+lastModified: "2006-08-23T07:48:04Z"
