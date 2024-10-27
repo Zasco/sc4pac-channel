@@ -26,8 +26,8 @@ info:
   - "https://www.simtropolis.com/objects/screens/monthly_2024_10/AlliedPickleWorks_Day.jpg.c4f9c8bb93807d799b2014967500adcc.jpg"
   - "https://www.simtropolis.com/objects/screens/monthly_2024_10/AlliedPickleWorks_Nite.jpg.dfcd462ae21e5b4126f8b7329d89bc95.jpg"
   website: "https://community.simtropolis.com/files/file/36521-allied-pickle-works-hd/"
-  assets:
-  - assetId: "jes-allied-pickle-works-hd"
+assets:
+- assetId: "jes-allied-pickle-works-hd"
 dependencies:
 - "bsc:vip-girafe-carpack-vol01-vol02-remastered"
 - "bsc:vip-girafe-carpack-vol03"
