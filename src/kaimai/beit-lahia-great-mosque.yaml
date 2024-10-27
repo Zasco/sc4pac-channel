@@ -1,0 +1,47 @@
+group: "kaimai"
+name: "beit-lahia-great-mosque"
+version: "1.0.0"
+subfolder: "360-landmark"
+info:
+  summary: "This is a simplified rendition of the Masjid Salim Abu Muslim (مسجد سليم أبو مسلم), a beautiful modern W2W mosque from the town of Beit Lahia in the northern Gaza Strip, Palestine."
+  author: "kaimai"
+  website: "https://community.simtropolis.com/files/file/36528-masjid-salim-abu-muslim-beit-lahia-great-mosque/"
+  description: |
+    This is a simplified rendition of the Masjid Salim Abu Muslim (مسجد سليم أبو مسلم), a beautiful modern W2W mosque from the town of Beit Lahia in the northern Gaza Strip, Palestine. A small farming town for most of its history best known for producing strawberries and citrus fruits, Beit Lahia underwent massive growth in the 21st century with the construction of the Beit Lahia housing project, in which more than 13,000 housing units were built to ease overcrowding in the nearby Jabalia refugee camp, carry out a programme of urban renewal and beautification (in tandem with attempts to improve the nearby wastewater treatment plant), and—after 2008—provide homes for those displaced by war. This saw the population grow from about 38,000 to over 90,000. This renewal and growth spurred the Salim Abu Muslim mosque, previously based in a much smaller building, to seek to expand to new premises.
+    This new building was completed in 2018. Situated on the town's main street, just north of the Beit Lahia project, the mosque quickly became a local landmark with its characteristic turquoise dome, blue-tinted windows and richly decorated interior. There are not many photos of the building available, which is why I reduced the east wall, abutting the shops, to a blank wall (it had windows and other details in reality). It was also built on the side of a hill, such that the back (south) wall is significantly shorter than the front, and the main entrance at the corner of Ramla Street had a more extended stairwell and ramp which I did not model in the interests of keeping the building within a 4x2 footprint. I also did not model the interior.
+    Unfortunately, like many buildings in the northern Gaza Strip it was almost completely destroyed in November 2023 by Israeli forces during the ongoing war and genocide in the Gaza Strip, which has forced much of the population of Beit Lahia to flee. For the time being, this commemorative model will have to stand in.
+    - 4x2 wall-to-wall corner lot
+    - Two versions: House of Worship reward and eyecandy landmark
+    - MaxisNite and DarkNite versions included; choose only one
+    - DarkNite requires the Day and Nite Modd
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/671d4014ac0b5_ScreenShot2024-10-26at2_10_19PM.jpg.3be83202d52fdae3f232811a02b34f43.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/671d4015727b6_ScreenShot2024-10-26at2_11_23PM.jpg.4b6e8c8e4e6cde8a389acee48457e5d9.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/336685812_216999034327229_7054491395495367396_n.jpg.b7d50be23f734d98afc09deea6372cec.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/336314765_200820499236851_3445497060722369619_n.jpg.35933c27fc235b48dccb5bf46a0ce93b.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/75241190_1159842794206621_4802996613549129728_n.jpg.bd66e771d6eb1ff0842da733db6de6ed.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_10/432288981_802594135235711_7677314589908394279_n.jpg.71acd87aa7347383267ccad2ad2561d2.jpg"
+assets:
+- assetId: "kaimai-beit-lahia-great-mosque"
+  exclude:
+  - "/MN/"
+  - "/DN/"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "kaimai-beit-lahia-great-mosque"
+    include:
+    - "/MN/"
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "kaimai-beit-lahia-great-mosque"
+    include:
+    - "/DN/"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/36528-masjid-salim-abu-muslim-beit-lahia-great-mosque/?do=download"
+assetId: "kaimai-beit-lahia-great-mosque"
+version: "1.0.0"
+lastModified: "2024-10-26T19:59:19Z"
