@@ -1,0 +1,27 @@
+group: "paeng"
+name: "textures"
+version: "1.04"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "paeng-textures"
+
+info:
+  summary: "This is a set of overlay textures (for pathways) and is a dependency for many of my lots and sets."
+  author: "paeng"
+  description: >
+    The overlays are for paths of all kinds - narrow and wide paths, straight, curve, tee, cross, diagonal, wide-to-narrow-transitions etc.
+    This updated version maintains all textures from the previous version and now includes a number of additional matching overlays for more intricate path-variations. Plus some... ;-)
+    All you need to do is to remove the previous file -
+      Paeng_Textures_v103.dat (old)
+    and replace it with the one from this upload -
+      Paeng_TexturePack_v104.dat (current)
+    No further action required :-)
+    Lot designers are free to utilize these textures, but the DAT file is not to be included with any download package. Please link to this upload instead.
+  website: "https://community.simtropolis.com/files/file/22823-paeng-textures-vol104/"
+
+---
+assetId: "paeng-textures"
+version: "1.04"
+lastModified: "2009-11-09T17:33:57Z"
+url: "https://community.simtropolis.com/files/file/22823-paeng-textures-vol104/?do=download"
