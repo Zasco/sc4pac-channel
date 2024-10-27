@@ -1,0 +1,21 @@
+group: "tdt"
+name: "thai-wah-tower-1"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Building is in Bangkok Thailand."
+  description: >
+    Co$ 1072 Lot size 2x2 Maxfire stage 3 Constuction time 117 day Pulltion at center 3/5 3/6 50 0 Power 52 Water 256 Growble stage 8 No dependencies Building is in Bangkok Thailand
+  author: "on001222"
+  images:
+  - "https://www.simtropolis.com/objects/screens/0013/70d491df7c97cbfd9194d28df9550615-Th.jpg"
+  - "https://www.simtropolis.com/objects/screens/0013/70d491df7c97cbfd9194d28df9550615-THA%20N.jpg"
+  website: "https://community.simtropolis.com/files/file/24816-thai-wah-tower-1v2-by-thailand-design-team/"
+assets:
+- assetId: "tdt-thai-wah-tower-1"
+
+---
+url: "https://community.simtropolis.com/files/file/24816-thai-wah-tower-1v2-by-thailand-design-team/?do=download"
+assetId: "tdt-thai-wah-tower-1"
+version: "1.0"
+lastModified: "2010-09-07T07:05:10Z"
