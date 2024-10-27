@@ -1,0 +1,48 @@
+group: "kloudkicker"
+name: "transformer-substation"
+version: "1.2.0"
+subfolder: "500-utilities"
+
+variants:
+- variant: {kloudkicker:transformer-substation:version: "relot"}
+  assets:
+  - assetId: "kloudkicker-transformer-substation-relot"
+
+- variant: {kloudkicker:transformer-substation:version: "override"}
+  assets:
+  - assetId: "kloudkicker-transformer-substation-override"
+
+dependencies:
+- "takemethere:transformer-substation"
+- "sm2:mega-prop-pack-vol1"
+- "sm2:mega-prop-pack-vol3"
+- "sm2:mega-prop-pack-vol5"
+
+variantDescriptions:
+  kloudkicker:transformer-substation:version:
+    relot: "Adds a new AMPS certified lot."
+    override: "Overrides Takingyouthere's original lot."
+
+info:
+  summary: "One relot and one override lot-certified for AMPS use."
+  description: >
+    The download contains two(2) separate files. One relot and one override lot-certified for AMPS use. The relot can be used along with the original lot by Takingyouthere. The override lot can not be used with Takingyouthere's lot and his lot must be bulldozed from the region before using the override mod, see enclosed instructions. The original lot and models are made by Takingyouthere.
+  author: "Kloudkicker, Takingyouthere"
+  website: "https://community.simtropolis.com/files/file/34186-kk-transformer-substation/"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/60398d5cd2ba8_KK_RelotTransformerSubstation1.jpg.5238166d4cd5ba550cd636b8f1e44e4f.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/60398d84f3b2a_KK_RelotTransformerSubstation2.jpg.01cfa9cbdb6820bffee95f1c4816b7d2.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/60398d8c1121b_KK_RelotTransformerSubstation4.jpg.b3d9ebcbd202eb673c82b468473a3937.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/60398d8f0d111_KK_RelotTransformerSubstation3.jpg.7beab62131ea76b72ca309726581831d.jpg"
+
+---
+assetId: "kloudkicker-transformer-substation-relot"
+version: "1.2.0"
+lastModified: "2021-05-07T20:16:26Z"
+url: "https://community.simtropolis.com/files/file/34186-kk-transformer-substation/?do=download&r=187816"
+
+---
+assetId: "kloudkicker-transformer-substation-override"
+version: "1.2.0"
+lastModified: "2021-05-07T20:16:26Z"
+url: "https://community.simtropolis.com/files/file/34186-kk-transformer-substation/?do=download&r=187815"
