@@ -1,0 +1,22 @@
+group: "sm2"
+name: "mega-prop-pack-vol5"
+version: "1.0.0"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "sm2-mega-prop-pack-vol5"
+
+info:
+  summary: "Another giant prop pack for existing and upcoming projects."
+  description: >
+    Warning!!! Before dropping this file in your plugin please use the included SM2 Mega Prop Pack Vol5 Cleanitol.txt file to remove many redundant models from older uploads.
+    Use BSC Cleanitol script to run the cleanitol file included here. Once the cleanitol txt file is processed no further action is required.
+    Link to the Cleanitol app https://www.sc4devotion.com/csxlex/lex_filedesc.php?lotGET=97 
+  author: "Simmer2"
+  website: "https://community.simtropolis.com/files/file/34316-sm2-mega-prop-pack-vol5/"
+
+---
+assetId: "sm2-mega-prop-pack-vol5"
+version: "1.0.0"
+lastModified: "2021-03-24T04:04:00Z"
+url: "https://community.simtropolis.com/files/file/34316-sm2-mega-prop-pack-vol5/?do=download"

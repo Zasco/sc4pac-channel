@@ -1,0 +1,23 @@
+group: "sm2"
+name: "mega-prop-pack-vol1"
+version: "1.0"
+subfolder: "100-props-textures"
+
+assets:
+- assetId: "sm2-mega-prop-pack-vol1"
+
+info:
+  summary: "SM2 Mega Prop Pack Vol1 is a compendium of 670 models I created over the years."
+  description: >
+    It replaces many files and eliminates the need to have many dependencies.
+    Please use the included cleanitol text file. It is very important to do so as to avoid redundant and unnecessary files taking up space in your plugin.
+    Many lots are being updated to point to this file.
+    Besides the usage of the cleanitol files no further action is required.
+  author: "Simmer2"
+  website: "https://community.simtropolis.com/files/file/32980-sm2-mega-prop-pack-vol1/"
+
+---
+assetId: "sm2-mega-prop-pack-vol1"
+version: "1.0"
+lastModified: "2019-06-27T16:45:48Z"
+url: "https://community.simtropolis.com/files/file/32980-sm2-mega-prop-pack-vol1/?do=download"
