@@ -1,0 +1,29 @@
+group: "takemethere"
+name: "transformer-substation"
+version: "1.0"
+subfolder: "500-utilities"
+
+assets:
+- assetId: "takemethere-transformer-substation"
+
+info:
+  summary: "Have you ever wanted to properly end your power lines with a transformer substation? Well now you can!"
+  description: >
+    By previous request I'm releasing this file which I first displayed on my CJ a while back. Originally the plan was to include this lot as part of a set of several different types of transitions(1-line, 2-line, 2-way, 4-way etc.) for both the in-game maxis power lines and also MandelSoft's custom power line set. However I've decided to abandon that much delayed project in favor of a completely new custom power line set I'm currently working on.
+    This substation can be used to properly cap the beginning and end of your power lines using a couple of very simple BAT. The lot provides 400 units of power, the idea behind that being that while a substation doesn't actually generate power it plays an important part in prevent transmission power loses by stepping up and the reducing the voltages across a long distance power line. It can be found near the bottom of the power menu. No dependencies are required.
+    Stats:
+    Plop Cost: $400
+    Power produced: 400 (8MW)
+    Monthly Cost: $4
+    Demolition cost: $100
+  author: "TakemeThere"
+  website: "https://community.simtropolis.com/files/file/31217-transformer-substation/"
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2016_07/trans.jpg.a231e0e1e389664a66b549c3488e61c5.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2016_07/trans2.jpg.b977f8beaea6e5822c89d2bb609f6b07.jpg"
+
+---
+assetId: "takemethere-transformer-substation"
+version: "1.0"
+lastModified: "2016-08-18T21:59:18Z"
+url: "https://community.simtropolis.com/files/file/31217-transformer-substation/?do=download"
