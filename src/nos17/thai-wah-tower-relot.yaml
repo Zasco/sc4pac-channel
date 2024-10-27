@@ -1,0 +1,37 @@
+group: "nos17"
+name: "thai-wah-tower-relot"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "This is a re-lot for the Thai Wah Tower created by on001222 awhile back (and uploaded now with his permission)."
+  author: "nos.17, on001222"
+  description: >
+    I simply added grounds to aesthetically enhance the lot as well as eliminate the slight overhang the building had on the old 2x2 lot. Simply replace the two old .sc4Lots with these and go! 
+    Looks best if placed on flat ground or a very slight hill.
+    Includes both a landmark and a growable (stage 8 ) relot. 
+    ***** Updated with a title (instead of "Custom Plopable") for the menu icon. *****
+    Stats:
+    -------
+    (changed)                Lot Size:  3x3
+    (same as before)   Max fire stage:  3
+    Construction time:  117 days
+    Pollution at center:  3/5 3/6 50 0
+    Power:  52
+    Water:  256
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_08_2013/3fedb9e3bff24a0f71c5d059a5922601-thw_relot-1.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_08_2013/b646b8db3cb2e6b1e2055e1954b2008a-thw_relot-2.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_08_2013/35da08831fc08eb9821f3a170730061d-thw_relot-3.png"
+  website: "https://community.simtropolis.com/files/file/28918-thai-wah-tower-relot/"
+assets:
+- assetId: "nos17-thai-wah-tower-relot"
+dependencies:
+- "tdt:thai-wah-tower-1"
+- "paeng:textures"
+- "bsc:mega-props-cp-vol01"
+
+---
+url: "https://community.simtropolis.com/files/file/28918-thai-wah-tower-relot/?do=download"
+assetId: "nos17-thai-wah-tower-relot"
+version: "1.0"
+lastModified: "2013-08-08T14:02:41Z"
