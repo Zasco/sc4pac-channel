@@ -4,8 +4,8 @@
 /*.bat
 
 /src/**/*
-!/src/*/
-!/src/*/*.yaml
+!/src/**/*/
+!/src/**/*.yaml
 
 /gh-pages/channel/
 /sc4pac-latest/
