@@ -1,0 +1,21 @@
+group: "dk1"
+name: "king-and-queen"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Retro Burger King and Dairy Queen."
+  author: "dk1"
+  website: "https://community.simtropolis.com/files/file/21609-dk1-king-and-queen/"
+  description: |
+    Retro Burger King and Dairy Queen. CS$2x2, jobs: 17, growth stage: 2, zone density: low, medium, high. LM2x2, jobs: 17 CS$, build: 1000. No dependencies.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0019/afb352d507885f4edaf6b4b425add3c3-BKDQDay.JPG"
+  - "https://www.simtropolis.com/objects/screens/0019/afb352d507885f4edaf6b4b425add3c3-BKDQnight.JPG"
+assets:
+- assetId: "dk1-king-and-queen"
+
+---
+url: "https://community.simtropolis.com/files/file/21609-dk1-king-and-queen/?do=download"
+assetId: "dk1-king-and-queen"
+version: "1.0"
+lastModified: "2009-04-25T06:30:07Z"
