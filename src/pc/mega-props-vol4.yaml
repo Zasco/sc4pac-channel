@@ -1,10 +1,10 @@
-group: "pclark06"
+group: "pc"
 name: "mega-props-vol4"
 version: "4.2"
 subfolder: "100-props-textures"
 
 assets:
-- assetId: "pclark06-mega-props-vol4"
+- assetId: "pc-mega-props-vol4"
 
 info:
   summary: "A new Mega Prop Pack, the highlight being about 1200 new car props."
@@ -14,7 +14,7 @@ info:
   website: "https://community.simtropolis.com/files/file/35526-pc-mega-props-42/"
 
 ---
-assetId: "pclark06-mega-props-vol4"
+assetId: "pc-mega-props-vol4"
 version: "4.2"
 lastModified: "2024-01-08T21:45:33Z"
 url: "https://community.simtropolis.com/files/file/35526-pc-mega-props-42/?do=download"

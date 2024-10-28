@@ -1,10 +1,10 @@
-group: "pclark06"
+group: "pc"
 name: "mega-props-vol2"
 version: "1.0.21"
 subfolder: "100-props-textures"
 
 assets:
-- assetId: "pclark06-mega-props-vol2"
+- assetId: "pc-mega-props-vol2"
 
 info:
   summary: "Mega props 2. A dependency for past and future releases."
@@ -22,7 +22,7 @@ info:
   website: "https://community.simtropolis.com/files/file/33533-pc-mega-props-2/"
 
 ---
-assetId: "pclark06-mega-props-vol2"
+assetId: "pc-mega-props-vol2"
 version: "1.0.21"
 lastModified: "2021-12-01T02:51:54Z"
 url: "https://community.simtropolis.com/files/file/33533-pc-mega-props-2/?do=download"
