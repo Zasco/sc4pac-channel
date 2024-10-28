@@ -1,0 +1,21 @@
+group: "dk1"
+name: "tsbd-building"
+version: "1.0"
+subfolder: "360-landmark"
+info:
+  summary: "TSBD Building"
+  author: "dk1"
+  website: "https://community.simtropolis.com/files/file/20611-dk1-tsbd-building/"
+  description: |
+    Built in 1901, the building was used as a school book warehouse at the time of the Kennedy assassination. Dallas County purchased the building in 1977. The lower five floors are county government offices. In 1989, The Sixth Floor Museum opened. In 2002, the Museum opened the seventh floor gallery. CV3x3 museum, capacity: 3000, monthly cost: 300, coverage: 900m, EQ boost: 24. No dependencies.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0027/f464ad2520cc6b99ea79fb615def4218-TSBD_day.JPG"
+  - "https://www.simtropolis.com/objects/screens/0027/f464ad2520cc6b99ea79fb615def4218-TSBD_night.JPG"
+assets:
+- assetId: "dk1-tsbd-building"
+
+---
+url: "https://community.simtropolis.com/files/file/20611-dk1-tsbd-building/?do=download"
+assetId: "dk1-tsbd-building"
+version: "1.0"
+lastModified: "2008-11-06T07:05Z"
