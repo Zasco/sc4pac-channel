@@ -17,7 +17,9 @@ assets:
 - assetId: "pc-holiday-inn"
 dependencies:
 - "bsc:mega-props-sg-vol01"
-- "pc:mega-props-vol1pc:mega-props-vol2rr:rretail:mega-prop-pack-vol1"
+- "pc:mega-props-vol1"
+- "pc:mega-props-vol2"
+- "rretail:mega-prop-pack-vol1"
 - "shk:parking-pack"
 - "supershk:mega-parking-textures"
 - "supershk:fa3-parking-textures"
