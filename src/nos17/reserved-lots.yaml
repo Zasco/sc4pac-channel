@@ -9,29 +9,36 @@ assets:
   - '/colors \(choose one\)/'
 
 variants:
-- variant: {Nos.17 reserved lots: "Cyan"}
+- variant: {nos17:reserved-lots:color: "cyan"}
   assets:
   - assetId: "nos17-reserved-lots"
     include:
     - "/cyan.dat"
 
-- variant: {Nos.17 reserved lots: "Purple"}
+- variant: {nos17:reserved-lots:color: "purple"}
   assets:
   - assetId: "nos17-reserved-lots"
     include:
     - "/purple.dat"
 
-- variant: {Nos.17 reserved lots: "Red"}
+- variant: {nos17:reserved-lots:color: "red"}
   assets:
   - assetId: "nos17-reserved-lots"
     include:
     - "/red.dat"
 
-- variant: {Nos.17 reserved lots: "White"}
+- variant: {nos17:reserved-lots:color: "white"}
   assets:
   - assetId: "nos17-reserved-lots"
     include:
     - "/white.dat"
+
+variantDescriptions:
+  nos17:reserved-lots:color:
+    cyan: "Cyan colored reserved lots."
+    purple: "Purple colored reserved lots."
+    red: "Red colored reserved lots."
+    white: "White colored reserved lots."
 
 info:
   summary: "Use these lots to reserve space for future development."
