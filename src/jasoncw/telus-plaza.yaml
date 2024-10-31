@@ -1,0 +1,35 @@
+group: "jasoncw"
+name: "telus-plaza"
+version: "1.0"
+subfolder: "360-landmark"
+info:
+  summary: "Telus Plaza is a large office complex located in Edmonton, Canada."
+  author: "Jasoncw"
+  website: "https://community.simtropolis.com/files/file/29036-telus-plaza/"
+  description: |
+    Telus Plaza is a large office complex located in Edmonton, Canada.
+    • 10x6 growable CO§§ lot.
+    • 6x10 ploppable CO§§ lot.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_11_2013/7304dfea2ec7272393c26a0f72b00347-telus-plaza-stex-0.jpg"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "jasoncw-telus-plaza-mn"
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "jasoncw-telus-plaza-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/29036-telus-plaza/?do=download&r=120773"
+assetId: "jasoncw-telus-plaza-mn"
+version: "1.0"
+lastModified: "2013-11-04T06:42:45Z"
+
+---
+url: "https://community.simtropolis.com/files/file/29036-telus-plaza/?do=download&r=120774"
+assetId: "jasoncw-telus-plaza-dn"
+version: "1.0"
+lastModified: "2013-11-04T06:42:45Z"
