@@ -1,0 +1,36 @@
+group: "jasoncw"
+name: "macdonald-station"
+version: "1.0"
+subfolder: "610-safety"
+info:
+  summary: "MacDonald Station is derived from my Telus Plaza upload, and has been made into a separate lot for increased playability. In real life it's an office buildin..."
+  author: "Jasoncw"
+  website: "https://community.simtropolis.com/files/file/29375-macdonald-station/"
+  description: |
+    MacDonald Station is derived from my Telus Plaza upload, and has been made into a separate lot for increased playability. In real life it's an office building, but I have made it into a police station. It's comparable in size to Maxis's Large Police Station, and so it is comparable in stats, although the radius has been increased.
+    • 3x3 police station.
+    • MaxisNite and DarkNite night versions included.
+    • Dark Nite requires the Day and Nite Modd.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/71596e21915608b4e72022a477e24b0e-macdonald-station-stex-00.jpg"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "jasoncw-macdonald-station-mn"
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "jasoncw-macdonald-station-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/29375-macdonald-station/?do=download&r=127679"
+assetId: "jasoncw-macdonald-station-mn"
+version: "1.0"
+lastModified: "2014-03-28T03:18:31Z"
+
+---
+url: "https://community.simtropolis.com/files/file/29375-macdonald-station/?do=download&r=127680"
+assetId: "jasoncw-macdonald-station-dn"
+version: "1.0"
+lastModified: "2014-03-28T03:18:31Z"
