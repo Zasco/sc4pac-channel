@@ -1,0 +1,39 @@
+group: "vip"
+name: "vnaoned-props-pack-vol01"
+version: "3"
+subfolder: "100-props-textures"
+info:
+  summary: "This package includes many and varied props (227 props altogether through on three individual prop packs) created by Vnaoned."
+  description: |
+    For LOTters, the PROPS are available in Lot Editor, under the names: VV_ and VIP_Props_VV
+
+    Xmas lights are timed props (1st december to 15th january).
+    Inflatable pool are timed props (summer / rest of the year).
+    Dead leaves are timed props (autumn).
+
+    Contents as of Version 3 (v3):
+
+        VIP Vnaoned Propspack vol01 v2 (VIP_Props_VV_Propspack vol01 v2.dat)**
+        VIP Vnaoned Vehicules v2 (VIP_Props_VV_Vehicules v2.dat)*
+        VIP Vnaoned Monuments Props v2 (VIP_Props_VV_Monuments v2.dat)**
+
+        VV CarPackVol1 MMP v2 (VV_CarPackVol1_MMP_v2.dat)**
+
+    Special thanks to Barbyw & Girafe for packaging and renaming and TSC / VIP members for their support.
+  author: "Vnaoned"
+  images:
+  - "https://www.sc4evermore.com/images/jdownloads/screenshots/Icon_propspack%20vol.%201.jpg"
+  - "https://www.sc4evermore.com/images/jdownloads/screenshots/Icon_VIP_Vnaoned_Vehicules%20v2.jpg"
+  - "https://www.sc4evermore.com/images/jdownloads/screenshots/Icon_Louis_XVI_column_1.jpg"
+  - "https://www.sc4evermore.com/images/jdownloads/screenshots/Icon_propspack_1.jpg"
+  - "https://www.sc4evermore.com/images/jdownloads/screenshots/Icon_props_monument_1.jpg"
+  - "https://www.sc4evermore.com/images/jdownloads/screenshots/Icon_fountain_Concorde_1.jpg"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/188-vip-vnaoned-props-pack-vol01"
+assets:
+- assetId: "vip-vnaoned-props-pack-vol01"
+
+---
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=188:vip-vnaoned-props-pack-vol01&catid=22"
+assetId: "vip-vnaoned-props-pack-vol01"
+version: "3"
+lastModified: "2024-02-06T14:28:16Z"
