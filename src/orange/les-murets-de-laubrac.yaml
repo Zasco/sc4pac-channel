@@ -1,0 +1,25 @@
+group: "orange"
+name: "les-murets-de-laubrac"
+version: "1.0"
+subfolder: "180-flora"
+info:
+  summary: "26 lots de murets permettant des combinaisons multiples 96 HD prop regroupés en 8 prop family pour faciliter le travail des lotteurs."
+  description: |
+    + Les Pierres de l'Aubrac
+    Des pierres à plopper en mode maire afin d'agrémenter les Murets.
+    Pas de dépendance
+    Attention le fichier contenu dans ce téléchargement est un fichier exécutable (.exe), vous devez donc l'exécuter après le téléchargement de manière à installer les Murets de l'Aubrac.
+  images:
+  - "https://www.toutsimcities.com/img/downloads/image_1505.jpg"
+  website: "https://www.toutsimcities.com/downloads/view/1505"
+assets:
+- assetId: "orange-les-murets-de-laubrac"
+
+---
+url: "https://www.toutsimcities.com/downloads/start/1505"
+assetId: "orange-les-murets-de-laubrac"
+version: "1.0"
+lastModified: "2009-05-18T00:00Z"
+archiveType:
+  format: Clickteam
+  version: "40"
