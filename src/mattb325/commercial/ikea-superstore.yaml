@@ -34,12 +34,10 @@ info:
   - "https://www.simtropolis.com/objects/screens/monthly_2019_08/Ikea9a_MN.jpg.2f35af3264f7c58efaf53b969f69d674.jpg"
   website: "https://community.simtropolis.com/files/file/33085-ikea-superstore-maxis-nite-version/"
 variants:
-- variant:
-    nightmode: "standard"
+- variant: {nightmode: "standard"}
   assets:
   - assetId: "mattb325-ikea-superstore-mn"
-- variant:
-    nightmode: "dark"
+- variant: {nightmode: "dark"}
   assets:
   - assetId: "mattb325-ikea-superstore-dn"
   dependencies:
