@@ -1,0 +1,23 @@
+group: "runamuck"
+name: "hd-terrain-mod"
+version: "1.0"
+subfolder: "170-terrain"
+info:
+  summary: "Ahh, that default terrain, great for Motocross, Survivalist and Junkyards but, you do have a choice, everybody."
+  author: "runamuck"
+  website: "https://community.simtropolis.com/files/file/29117-runamucks-hd-terrain-mod/"
+  description: |
+    HD Terrain MOD.....
+    Description.....
+    Ahh, that default terrain, great for Motocross, Survivalist and Junkyards but, you do have a choice, everybody; Green acres is the place to be, SimCity is the life for me, land stretching out so far and wide, forget about Maxis - give me this countryside! This MOD has been developed and tested with Windows XP, running SimCity 4 Deluxe.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_12_2013/84069f0e328c825663bc40f115fe5060-terrain-1.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_12_2013/fcd7dd298e34b03685b3e66fa1a1c02f-terrain-2.jpg"
+assets:
+- assetId: "runamuck-hd-terrain-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/29117-runamucks-hd-terrain-mod/?do=download"
+assetId: "runamuck-hd-terrain-mod"
+version: "1.0"
+lastModified: "2013-12-15T11:12:13Z"
