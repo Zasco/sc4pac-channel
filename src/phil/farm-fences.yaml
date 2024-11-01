@@ -1,10 +1,10 @@
-group: "philforhockey51"
+group: "phil"
 name: "farm-fences"
 version: "1.0.0"
 subfolder: "150-mods"
 
 assets:
-- assetId: "philforhockey51-farm-fences"
+- assetId: "phil-farm-fences"
 
 dependencies:
 - "sfbt:essentials"
@@ -37,7 +37,7 @@ info:
   website: "https://community.simtropolis.com/files/file/36485-phil-farm-fences/"
 
 ---
-assetId: "philforhockey51-farm-fences"
+assetId: "phil-farm-fences"
 version: "1.0.0"
 lastModified: "2024-10-05T09:39:02Z"
 url: "https://community.simtropolis.com/files/file/36485-phil-farm-fences/?do=download"
