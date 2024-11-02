@@ -1,0 +1,36 @@
+group: "honolulu"
+name: "residence-les-arums"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "Lot 3x3 R$$ providing 74 residents at stage 4."
+  author: "Honolulu"
+  website: "https://community.simtropolis.com/files/file/36534-residence-les-arums/"
+  description: |
+    About:
+    Lot 3x3 R$ providing 74 residents at stage 4.
+    Any comments are welcome.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/Residence_Les_Arums_Day.jpg.54b3b8e205a88cd4d5a8fa74ad410768.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/Residence_Les_Arums_Nite.jpg.aa737642585c23052f5d07ae4d4cbb76.jpg"
+assets:
+- assetId: "honolulu-residence-les-arums"
+dependencies:
+- "agc:casual-sims-dlc"
+- "w-swietwoot:dutch-prop-pack"
+- "girafe:rowan-trees"
+- "girafe:cypresses"
+- "girafe:feather-grass"
+- "bsc:vip-girafe-urbanpack-vol01"
+- "bsc:vip-girafe-plane-trees"
+- "girafe:maxis-fence-hd-replacement-mod"
+- "namspopof:props-pack-vol2"
+- "hugues-aroux:textures-pack"
+- "scoty:mp-textures"
+- "wmp:mega-props-vol01"
+
+---
+url: "https://community.simtropolis.com/files/file/36534-residence-les-arums/?do=download"
+assetId: "honolulu-residence-les-arums"
+version: "1.0.0"
+lastModified: "2024-11-01T06:28:33Z"
