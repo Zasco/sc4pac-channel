@@ -1,0 +1,23 @@
+group: "scoty"
+name: "mp-textures"
+version: "1.0.0"
+subfolder: "100-props-textures"
+info:
+  summary: "A set of more than 400 textures (bases and overlays) to feed mainly the Scoty Modular parking plugin."
+  author: "hugues aroux"
+  website: "https://community.simtropolis.com/files/file/33635-scoty-mp-textures/"
+  description: |
+    A set of more than 400 textures (bases and overlays) to feed mainly the Scoty Modular parking plugin. + 3  multifsh base texture with the same ID.
+    You are free to use this file for your Lots, remember to indicate it in the dependencies!
+    The grass texture used is made to adapt to a Gobias Sudden valley environment. And the Street joins are made for the streets of Rivit 'tarsealed street'. For roads and avenues it's NAM.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2020_06/img_tech_diff.png.c69f8535532ff5fe001c7b4ea9b9f6f7.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2020_06/extr_tex.png.58d0bd0843678cb34da560e545ccbb37.png"
+assets:
+- assetId: "scoty-mp-textures"
+
+---
+url: "https://community.simtropolis.com/files/file/33635-scoty-mp-textures/?do=download"
+assetId: "scoty-mp-textures"
+version: "1.0.0"
+lastModified: "2020-06-03T17:54:36Z"
