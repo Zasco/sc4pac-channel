@@ -15,6 +15,7 @@ info:
   - "https://www.simtropolis.com/objects/screens/monthly_2024_10/West.jpg.c143131039248e228186c5b9d78a9beb.jpg"
   website: "https://community.simtropolis.com/files/file/36523-american-rowhome-8/"
 variants:
+- variant: {nightmode: "standard"}
 - variant: {nightmode: "dark"}
   assets:
   - assetId: "wannglondon-american-rowhome-8"
