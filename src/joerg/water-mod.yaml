@@ -1,0 +1,84 @@
+group: "joerg"
+name: "water-mod"
+version: "2"
+subfolder: "170-terrain"
+info:
+  summary: "Use this mod to change the color and texture of your water in the game."
+  author: "joerg"
+  website: "https://community.simtropolis.com/files/file/1969-joergs-water-mod/"
+  description: |
+    Use this mod to change the color and texture of your water in the game.
+    The pack includes 10 different colors and textures to choose from.
+    For more info view the readme with the pack.
+    Also i will not be changing this pack or taking any requests so please dont ask. Sorry
+  images:
+  - "https://www.simtropolis.com/objects/screens/0009/4fc5f4d8baf9f7c9b2e7d09e8a39d4ef-waterpack.jpg"
+variants:
+- variant: {joerg:water-mod:style: "black-sea"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "blacksea.dat"
+- variant: {joerg:water-mod:style: "bloody-nile"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "bloodynile.dat"
+- variant: {joerg:water-mod:style: "caribbean-dream"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "caribeandream.dat"
+- variant: {joerg:water-mod:style: "emerald-isles"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "emeraldisles.dat"
+- variant: {joerg:water-mod:style: "icy-arctic"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "icyartic.dat"
+- variant: {joerg:water-mod:style: "mediterranean"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "medeteranian.dat"
+- variant: {joerg:water-mod:style: "muddy-river"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "muddyriver.dat"
+- variant: {joerg:water-mod:style: "northern-pacific"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "northerpacific.dat"
+- variant: {joerg:water-mod:style: "rivers-of-lava"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "riversoflava.dat"
+- variant: {joerg:water-mod:style: "yellow-puke"}
+  assets:
+  - assetId: "joerg-water-mod"
+    include:
+    - "yellowpuke.dat"
+variantDescriptions:
+  joerg:water-mod:style:
+    black-sea: "Black sea water texture."
+    bloody-nile: "Bloody-nile water texture."
+    caribbean-dream: "Caribbean dream water texture."
+    emerald-isles: "Emerald isles water texture."
+    icy-arctic: "Icy arctic water texture."
+    mediterranean: "Mediterranean water texture."
+    muddy-river: "Muddy river water texture."
+    northern-pacific: "Northern pacific water texture."
+    rivers-of-lava: "Rivers of lava water texture."
+    yellow-puke: "Yellow puke water texture."
+
+---
+url: "https://community.simtropolis.com/files/file/1969-joergs-water-mod/?do=download"
+assetId: "joerg-water-mod"
+version: "2"
+lastModified: "2003-12-28T18:32:34Z"
