@@ -1,0 +1,56 @@
+group: "jp-schriefer"
+name: "castelo-del-mar"
+version: "1.0"
+subfolder: "360-landmark"
+info:
+  summary: "Located in the city of Recife, PE, Brazil, Castelo Del Mar is a modernist residential condominium with twin towers built in 2001."
+  author: "JP Schriefer"
+  website: "https://community.simtropolis.com/files/file/31493-castelo-del-mar/"
+  description: |
+    Located in the city of Recife, PE, Brazil, Castelo Del Mar is a modernist residential condominium with twin towers built in 2001.
+    Note: this file includes only a stand-alone tower.
+    The Lot includes two pools and 6 Palm Trees, they may take a while to appear.
+    Note: I highly suggest you to also download the reloted versions made by @Fantozzi, they look really good:
+    Maxis Version
+    CAM Version
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_03/CDM5.png.418be0f060cf9d5fc1ad4cb02f2f118d.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_03/CDM4.png.658e3eb7733ab12fb4b656fc694c66f3.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_03/CDM1.png.c3962c2cfaa6b8c5a0c96b766676b79f.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_03/CDM3.png.f9e9647fbe13d22691f69769e251f465.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_03/CDM2.png.6d559f617dbd9df0caacc2c2b7473149.png"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "jp-schriefer-castelo-del-mar-res-mn"
+  - assetId: "jp-schriefer-castelo-del-mar-lm-mn"
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "jp-schriefer-castelo-del-mar-res-dn"
+  - assetId: "jp-schriefer-castelo-del-mar-lm-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/31493-castelo-del-mar/?do=download&r=164785"
+assetId: "jp-schriefer-castelo-del-mar-res-mn"
+version: "1.0"
+lastModified: "2017-03-02T05:59:35Z"
+
+---
+url: "https://community.simtropolis.com/files/file/31493-castelo-del-mar/?do=download&r=164786"
+assetId: "jp-schriefer-castelo-del-mar-lm-mn"
+version: "1.0"
+lastModified: "2017-03-02T05:59:35Z"
+
+---
+url: "https://community.simtropolis.com/files/file/31493-castelo-del-mar/?do=download&r=164787"
+assetId: "jp-schriefer-castelo-del-mar-res-dn"
+version: "1.0"
+lastModified: "2017-03-02T05:59:35Z"
+
+---
+url: "https://community.simtropolis.com/files/file/31493-castelo-del-mar/?do=download&r=164788"
+assetId: "jp-schriefer-castelo-del-mar-lm-dn"
+version: "1.0"
+lastModified: "2017-03-02T05:59:35Z"
