@@ -1,0 +1,35 @@
+group: "11241036"
+name: "small-graveyards"
+version: "2"
+subfolder: "650-religion"
+info:
+  summary: "Not every community needs a large graveyard."
+  author: "11241036"
+  website: "https://community.simtropolis.com/files/file/32518-small-graveyards/"
+  description: |
+    Not every community needs a large graveyard. Some small, remote villages in rural or mountaineous areas can deal with just a small one. I haven’t found any small graveyard plugins on the internet so far, so I just made myself some. They have a small but notable positive impact on their environment due to the small park effect, and they slightly raise mayor rating. Contrarily to the default Maxis graveyards, you can build as many of these small graveyards as you want, but they charge monthly maintenance cost.
+    For further information, please refer to the Readme in the download.
+    Available languages: English, German
+    Submenu compatibility: This plugin has been made compatible with memo’s Submenus DLL mod. All people using this mod will find a submenu containing these graveyards either directly in the Landmarks menu, or in the Churches and Cemeteries submenu provided by memo (see installation instructions below). All other users will simply find them in their Landmarks menu. Please refer to the Readme to see how the submenu icon looks like.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2018_09/Scr1.png.074054387d0b30669e9dfb259ac4377f.png"
+assets:
+- assetId: "11241036-small-graveyards"
+dependencies:
+- "girafe:beeches"
+- "girafe:elms"
+- "girafe:ashes"
+- "girafe:lindens"
+- "girafe:birches"
+- "girafe:rowan-trees"
+- "historic-harbor:dependencies"
+- "bsc:mega-props-sg-vol01"
+- "bsc:textures-vol03"
+- "sfbt:churches-and-cemeteries"
+- "sfbt:essentials"
+
+---
+url: "https://community.simtropolis.com/files/file/32518-small-graveyards/?do=download"
+assetId: "11241036-small-graveyards"
+version: "2"
+lastModified: "2024-11-02T22:04:34Z"
