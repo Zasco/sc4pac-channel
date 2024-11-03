@@ -1,0 +1,42 @@
+group: "fantozzi"
+name: "castelo-del-mar-relot"
+version: "1.0"
+subfolder: "360-landmark"
+info:
+  summary: "3 Relots of JP Schriefers Castelo Del Mar."
+  author: "Fantozzi"
+  website: "https://community.simtropolis.com/files/file/31565-jp-schriefers-castelo-del-mar-relot-maxis-version/"
+  description: |
+    3 Relots of JP Schriefers Castelo Del Mar, Grow Stage 8
+    1xR$, 2xR$
+    Lot Sizes: 2x3, 3x3,3x2
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_04/castelo.jpg.c8ee88c873f29b890bdc43b777bdbde8.jpg"
+dependencies:
+- "jp-schriefer:castelo-del-mar"
+- "bsc:mega-props-cp-vol02"
+- "bsc:mega-props-mjb-vol02"
+- "bsc:mega-props-sg-vol01"
+- "bsc:textures-vol01"
+- "fantozzi:audio-essentials"
+variants:
+- variant: {CAM: "no"}
+  assets:
+  - assetId: "fantozzi-castelo-del-mar-relot-maxis-version"
+- variant: {CAM: "yes"}
+  assets:
+  - assetId: "fantozzi-castelo-del-mar-relot-cam-version"
+  dependencies:
+  - "cam:colossus-addon-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/31565-jp-schriefers-castelo-del-mar-relot-maxis-version/?do=download"
+assetId: "fantozzi-castelo-del-mar-relot-maxis-version"
+version: "1.0"
+lastModified: "2017-04-15T08:19:31Z"
+
+---
+url: "https://community.simtropolis.com/files/file/31564-jp-schriefers-castelo-del-mar-relot-cam-version/?do=download"
+assetId: "fantozzi-castelo-del-mar-relot-cam-version"
+version: "1.0"
+lastModified: "2017-04-15T08:13:26Z"
