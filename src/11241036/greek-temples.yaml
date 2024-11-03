@@ -1,0 +1,31 @@
+group: "11241036"
+name: "greek-temples"
+version: "1a"
+subfolder: "650-religion"
+info:
+  summary: "I found these nice temple props made by @debussyman by coincidence among my plugins."
+  author: "11241036, debussyman"
+  website: "https://community.simtropolis.com/files/file/36189-greek-temples/"
+  description: |
+    Temple props: debussyman
+    Lotting: 11241036
+    Version: 1a
+    Description:
+    I found these nice temple props made by @debussyman by coincidence among my plugins. Since I couldn't find any plugin uploaded on the STEX containing lots with these props (except the Temple of the STEX Goddess), I just decided to make my own. This plugin contains 4 ploppable lots in the Landmark menu, each with a temple and a few decorations. They don't do anything special, but they have some landmark effect. The internal prop names refer to 4 people/deities from ancient Greek mythology; I decided to keep these names.
+    For exact lot details, please read the Readme. This plugin is available in English and German, the game picks the language automatically.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_04/660b9474d77f2_Scr_GreekTemples.png.5b26eb20ad40bc526c5ee7ab6ee293b4.png"
+assets:
+- assetId: "11241036-greek-temples"
+dependencies:
+- "bsc:mega-props-sg-vol01"
+- "bsc:mega-props-dbssymn-vol02"
+- "girafe:parasol-pines"
+- "girafe:cypresses"
+- "peg:mtp-super-pack"
+
+---
+url: "https://community.simtropolis.com/files/file/36189-greek-temples/?do=download"
+assetId: "11241036-greek-temples"
+version: "1a"
+lastModified: "2024-11-03T15:06:43Z"
