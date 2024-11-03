@@ -2,6 +2,7 @@
 /sc4pac-channel-contents.json
 /*.lnk
 /*.bat
+/*.log
 
 /src/**/*
 !/src/**/*/
