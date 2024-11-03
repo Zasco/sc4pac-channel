@@ -1,0 +1,23 @@
+group: "11241036"
+name: "avenue-roundabout-filler-with-nam-logo"
+version: "1a"
+subfolder: "660-parks"
+info:
+  summary: "This simple avenue roundabout filler, a 2x2 lot that can be plopped into the center of an avenue roundabout like any other roundabout filler."
+  author: "11241036"
+  website: "https://community.simtropolis.com/files/file/31742-avenue-roundabout-filler-with-nam-logo/"
+  description: |
+    This simple avenue roundabout filler, a 2x2 lot that can be plopped into the center of an avenue roundabout like any other roundabout filler, is a tribute to arugably one of the the greatest and most important SC4 mods of all time. It can be found in the park menu.
+    For further information and lot stats, please refer to the Readme in the download.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2017_06/5935de90ae62e_NAMKreisverkehrfller.png.362f171e434364ae54db0276421dfb66.png"
+assets:
+- assetId: "11241036-avenue-roundabout-filler-with-nam-logo"
+dependencies:
+- "bsc:mega-props-sg-vol01"
+
+---
+url: "https://community.simtropolis.com/files/file/31742-avenue-roundabout-filler-with-nam-logo/?do=download"
+assetId: "11241036-avenue-roundabout-filler-with-nam-logo"
+version: "1a"
+lastModified: "2024-11-03T15:23:20Z"
