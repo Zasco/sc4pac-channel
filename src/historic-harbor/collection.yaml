@@ -1,0 +1,22 @@
+group: "historic-harbor"
+name: "collection"
+version: "1.0"
+subfolder: "100-props-textures"
+info:
+  summary: "Historic Harbor collection."
+  author: "mgb, Paeng, tariel, epicblunder, cmdp123789, Chris11, NielsC007, rathefalcon, Indiana Joe"
+  website: "https://community.simtropolis.com/files/file/29880-historic-harbor/"
+  description: |
+    Historic Harbor is a comprehensive 'modular set' that includes over 1,000 BATed models, a wide assortment of MMPs, and over 100 individual lots (each with custom icons).
+    We named it 'Historic Harbor' because it is supposed to represent what a harbor might look like in the late 19th century, but that doesn't mean it can't be used in conjunction with modern cities. Look around at many waterfront cities today and you will find traces from a bygone era.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/1baae1deb88b6e63553edbe1475a8402-hh_cover_art.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/b72b9d29247d3dc8fe5adeda43f1b4c4-screenshot6.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/5b12caef5716971d572ea76019ab3686-screenshot5.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/d14aedda4e96c4b084057b752649800b-screenshot4.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/4d007ee0e07212e1b20d7ef24d0c6d51-screenshot3.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/9826e484b2ff1d184ed55543281a78bd-screenshot2.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_09_2014/8ff80ef921fdc22a68897bffbc5c7035-screenshot1.jpg"
+dependencies:
+- "historic-harbor:lots"
+- "historic-harbor:mmps"
