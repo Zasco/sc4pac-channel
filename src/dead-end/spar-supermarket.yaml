@@ -1,0 +1,28 @@
+group: "dead-end"
+name: "spar-supermarket"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Spar is a Dutch multinational franchise of supermarkets. I created this 6x4 growable lot specifically for my Scandinavian towns and cities, but it should fit..."
+  author: "Dead_End, Glenni"
+  website: "https://community.simtropolis.com/files/file/36314-spar-supermarket/"
+  description: |
+    Spar is a Dutch multinational franchise of supermarkets. I created this 6x4 growable lot specifically for my Scandinavian towns and cities, but it should fit in well with other regional styles as well. In theory this should grow on any of the tile sets, but I recommend plopping it through the 'buildingplop' cheat if you're having issues.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/66707423c32b9_ScreenshotSpar.JPG.df384d111cb75422be0383fef34eecde.JPG"
+assets:
+- assetId: "dead-end-spar-supermarket"
+dependencies:
+- "ndex:glenni-mega-props-vol02"
+- "supershk:mega-parking-textures"
+- "shk:parking-pack"
+- "murimk:props-vol01-bicycle"
+- "girafe:maxis-fence-hd-replacement-mod"
+- "rdg:prop-pack-1"
+- "girafe:common-spruces"
+
+---
+url: "https://community.simtropolis.com/files/file/36314-spar-supermarket/?do=download"
+assetId: "dead-end-spar-supermarket"
+version: "1.0.0"
+lastModified: "2024-06-17T18:09:29Z"
