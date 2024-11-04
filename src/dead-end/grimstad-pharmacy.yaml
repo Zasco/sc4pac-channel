@@ -1,0 +1,27 @@
+group: "dead-end"
+name: "grimstad-pharmacy"
+version: "1.0.1"
+subfolder: "630-health"
+info:
+  summary: "This small 1x1 pharmacy lot is designed to fit in W2W environments, particularly those with Scandinavian themes."
+  author: "Dead_End, Oidaas"
+  website: "https://community.simtropolis.com/files/file/36457-grimstad-pharmacy/"
+  description: |
+    This small 1x1 pharmacy lot is designed to fit in W2W environments, particularly those with Scandinavian themes. You'll find it in the menu with your other health and medical related buildings. It's named after the Norwegian town of Grimstad, but as far as I know it's not located there. 
+    Special thanks to @Oidaas for creating such a wonderful building!
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_09/Screenshot_Pharmacy.JPG.a828e0a7b5162977fd7b594ee4356056.JPG"
+assets:
+- assetId: "dead-end-grimstad-pharmacy"
+dependencies:
+- "oidaas:malmberget-props-vol02"
+- "bsc:mega-props-cp-vol01"
+- "girafe:maxis-fence-hd-replacement-mod"
+- "girafe:sparaxis"
+- "girafe:narcissus"
+
+---
+url: "https://community.simtropolis.com/files/file/36457-grimstad-pharmacy/?do=download"
+assetId: "dead-end-grimstad-pharmacy"
+version: "1.0.1"
+lastModified: "2024-09-22T07:43:56Z"
