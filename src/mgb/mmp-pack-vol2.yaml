@@ -1,0 +1,39 @@
+group: "mgb"
+name: "mmp-pack-vol2"
+version: "1.0"
+subfolder: "180-flora"
+info:
+  summary: "Girafe made many tree models that either work only as props, or only as MMPs. As such, this pack of MMPs is designed to bolster your MMP menu, with some trees that otherwise could only be used on lots."
+  author: "rsc204"
+  website: "https://community.simtropolis.com/files/file/31285-mgb-mmp-pack-vol2/"
+  description: |
+    Girafe made many tree models that either work only as props, or only as MMPs. As such, this pack of MMPs is designed to bolster your MMP menu, with some trees that otherwise could only be used on lots.
+    Each of the 7 included MMPs include only single-tree props. Girafe's releases only cover these tree types with tree clusters.
+    Contained in the included zip are 3 files containing 7 MMPs as follows (links to dependencies here):
+    Maples (Seasonal)
+      - Maples (v1)
+      - Norway Maples
+    Misc (Seasonal)
+      - Ash
+      - Beech
+      - Birch
+      - Liden
+    Parasol Pines (Evergreen)
+      - Parasol Pines
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2016_09/STEX.jpg.811cca8066e3d60d8076f2d439b4456e.jpg"
+assets:
+- assetId: "mgb-mmp-pack-vol2"
+dependencies:
+- "girafe:maples"
+- "girafe:norway-maples"
+- "girafe:ashes"
+- "girafe:beeches"
+- "girafe:lindens"
+- "girafe:parasol-pines"
+
+---
+url: "https://community.simtropolis.com/files/file/31285-mgb-mmp-pack-vol2/?do=download"
+assetId: "mgb-mmp-pack-vol2"
+version: "1.0"
+lastModified: "2023-04-12T21:26:36Z"
