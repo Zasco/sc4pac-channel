@@ -1,0 +1,31 @@
+group: "murimk"
+name: "props-vol01-bicycle"
+version: "1.0"
+subfolder: "100-props-textures"
+info:
+  summary: "Murimk Bicycle PropsFor all who wish to introduce biycle-related items to their cities, here is the prop pack just for you."
+  author: "murimk"
+  website: "https://community.simtropolis.com/files/file/25681-murimk-props-vol01-bicycle-props-with-bikers-mmp"
+  description: |
+    Murimk Bicycle Props
+    For all who wish to introduce biycle-related items to their cities, here is the prop pack just for you. It is organized in different packages containing the following:
+    Bikes (7 different colors)
+    Bikers (straight and diagonal, in 7 different colors - timed to appear/disappear at certain times of the day)
+    Stands (with varying number of bikes)
+    Shop Stands (with advertisement and varying number of bikes)
+    Bike Shelters (2 types, with various colors)
+    Shop Signs (2 variations)
+    In addition to the single props you'll also find prop-families for most items, as well as a MayorMode Ploppable (MMP) set for the bikers.
+    All props are named with the prefix 'MUR' to easily locate them in LE.
+    The props from this pack can be used to make your own lots. Do not include them in your upload though - please point to this pack as a dependency.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0022/c5ba4a400b1e01c96c2e5b7237ad2e6f-stex01.jpg"
+  - "https://www.simtropolis.com/objects/screens/0022/c5ba4a400b1e01c96c2e5b7237ad2e6f-stex02.jpg"
+assets:
+- assetId: "murimk-props-vol01-bicycle"
+
+---
+url: "https://community.simtropolis.com/files/file/25681-murimk-props-vol01-bicycle-props-with-bikers-mmp/?do=download"
+assetId: "murimk-props-vol01-bicycle"
+version: "1.0"
+lastModified: "2011-01-13T11:14:03Z"
