@@ -1,0 +1,37 @@
+group: "thalassicus"
+name: "underground-depth-mod"
+version: "1.0"
+subfolder: "150-mods"
+info:
+  summary: "This mod increases the depth to which pipes and subways can be built, allowing much easier placement up cliffs and steep terrain."
+  author: "Thalassicus"
+  website: "https://community.simtropolis.com/files/file/21366-underground-depth-mod-v10/"
+  description: |
+    This mod increases the depth to which pipes and subways can be built, allowing much easier placement up cliffs and steep terrain.
+    The x2 version is good for almost all situations, if you zigzag networks up cliffs steeper than 200ft/tile; x3 and Radical versions are also included.
+    See the Readme for more details.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0017/9a2cbb5c989f61966fd16b09dadff5cd-subway%20avatar.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2018_07/5b4ca9ccb9b90_ExtremeSubwayandWaterPipeSlopes.jpg.d5e39f7b4f11891bbcd395f9696cab6d.jpg"
+variants:
+- variant: {thalassicus:underground-depth-mod:version: "2x"}
+  assets:
+  - assetId: "thalassicus-underground-depth-mod"
+    include:
+    - "/THL_Depth_Underground_Mod x2.dat"
+- variant: {thalassicus:underground-depth-mod:version: "3x"}
+  assets:
+  - assetId: "thalassicus-underground-depth-mod"
+    include:
+    - "/THL_Depth_Underground_Mod x3.dat"
+- variant: {thalassicus:underground-depth-mod:version: "radical"}
+  assets:
+  - assetId: "thalassicus-underground-depth-mod"
+    include:
+    - "/THL_Depth_Underground_Mod Radical.dat"
+
+---
+url: "https://community.simtropolis.com/files/file/21366-underground-depth-mod-v10/?do=download"
+assetId: "thalassicus-underground-depth-mod"
+version: "1.0"
+lastModified: "2018-07-16T14:21:22Z"
