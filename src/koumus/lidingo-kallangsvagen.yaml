@@ -1,0 +1,26 @@
+group: "koumus"
+name: "lidingo-kallangsvagen"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "Lidingö Källängsvägen"
+  author: "koumus"
+  website: "https://community.simtropolis.com/files/file/34103-lidingc3%b6-k%c3%a4ll%c3%a4ngsv%c3%a4gen/"
+  description: |
+    older model i wrecked my nerves with for a couple evenings trying to make a custom foundation with vegetation, slope floors and the ground garage level, ended up scrapping it. it still has minor issues im not happy with ,but thats just some textures and scale of some objects which i probably wont be revisiting.
+    stats:
+    R$ - 138
+    2x2 high density
+    New York tileset
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/front.jpg.611c40159ab6e2cc1f9936daeee2631e.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/side.jpg.e7b8607c1d5d5148bb9cd946b1f8eb6b.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_02/entire.jpg.2b2523e97c7e84ff8e988564efda68e4.jpg"
+assets:
+- assetId: "koumus-lidingo-kallangsvagen"
+
+---
+url: "https://community.simtropolis.com/files/file/34103-lidingö-källängsvägen/?do=download"
+assetId: "koumus-lidingo-kallangsvagen"
+version: "1.0.0"
+lastModified: "2021-02-07T17:24:55Z"
