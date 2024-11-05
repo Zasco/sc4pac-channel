@@ -1,0 +1,24 @@
+group: "blam"
+name: "steinsaas-taarnet"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "This is a fictional building, Steinsås tårnet means Stonehill Tower in norwegian."
+  author: "Glenni, Prepo, Dusktrooper"
+  website: "https://community.simtropolis.com/files/file/17076-blam-steinsaas-taarnet/"
+  description: |
+    This is a fictional building,Steinsås tårnet means Stonehill Tower in norwegian.
+    I apologise for just making simple nightlights windows instead of omnis , for some reason omnis always messed up on this one.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0007/32224160527fbaee4df373eaef7d7ee9-Steinsaas_day.JPG"
+  - "https://www.simtropolis.com/objects/screens/0007/32224160527fbaee4df373eaef7d7ee9-Steinsaas_night.JPG"
+assets:
+- assetId: "blam-steinsaas-taarnet"
+dependencies:
+- "porkissimo:jenx-porkie-expanded-porkie-props"
+
+---
+url: "https://community.simtropolis.com/files/file/17076-blam-steinsaas-taarnet/?do=download"
+assetId: "blam-steinsaas-taarnet"
+version: "1.0"
+lastModified: "2006-10-13T14:33:54Z"
