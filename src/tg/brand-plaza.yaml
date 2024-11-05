@@ -1,0 +1,38 @@
+group: "tg"
+name: "brand-plaza"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Fictious office building by Krio, based on 70's American brutalist style housing research company Brand, subsidary of Roxxon."
+  author: "Krio, Tyberius06"
+  website: "https://community.simtropolis.com/files/file/36290-tg-krio-brand-plaza/"
+  description: |
+    Fictious office building by Krio, based on 70's American brutalist style housing research company Brand, subsidary of Roxxon.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/6661ae7373acf_TGBrandPlaza-d1.jpg.88bae815d1fa4f2d8018602bf65520a7.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/6661ae75c9879_TGBrandPlaza-n1.jpg.a304ed4c3b40f138625b6db12f9adcd2.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/6661ae84100e2_TGBrandPlaza-d2.jpg.a9fa413fb653b3d06c65abc0342349a6.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/6661ae868ae80_TGBrandPlaza-n2.jpg.c21039aa012fc1120784b5d8981e5744.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/6661ae894f10c_TGBrandPlaza-PlopMenu.jpg.8059c712d530ecb72e8212d96aa42087.jpg"
+dependencies:
+- "bsc:vip-girafe-carpack-vol04"
+- "agc:street-props"
+- "agc:automobile-dlc"
+- "supershk:mega-parking-textures"
+variants:
+- variant: {CAM: "no"}
+  assets:
+  - assetId: "tg-brand-plaza"
+    exclude:
+    - '/CO\$\$11_4x2_TG_Brand-Plaza01_GROW_CAM_e3e67c38.SC4Lot'
+- variant: {CAM: "yes"}
+  assets:
+  - assetId: "tg-brand-plaza"
+    exclude:
+    - '/CO\$\$8_4x3_TG_Brand-Plaza01_Co\$\$_GROW_43e67cf6.SC4Lot'
+
+---
+url: "https://community.simtropolis.com/files/file/36290-tg-krio-brand-plaza/?do=download"
+assetId: "tg-brand-plaza"
+version: "1.0.0"
+lastModified: "2024-06-06T12:48:19Z"
