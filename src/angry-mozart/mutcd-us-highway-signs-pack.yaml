@@ -1,0 +1,27 @@
+group: "angry-mozart"
+name: "mutcd-us-highway-signs-pack"
+version: "1.0"
+subfolder: "150-mods"
+info:
+  summary: "These highway signs, based on the Manual on Uniform Traffic Control Devices (MUTCD) will add a little bit of realism to your roads."
+  author: "Angry Mozart"
+  website: "https://community.simtropolis.com/files/file/33076-mutcd-us-highway-signs-pack/"
+  description: |
+    Are your sims speeding?, Tired of not knowing what comes ahead in the road?, Want to add realism to your highways?
+    Then you are on the right file!
+    These highway signs, based on the Manual on Uniform Traffic Control Devices (MUTCD) will add a little bit of realism to your roads. From speed limit to rest stop signs, this pack contains around 100 signs distributed in 51 lots. You will find these lots almost at the bottom of the Miscellaneous Transportation menu. These lots have no bulldoze nor mantenaince cost.
+    Some of these lots include prop families, meaning that, in order to plop an specific signnyou may have to plop it several times until get it right. The signs included in the lot are specified in its description.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2019_08/curve2.png.d4bf27d4162dd93e5198c41b64f45590.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2019_08/exit1.png.7835c9237edfec3ccc2176320d753b33.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2019_08/exit2.png.ca504e8e18e28db02e3d5e1a9e8c92f7.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2019_08/exits.png.10a441cdeff48a90c2d9fa736bda50e7.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2019_08/signs.png.970f82e1f3cb615797e3d2b6abb68cd8.png"
+assets:
+- assetId: "angry-mozart-mutcd-us-highway-signs-pack"
+
+---
+url: "https://community.simtropolis.com/files/file/33076-mutcd-us-highway-signs-pack/?do=download"
+assetId: "angry-mozart-mutcd-us-highway-signs-pack"
+version: "1.0"
+lastModified: "2019-08-09T22:31:11Z"
