@@ -1,0 +1,35 @@
+group: "dead-end"
+name: "hjorthagen-school-relot"
+version: "1.0.0"
+subfolder: "620-education"
+info:
+  summary: "This primary school features two buildings: a large structure from the early 20th century and a newer one, probably built around the 1980's for extra capacity."
+  author: "Dead_End, koumus"
+  website: "https://community.simtropolis.com/files/file/36540-hjorthagen-school-relot/"
+  description: |
+    This primary school features two buildings: a large structure from the early 20th century and a newer one, probably built around the 1980's for extra capacity. The 5x4 lot also comes with a small square for kids to play around during recess. Bike storage is available in the front and back. Cars can park in the back. The driveway is transit enabled for streets, making it easy to connect this to existing road networks. It has the same stats as the original building by @koumus: 18$ 20$ and 2$ jobs, and a capacity of 500 students.
+    The attached screenshots show my custom pavement (created through @rsc204's MTRDK) and grass (Lowkee's Appalachian terrain mod). As far as I know the used texture ID's are standard, so it should work whether or not you're using particular mods. Let me know in the comments if you run into any trouble!
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/672ba270d3d24_Skola1.JPG.b40dd8887129f1a2f2973ed6fa6cfb98.JPG"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/672ba27162878_Skola2.JPG.fb4ec4ea68c5944e7da97ca03d3799e2.JPG"
+assets:
+- assetId: "dead-end-hjorthagen-school-relot"
+dependencies:
+- "koumus:hjorthagen-school"
+- "supershk:mega-parking-textures"
+- "girafe:maxis-fence-hd-replacement-mod"
+- "girafe:bushes"
+- "girafe:daisy"
+- "girafe:lindens"
+- "girafe:norway-maples"
+- "girafe:rowan-trees"
+- "porkissimo:jenx-porkie-expanded-porkie-props"
+- "murimk:props-vol01-bicycle"
+- "shk:parking-pack"
+- "rdg:prop-pack-1"
+
+---
+url: "https://community.simtropolis.com/files/file/36540-hjorthagen-school-relot/?do=download"
+assetId: "dead-end-hjorthagen-school-relot"
+version: "1.0.0"
+lastModified: "2024-11-06T17:35:43Z"
