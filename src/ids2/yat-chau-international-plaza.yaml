@@ -1,0 +1,35 @@
+group: "ids2"
+name: "yat-chau-international-plaza"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Yat Chau International Plaza (street address 118 Connaught Road West), completed in 1994, is a postmodern skyscraper located in central Hong Kong."
+  author: "IDS2, Barroco Hispano"
+  website: "https://community.simtropolis.com/files/file/35259-yat-chau-international-plaza/"
+  description: |
+    Yat Chau International Plaza (street address 118 Connaught Road West), completed in 1994, is a postmodern skyscraper located in central Hong Kong. This version sits on a corner 4x3 lot and comes in CO$ (3720 jobs) and CO$$(2603 jobs) varieties. Both Darknite and Maxisnite versions are provided, of which only one should be used at a time. The Darknite version requires Simfox's Day and Nite Modd.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2022_08/main.png.af788f07c2efe60e6f82edfc6f4a0581.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2022_08/DayFront_V2.png.f5b1573810892f840e8ee974f09ed9f4.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2022_08/NightFront_V2.png.247ee9baad9218644cb198891b4b357e.png"
+variants:
+- variant: {nightmode: "standard"}
+  assets:
+  - assetId: "ids2-yat-chau-international-plaza-mn"
+- variant: {nightmode: "dark"}
+  assets:
+  - assetId: "ids2-yat-chau-international-plaza-dn"
+  dependencies:
+  - "simfox:day-and-nite-mod"
+
+---
+url: "https://community.simtropolis.com/files/file/35259-yat-chau-international-plaza/?do=download&r=194999"
+assetId: "ids2-yat-chau-international-plaza-dn"
+version: "1.0.0"
+lastModified: "2022-08-09T02:56:01Z"
+
+---
+url: "https://community.simtropolis.com/files/file/35259-yat-chau-international-plaza/?do=download&r=195000"
+assetId: "ids2-yat-chau-international-plaza-mn"
+version: "1.0.0"
+lastModified: "2022-08-09T02:56:01Z"
