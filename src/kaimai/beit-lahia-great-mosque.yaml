@@ -1,6 +1,6 @@
 group: "kaimai"
 name: "beit-lahia-great-mosque"
-version: "1.0.0"
+version: "2.0.0"
 subfolder: "360-landmark"
 info:
   summary: "This is a simplified rendition of the Masjid Salim Abu Muslim (مسجد سليم أبو مسلم), a beautiful modern W2W mosque from the town of Beit Lahia in the northern Gaza Strip, Palestine."
@@ -43,5 +43,5 @@ variants:
 ---
 url: "https://community.simtropolis.com/files/file/36528-masjid-salim-abu-muslim-beit-lahia-great-mosque/?do=download"
 assetId: "kaimai-beit-lahia-great-mosque"
-version: "1.0.0"
-lastModified: "2024-10-26T19:59:19Z"
+version: "2.0.0"
+lastModified: "2024-11-08T05:08:48Z"
