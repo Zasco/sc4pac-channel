@@ -1,0 +1,32 @@
+group: "dead-end"
+name: "white-villa"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "Classic villas like this can be found in rather posh areas of the Netherlands."
+  author: "Dead_End, Haarlemmergold"
+  website: "https://community.simtropolis.com/files/file/36541-white-villa/"
+  description: |
+    Classic villas like this can be found in rather posh areas of the Netherlands. Or in other countries for that matter... I imagine this wouldn't look out of place in any European style town. It's a relot of an older building by the great @Haarlemmergold
+    Capacity satisfied: R$44, R$26, R$$13. It should grow on any tileset.
+    The attached screenshots show my custom pavement (created through @rsc204's MTRDK) and grass (Lowkee's Appalachian terrain mod). As far as I know the used texture ID's are standard, so it should work whether or not you're using particular mods. Let me know in the comments if you run into any trouble!
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/Relot_Haarlemmergold_Villa.JPG.1cb519d0941f520a7e58c9c73eff7400.JPG"
+assets:
+- assetId: "dead-end-white-villa"
+dependencies:
+- "haarlemmergold:mega-props-dutch-vol01"
+- "11241036:textures"
+- "girafe:maxis-fence-hd-replacement-mod"
+- "girafe:daisy"
+- "girafe:poplars"
+- "girafe:rowan-trees"
+- "sfbt:essentials"
+- "shk:parking-pack"
+- "rdg:prop-pack-1"
+
+---
+url: "https://community.simtropolis.com/files/file/36541-white-villa/?do=download"
+assetId: "dead-end-white-villa"
+version: "1.0.0"
+lastModified: "2024-11-07T22:45:10Z"
