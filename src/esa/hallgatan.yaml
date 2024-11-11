@@ -1,0 +1,47 @@
+group: "esa"
+name: "hallgatan"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "This is a house that was situated in the Swedish Town of Malmberget."
+  author: "Oidaas"
+  website: "https://community.simtropolis.com/files/file/36545-esa-hallgatan/"
+  description: |
+    About
+    This is a house that was situated in the Swedish Town of Malmberget. In game it's modded as a R$$
+    Stats
+    Bulldoze Cost     186                     
+    Wealth     High Wealth                     
+    Pollution at center     Air     Water     Garbage     Radiation         
+    1     1     4     0         
+    Pollution radii     Air     Water     Garbage     Radiation         
+    6     7     0     0         
+    Flammability     35                     
+    MaxFireStage     2                     
+    Power Consumed     2                     
+    Water Consumed     5                     
+    SFX:Query Sound     0x6a63bba2                     
+    Query exemplar GUID     0x4a5672bf                     
+    OccupantGroups     Building: Residential     Style: Houston     Building: R$$             
+    Occupant Size     Width     Height     Depth             
+    24.895     14.7     13.0117             
+    Occupant Types     R$     R$     R$$             
+    Building value     549                     
+    Capacity Satisfied     R-$     R-$     R-$$             
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/673123a45acb2_Aircity-Oct.21131731272568.jpg.01f17852f66b58e271357e3ec5362500.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/673123b102486_Aircity-Nov.3131731272603.jpg.38cc571e9818038a2bd0d30af2cfb476.jpg"
+assets:
+- assetId: "esa-hallgatan"
+dependencies:
+- "oidaas:malmberget-props-vol02"
+- "bsc:mega-props-sg-vol01"
+- "bsc:texturepack-cycledogg-vol01"
+- "girafe:maples-v2"
+- "girafe:oaks"
+
+---
+url: "https://community.simtropolis.com/files/file/36545-esa-hallgatan/?do=download"
+assetId: "esa-hallgatan"
+version: "1.0.0"
+lastModified: "2024-11-10T21:22:12Z"
