@@ -1,0 +1,48 @@
+group: "tg"
+name: "liittopankki-office"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Fictional skyscraper offices for a fictional bank by Krio."
+  author: "Krio, Tyberius06"
+  website: "https://community.simtropolis.com/files/file/36546-tg-krio-liittopankki-office/"
+  description: |
+    Fictional skyscraper offices for a fictional bank by Krio. Liittopankki is one of the biggest banks of Kriocity with few and some customers here and there.
+    It contains FOUR lots:
+    Stage 10 CAM 3x3 Commercial Office with 2608 Co$ jobs (3727 when dilapidated) - Colossus Addon Mod requred if you keep this file (see dependencies below)
+    Stage 8 3x3 Commercial Office with 1779 Co$ jobs (2542 when dilapidated)
+    Plop 3x3 with 1088 Co$ Jobs (aka Krio's Original Version)
+    Plop Diagonal 2x2 (overhanging) with 1555 Co$ Jobs
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/TG_Liittopankki_STEX-d.jpg.c050c52b458ebe8f81ae90501789442a.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/TG_Liittopankki_STEX-n.jpg.fa9e9f3add8fc607f77f8dbbfea00eee.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/TG_Liittopankki_diag-icon.jpg.b6108df87d1e1e3ac32141fe3abbf826.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/TG_Liittopankki_GROW-d.jpg.049a420a6dc0227776f92d42b1aea0a4.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/TG_Liittopankki_GROW-n.jpg.6e8533fc775232e29d3c9aff4812cbee.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/TG_Liittopankki-d.jpg.ead2ceda295192c202026edcf8ed623b.jpg"
+assets:
+- assetId: "tg-liittopankki-office"
+dependencies:
+- "bsc:vip-girafe-urbanpack-vol01"
+- "bsc:vip-girafe-carpack-vol04"
+- "bsc:textures-vol01"
+- "agc:street-props"
+- "mgb:diagonal-filler-set"
+- "krio:small-prop-pack"
+variants:
+- variant: {CAM: "no"}
+  assets:
+  - assetId: "tg-liittopankki-office"
+    exclude:
+    - '/CO\$\$\$10_3x3_TG_Liittopankki_Co\$\$\$_d4b58254.SC4Lot'
+- variant: {CAM: "yes"}
+  assets:
+  - assetId: "tg-liittopankki-office"
+    exclude:
+    - '/CO\$\$\$8_3x3_TG_Liittopankki_Co\$\$\$_a4b607d7.SC4Lot'
+
+---
+url: "https://community.simtropolis.com/files/file/36546-tg-krio-liittopankki-office/?do=download"
+assetId: "tg-liittopankki-office"
+version: "1.0.0"
+lastModified: "2024-11-12T13:06:43Z"
