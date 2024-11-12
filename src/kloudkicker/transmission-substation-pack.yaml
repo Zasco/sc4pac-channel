@@ -1,0 +1,40 @@
+group: "kk"
+name: "transmission-substation-pack"
+version: "1.2.0"
+subfolder: "500-utilities"
+info:
+  summary: "Two brand new 2x2 lots, producing 600 MW of power and 5 R$$ jobs each and comes with maxis transmission power line hookups."
+  author: "Kloudkicker"
+  website: "https://community.simtropolis.com/files/file/34291-kk-transmission-substation-pack-whookup/"
+  description: |
+    Two brand new 2x2 lots, producing 600 MW of power and 5 R$ jobs each and comes with maxis transmission power line hookups. Each has a slightly different look using the same props, some arranged differently. The main difference is in which direction the transmission power line will visually connect to. One lot connects to the right side and the other lot is from the back side.
+    You can use these lots as is, one or both. Remove the file you do not wish to use. They can be used as they were deigned to be, intended as core files for a mod underdevelopment and is in testing stages. More information about AMPS can be found in the AMPS Development Thread.
+    Stats: (Each)
+    menu location= Power
+    life span= 100 years
+    plop/bulldoze cost= 1500/750
+    Budget cost=-150/month
+    power/water consumed= 0/1
+    pollution= air 0, water 0, garbage 1, radiation 0
+    pollution radius= garbage 0
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_05/6095b88297aa0_KKTransSubstation-Both.jpg.f484f33ccc5a16900c8d0115b13814b8.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_05/6095b8914ce5a_KKTransSubstation-R3.jpg.0fa2f2840dbe4f452a3a2b26ae930cec.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_05/6095b8aba1c66_KKTransSubstation-R2.jpg.c4e2d7ea7ebfe9906c4ba38a7c00ea7d.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_05/6095b8b01f9cd_KKTransSubstation-B5.jpg.9adfe373db1ec027626b54b1ca988be6.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_05/6095b8b674cc6_KKTransSubstation-B2.jpg.21a31d490df0904dbd1bb9df126e5f77.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2021_05/6095b8b87ee19_KKTransSubstation-NoGo.jpg.f99423d26c7a55982eaf8d2691813fbf.jpg"
+assets:
+- assetId: "kk-transmission-substation-pack"
+dependencies:
+- "sm2:mega-prop-pack-vol1"
+- "sm2:mega-prop-pack-vol2"
+- "sm2:mega-prop-pack-vol4"
+- "sm2:mega-prop-pack-vol5"
+- "takemethere:transformer-substation"
+
+---
+url: "https://community.simtropolis.com/files/file/34291-kk-transmission-substation-pack-whookup/?do=download"
+assetId: "kk-transmission-substation-pack"
+version: "1.2.0"
+lastModified: "2021-05-07T22:01:43Z"
