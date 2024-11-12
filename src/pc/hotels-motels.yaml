@@ -1,6 +1,6 @@
 group: "pc"
 name: "hotels-motels"
-version: "1.0.0"
+version: "2.0"
 subfolder: "300-commercial"
 info:
   summary: "It's time to add variety to your tourists and your business travelers and where they stay."
@@ -176,5 +176,5 @@ dependencies:
 ---
 url: "https://community.simtropolis.com/files/file/36525-pc-hotels-motels/?do=download"
 assetId: "pc-hotels-motels"
-version: "1.0.0"
-lastModified: "2024-10-25T01:56:28Z"
+version: "2.0"
+lastModified: "2024-11-11T18:58:36Z"
