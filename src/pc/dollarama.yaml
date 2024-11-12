@@ -1,0 +1,29 @@
+group: "pc"
+name: "dollarama"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Dollarama is a Canadian dollar store retail chain headquartered in Montreal."
+  author: "pclark06"
+  website: "https://community.simtropolis.com/files/file/33420-pc-dollarama/"
+  description: |
+    Dollarama is a Canadian dollar store retail chain headquartered in Montreal. Since 2009, it has been Canada's 2nd largest retailer of items for four dollars or less. I've had this building for a couple of years, so, from the vault, it's pretty much as-is. I think it's only a CS$ growable, stage one. @RRetail did the lotting a while back.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2020_02/5e40384dd363b_Sargeantsville-Aug.15081581124374.png.1e278a2e6880d78d7500a4c3b4734132.png"
+assets:
+- assetId: "pc-dollarama"
+dependencies:
+- "shk:parking-pack"
+- "supershk:mega-parking-textures"
+- "supershk:fa3-parking-textures"
+- "girafe:feather-grass"
+- "girafe:lindens"
+- "girafe:maples"
+- "girafe:poplars"
+- "girafe:hedges"
+
+---
+url: "https://community.simtropolis.com/files/file/33420-pc-dollarama/?do=download"
+assetId: "pc-dollarama"
+version: "1.0.0"
+lastModified: "2020-02-09T16:55:39Z"
