@@ -1,0 +1,23 @@
+group: "blam"
+name: "halloween-pack"
+version: "1.0"
+subfolder: "200-residential"
+info:
+  summary: "This is a set of two BATs especially designed for those Halloween themed cities."
+  author: "MarcosMX"
+  website: "https://community.simtropolis.com/files/file/17265-blam-halloween-pack/"
+  description: |
+    This is a set of two BATs especially designed for those Halloween themed cities. Well, you might say, 'hey Halloween is over, what the heck does this guy has been smoking', I know 9 days have passed since Halloween, so just ignore it. lol.
+    *This .zip comes with two models(Haunted House and Death Well) along with their respective Descriptors(2) and Lots(20) and theyare all Landmarks*
+    Custom Features:*Custom Menu Icon*Custom Query
+  images:
+  - "https://www.simtropolis.com/objects/screens/0026/ed6a44b4541c9ac1bb9314c7750ebc95-luas0das01.jpg"
+  - "https://www.simtropolis.com/objects/screens/0026/ed6a44b4541c9ac1bb9314c7750ebc95-luas0das02.jpg"
+assets:
+- assetId: "blam-halloween-pack"
+
+---
+url: "https://community.simtropolis.com/files/file/17265-blam-halloween-pack/?do=download"
+assetId: "blam-halloween-pack"
+version: "1.0"
+lastModified: "2006-11-09T21:12:15Z"
