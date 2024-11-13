@@ -1,0 +1,40 @@
+group: "paulus"
+name: "coal-and-ore-port-facilities"
+version: "1.0.0"
+subfolder: "150-mods"
+info:
+  summary: "This set contains various lots to build your own (sort of) realistic looking coal- and ore yards and port facilities."
+  author: "Paulus"
+  website: "https://community.simtropolis.com/files/file/36321-coal-and-ore-port-facilities/"
+  description: |
+    This set contains various lots to build your own (sort of) realistic looking coal- and ore yards and port facilities. Included in this set are:
+    - 2 cranes to unload coal and ore from large bulk carriers.
+    - 2 ship loaders to transfer coal and ore to smaller vessels.
+    - 2 bucket wheel excavators, used for transferring ore to and from temporary storage lots.
+    - a silo used for loading ore on trains.
+    - Large concrete silo's.
+    - 1 large ship.
+    - 7 lots with ore and coal heaps.
+    - various lots with single, double, triple or quadruple conveyor belts, to transport ore and coal.
+    - various miscellanious lots to spice up your coal yard.
+    Most of the models sit on 1x1 lots, with parts overhanging, to make it easier to combine them and run roads or railways through them. \_
+    All of these lots are eye candy only; so that means none of them are functional. The lots can be found in the Parks menu, and are grouped together.\_
+    The seawalls in the pictures are not included in this set, but the cranes and ship are placed in such a way on their lots that they fit nicely with this particular set of seawalls. The ship model is offset from the center, so that it appears very close to the seawall. \_
+    I am not entirely satisfied by some of the textures, especially the coal, ore and sand textures. So when (if) I manage to improve my texturing skills, I'll try to update some of the lots in this set, or add new ones. And no nightlights for now.
+    I would suggest using some of the excellent prop sets out there to further add detail to the lots.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/66807ad185842_Coalyard5.jpg.0b9897ef793bfd84215f9d4d4c627a01.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/66807ad2472f6_Coalyard1.jpg.f4010b69182c8b500c4c55d9694e4de8.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/66807ad336d98_Coalyard2.jpg.40b43d3c6cb14f12610c82dcfc7bbe1e.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/66807ad45049d_Coalyard3.jpg.a435a4ca8600c5d3c11286fb333dedf1.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_06/66807ad51c876_Coalyard4.jpg.2df481f36f8bee33a83219ea2c162cb0.jpg"
+assets:
+- assetId: "paulus-coal-and-ore-port-facilities"
+dependencies:
+- "sm2:essentials-v4"
+
+---
+url: "https://community.simtropolis.com/files/file/36321-coal-and-ore-port-facilities/?do=download"
+assetId: "paulus-coal-and-ore-port-facilities"
+version: "1.0.0"
+lastModified: "2024-06-29T21:25:08Z"
