@@ -1,0 +1,41 @@
+group: "blam"
+name: "burger-king"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Burger King (often abbreviated to BK) is a large international chain of fast food restaurants, predominantly selling burgers, french fries, soft drinks, desserts, and various sandwiches."
+  author: "MarcosMX"
+  website: "https://community.simtropolis.com/files/file/36345-blam-burger-king/"
+  description: |
+    As sometines happens, files from the various SimCity 4 sites go missing. When possible and practical, we make attempts to restore those files when found. In all such cases, this is done in good faith for the benefit the author and the community. This particular item has been uploaded here under MarcosMX's account as part of the BLaM team as it had been uploaded on the original location. The files are provided in the same condition that they had been in when they were previously available with one exception. The readme has been replaced with updated information regarding dependencies. Otherwise, the files are presented as is with no other changes made. If anyone has information that would help clarify this upload, or if any issues arise, please contact any staff member.
+    Burger King, by MarcosMX
+    Burger King (often abbreviated to BK) is a large international chain of fast food restaurants, predominantly selling burgers, french fries, soft drinks, desserts, and various sandwiches. It is headquartered in unincorporated Miami-Dade County, Florida, just outside the city of Miami.
+    Growable Version: (Ploppable version included)
+    Lot size:    3 x 3 tiles
+    Building style(s):    Building: Landmark,Building: CS$,Style: Chicago,Style: New York,Style: Houston,Style: Euro
+    Growth stage:    4
+    Occupants:    CS-$
+    Bulldoze cost:    § 120
+    Max. Fire Stage:    10
+    Power consumption:    45 MWh/month
+    Water consumption:    5 Gallons/month
+    Air pollution:    2 over 2 tiles
+    Water pollution:    1 over 2 tiles
+    Garbage pollution:    8 over 0 tiles
+    Menu position:    Landmark Menu
+    Plop cost:    § 2740
+    Jobs:    24 Cs-$
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_07/BKD.JPG.962f55111bf3e635168a3a5ab50c09bb.JPG"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_07/BKN.JPG.c101678c82a93624c1adc0dca51daf7f.JPG"
+assets:
+- assetId: "blam-burger-king"
+dependencies:
+- "marcosmx:mx-essentials"
+- "bsc:textures-vol01"
+
+---
+url: "https://community.simtropolis.com/files/file/36345-blam-burger-king/?do=download"
+assetId: "blam-burger-king"
+version: "1.0.0"
+lastModified: "2024-07-14T03:58:40Z"
