@@ -1,0 +1,22 @@
+group: "blam"
+name: "family-dollar"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Family Dollar is a dollar store where your sims will find all sort of things at a low price."
+  author: "MarcosMX"
+  website: "https://community.simtropolis.com/files/file/17924-blam-family-dollar/"
+  description: |
+    Family Dollar Plop, by MarcosMX
+    BlaMo7 BAT - Family Dollar is a dollar store where your sims will find all sort of things at a low price.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0016/8b40758a10c3069128402f0ef3b95b41-rlsa01blaefamdoll01.jpg"
+  - "https://www.simtropolis.com/objects/screens/0016/8b40758a10c3069128402f0ef3b95b41-rlsa01blaefamdoll02.jpg"
+assets:
+- assetId: "blam-family-dollar"
+
+---
+url: "https://community.simtropolis.com/files/file/17924-blam-family-dollar/?do=download"
+assetId: "blam-family-dollar"
+version: "1.0"
+lastModified: "2007-03-27T20:00:13Z"
