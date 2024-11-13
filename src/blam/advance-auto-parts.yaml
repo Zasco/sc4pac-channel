@@ -1,0 +1,29 @@
+group: "blam"
+name: "advance-auto-parts"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Advance Auto Parts (NYSE: AAP), headquartered in Roanoke, Virginia, is the second-largest retailer of automotive aftermarket parts, accessories, batteries, and maintenance items in the United States, based on store count and sales."
+  author: "MarcosMX"
+  website: "https://community.simtropolis.com/files/file/17409-blam-advance-auto-parts/"
+  description: |
+    Advance Auto Parts (NYSE: AAP), headquartered in Roanoke, Virginia, is the second-largest retailer of automotive aftermarket parts, accessories, batteries, and maintenance items in the United States, based on store count and sales. As of July 15, 2006, the Company operated 2,971 stores in 40 states, Puerto Rico, and the Virgin Islands. The Company serves both the do-it-yourself and professional installer markets
+    *This zip comes with Two Models (The building and the sign prop)l three desc and two lots (Plop and Growabble)Theyboth provide 10 Cs$ jobs. It costs 1165 to plop and its lot size is 33*Note: Everything has been merged into a DAT to save space.
+    Custom Features:*Custom Menu Icon*
+    Dependencies:PEG_Overlay-Textures_Vol-1 https://www.simtropolis.com/STEX/index.cfm?id=3204MPropsFloralDAT https://www.simtropolis.com/STEX/index.cfm?id=17304
+    To Install, unzip BlaM Advance Auto Parts to mydocuments/simcity4/plugins/BlaM (if you don't have a BLAM folder, create it.)And that's all, enjoy.
+    If you have any problem with this BAT/Lot please PM MarcosMX. If a big brown box appears, than you probably forgot about downloading a dependencie. Thanks......
+  images:
+  - "https://www.simtropolis.com/objects/screens/0014/7fefdd92f2376f00277b561e8f025da3-audas0101.jpg"
+  - "https://www.simtropolis.com/objects/screens/0014/7fefdd92f2376f00277b561e8f025da3-audas0102.jpg"
+assets:
+- assetId: "blam-advance-auto-parts"
+dependencies:
+- "bsc:textures-vol01"
+- "marcosmx:mx-essentials"
+
+---
+url: "https://community.simtropolis.com/files/file/17409-blam-advance-auto-parts/?do=download"
+assetId: "blam-advance-auto-parts"
+version: "1.0"
+lastModified: "2006-12-03T18:34:50Z"
