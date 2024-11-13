@@ -1,0 +1,80 @@
+group: "pc"
+name: "midcentury-grocery-pharmacy-set-retro-brands"
+version: "1.0.0"
+subfolder: "300-commercial"
+info:
+  summary: "Similar to the Australian retail set I did, I wanted to use the same base building to create some regional American supermarkets around this size. Grocery st..."
+  author: "pclark06"
+  website: "https://community.simtropolis.com/files/file/36326-pc-midcentury-grocery-pharmacy-set-retro-brands/"
+  description: |
+    Similar to the Australian retail set I did, I wanted to use the same base building to create some regional American supermarkets around this size. Grocery stores nowadays are massive but the base building goes back to a time when these stores were much smaller, and which, many still exist whether a pharmacy is using that space, or whether it's a smaller regional grocery chain that prides itself on customer service. These are retro brands that are either defunct, or have few locations remaining after mergers. There are 30 classic grocery stores in this set.
+    If you use lotplop, you can access all these as plop buildings. Grow lots are 3x6 and plop lots are 7x6.
+    -A&P  - national, this one has the tacky 1970s color scheme
+    -AJ Bayless/AJ’s Fine Foods - AZ, still exists, owned by Bashas
+    -Almacs - RI, MA
+    -Big Bear - OH, WV, PA*
+    -Bruno’s - AL
+    -Cat & Fiddle - VA
+    -Clemens - PA
+    -Dominick’s - IL
+    -Farm Fresh - VA
+    -Farmer Jack - MI
+    -Furr’s - NM, TX
+    -Genuardi’s - PA, NJ, DE
+    -Grand Union - east coast; reopened in 2021, owned by C&S/Tops*
+    -Great Scott - MI
+    -Henke & Pillot - TX; logo influenced Kroger's logo after Kroger bought them out
+    -Hinky Dinky - NE, IA*
+    -Jitney Jungle - MS, AL, LA, GA, FL*
+    -Johnnie’s Foodmaster - MA
+    -Kash N’ Karry - FL*
+    -Kienows - OR
+    -Lucky Markets - CA, AZ, UT; still exists as a subsidiary*
+    -Marsh - IN, OH, KY
+    -McCrory Five And Dime - national*
+    -Mick-Or-Mack - VA, TN
+    -Osco Drug - still exists in Albertsons-owned stores but not as standalone*
+    -Owen’s - IN, bought by Kroger
+    -Pamida - Great Plains/Mountain States
+    -Phar-Mor - Midwest
+    -Red Owl (two versions) - one still exists in Green Bay, WI
+    -Revco Pharmacy - Midwest, Bought by CVS
+    -Sim’s Food - fictional grocery store from SimCity 3000 with yellow-blue color scheme
+    -Skaggs Alpha Beta - west coast before acquisition by Safeway*
+    -Thriftway - Winn-Dixie Subsidiary in OH, KY, south
+    -Waldbaums - NY, CT, NJ, MA - closed alongside A&P in 2015
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_07/6684135af3db6_Leavittown-Jan.174311715199622(2).png.76681509c3cf699ff2a9e9ea1810876d.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_07/668413a414777_AlexiaLake-Dec.27951719872830(2).png.d417e9590e73b22185d50925c0a810db.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_07/668413cd1b404_AlexiaLake-Dec.27951719872862.png.835c9332831b7aa325028da5aceab8e2.png"
+assets:
+- assetId: "pc-midcentury-grocery-pharmacy-set-retro-brands"
+dependencies:
+- "agc:environment-dlc"
+- "art128:pre-2000-car-props-pack"
+- "murimk:props-vol01-bicycle"
+- "pc:mega-props-vol1"
+- "pc:mega-props-vol2"
+- "pc:mega-props-vol3"
+- "pc:mega-props-vol4"
+- "shk:parking-pack"
+- "supershk:mega-parking-textures"
+- "supershk:fa3-parking-textures"
+- "rretail:mega-prop-pack-vol1"
+- "sm2:mega-prop-pack-vol1"
+- "sm2:mega-prop-pack-vol2"
+- "girafe:feather-grass"
+- "girafe:beeches"
+- "girafe:poplars"
+- "girafe:lindens"
+- "girafe:berries"
+- "bsc:mega-props-misc-vol02"
+- "bsc:mega-props-jes-vol01"
+- "bsc:texturepack-cycledogg-vol01"
+- "bsc:sg-mega-residentials-vol01-models"
+
+---
+url: "https://community.simtropolis.com/files/file/36326-pc-midcentury-grocery-pharmacy-set-retro-brands/?do=download"
+assetId: "pc-midcentury-grocery-pharmacy-set-retro-brands"
+version: "1.0.0"
+lastModified: "2024-07-02T15:13:28Z"
