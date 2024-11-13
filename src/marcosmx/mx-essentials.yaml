@@ -1,0 +1,28 @@
+group: "marcosmx"
+name: "mx-essentials"
+version: "1.0.0"
+subfolder: "100-props-textures"
+info:
+  summary: "Includes files that may be dependencies for other content."
+  author: "MarcosMX"
+  website: "https://community.simtropolis.com/files/file/36346-mx-essentials/"
+  description: |
+    As sometines happens, files from the various SimCity 4 sites go missing. When possible and practical, we make attempts to restore those files when found. In all such cases, this is done in good faith for the benefit the author and the community. This particular item has been uploaded here under MarcosMX's account as part of the BLaM team as it had been uploaded on the original location. The files are provided in the same condition that they had been in when they were previously available. No changes were made. If anyone has information that would help clarify this upload, or if any issues arise, please contact any staff member.
+    Includes files that may be dependencies for other content.
+    MProps Floral Col1 and BlaM MX Props V1 have been combined into this pack.
+    Included:
+    *MPropsFloralDAT
+    *MpropsFloralDAT2
+    *CustomQuerriesMarcosMX
+    *MX Props FloraV1
+    If you have downloaded MProps Floral Col1, make sure you delete that so you won't any problems with using this pack.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_07/MX.JPG.2f717efad1cbaec48c83f298e4bb81bd.JPG"
+assets:
+- assetId: "marcosmx-mx-essentials"
+
+---
+url: "https://community.simtropolis.com/files/file/36346-mx-essentials/?do=download"
+assetId: "marcosmx-mx-essentials"
+version: "1.0.0"
+lastModified: "2024-07-14T08:35:17Z"
