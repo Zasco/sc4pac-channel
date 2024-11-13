@@ -1,0 +1,26 @@
+group: "blam"
+name: "taco-bell"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Taco Bell, a fast-food restaurant chain, is a division of Yum! Brands, Inc."
+  author: "MarcosMX"
+  website: "https://community.simtropolis.com/files/file/17325-blam-taco-bell/"
+  description: |
+    Taco Bell, a fast-food restaurant chain, is a division of Yum! Brands, Inc. Taco Bell serves food items loosely based on Tex-mex cuisine, although it has now evolved a menu of its own. It is headquartered in Irvine, California and has locations in the United States, Canada and Australia. www.tacobell.com
+    *This .zip comes with two models (main building and sign prop, two descs(and one sign prop desc) and two lots (Ploppable and Growable), they both provide 15 Cs$ Jobs. Their Lot sizeis 3x3..Note: Everything including the Model, Descs and Lots have been merged into to One .dat.
+    Custom Features:*Custom Menu Icon*
+  images:
+  - "https://www.simtropolis.com/objects/screens/0027/f5dc9eed700cc0fc536561eeadcc5aad-luuasa01.jpg"
+  - "https://www.simtropolis.com/objects/screens/0027/f5dc9eed700cc0fc536561eeadcc5aad-luuasa02.jpg"
+assets:
+- assetId: "blam-taco-bell"
+dependencies:
+- "bsc:textures-vol01"
+- "marcosmx:mx-essentials"
+
+---
+url: "https://community.simtropolis.com/files/file/17325-blam-taco-bell/?do=download"
+assetId: "blam-taco-bell"
+version: "1.0"
+lastModified: "2006-11-18T13:09:51Z"
