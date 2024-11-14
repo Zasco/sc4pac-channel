@@ -1,0 +1,11 @@
+group: "nbvc"
+name: "marina-collection"
+version: "1.0.0"
+subfolder: "660-parks"
+info:
+  summary: "The complete collection of marina plugins from nbvc."
+  author: "nbvc, Zasco"
+dependencies:
+- "nbvc:marina"
+- "nbvc:modular-marina-addon"
+- "nbvc:marina-round-corners"
