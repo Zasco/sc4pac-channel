@@ -1,0 +1,43 @@
+group: "starlitbeach"
+name: "industrial-slope-effect-fix"
+version: "1.0.0"
+subfolder: "150-mods"
+info:
+  summary: "This very simple mod fixes a bug with the calculation of desirability for industrial zones that can cause it to be lower than intended."
+  author: "StarlitBeach"
+  website: "https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix"
+  description: |
+    This very simple mod fixes a bug with the calculation of desirability for industrial zones that can cause it to be lower than intended. Industrial zones should prefer flat terrain, according to at least one advisor dialog in the game. In fact, the opposite is true: the desirability effect is 0 for flat land and increases to +10 at a slope value of 50. Assuming that's expressed in degrees, you would have to zone on very steep slopes to get the maximum desirability boost! There are more details about how I verified this bug in game in the following forum thread:
+    I'm not the first to spot this discrepancy, since it is also fixed in CAM, but as far as I'm aware this is the first non-CAM fix for it. I apologise to the authors of any previous fixes if this is not the case.
+    This mod changes the developer exemplars so that the highest positive effect on desirability (+10) occurs on totally flat terrain, reducing to zero at a slope of 10, and becoming negative until it reaches -10 at a slope of 20. This is more restrictive than in the vanilla game, but in fact it shouldn't have a dramatic impact because slope is given less weight than other desirability factors, especially for high tech. In general, it should make desirability slightly higher in most cities, especially on flat land where it's more likely to matter.
+    As mentioned above, this bug is already fixed by CAM, so don't download this mod if you use CAM - it will cause conflicts and isn't needed. It also could conflict with the Less Abandonment Mod by @Bones1 :
+    To prevent this conflict I have included two versions of the fix for I-HT - one based on the vanilla game, the other an edit of the I-HT file from Less Abandonment that adds the slope effect fix. Please read the installation instructions in the Readme to make sure you install it correctly.
+    I'm not aware of any other conflicts, but if you do use another mod that changes the developer exemplars the simplest solution would probably be to edit the Slope Effect properties in that mod rather than downloading this one.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2022_05/6278b36ddef82_I-HTSloped.jpg.df3bbc4e5b38392019b360aa0aeadbc6.jpg"
+  warning: Don't forget to remove/restore the LessHighTechAbandonment.dat file if you were using it.
+assets:
+- assetId: "starlitbeach-industrial-slope-effect-fix"
+  include:
+  - '/Industrial Slope Effect Fix \(IR ID IM\).dat'
+variants:
+- variant: {starlitbeach:industrial-slope-effect-fix:less-abandonment: "true"}
+  assets:
+  - assetId: "starlitbeach-industrial-slope-effect-fix"
+    include:
+    - '/Industrial Slope Effect Fix \(IHT Less Abandonment\).dat'
+- variant: {starlitbeach:industrial-slope-effect-fix:less-abandonment: "false"}
+  assets:
+  - assetId: "starlitbeach-industrial-slope-effect-fix"
+    include:
+    - '/Industrial Slope Effect Fix \(IHT\).dat'
+variantDescriptions:
+  starlitbeach:industrial-slope-effect-fix:less-abandonment:
+    "false": "If you don't use bones1:less-abandonment. [Default]"
+    "true": "If you use bones1:less-abandonment."
+
+---
+url: "https://community.simtropolis.com/files/file/35179-industrial-slope-effect-fix/?do=download"
+assetId: "starlitbeach-industrial-slope-effect-fix"
+version: "1.0.0"
+lastModified: "2022-05-09T06:26:08Z"
