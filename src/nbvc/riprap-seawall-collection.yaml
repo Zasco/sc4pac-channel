@@ -1,0 +1,11 @@
+group: "nbvc"
+name: "riprap-seawall-collection"
+version: "1.0.0"
+subfolder: "150-mods"
+info:
+  summary: "The complete collection of riprap seawall plugins from nbvc."
+  author: "nbvc, Zasco"
+dependencies:
+- "nbvc:riprap-seawall"
+- "nbvc:riprap-seawall-addon"
+- "nbvc:riprap-seawall-pipes"
