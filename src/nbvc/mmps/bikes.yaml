@@ -1,7 +1,7 @@
 group: "nbvc"
 name: "bikes"
 version: "1.0"
-subfolder: "150-mods"
+subfolder: "180-flora"
 info:
   summary: "Bikes for the mayor menu."
   author: "nbvc"

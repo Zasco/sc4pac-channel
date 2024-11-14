@@ -1,7 +1,7 @@
 group: "nbvc"
 name: "rock-n-stones"
 version: "1.0"
-subfolder: "150-mods"
+subfolder: "180-flora"
 
 assets:
 - assetId: "nbvc-rock-n-stones"
