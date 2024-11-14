@@ -1,0 +1,43 @@
+group: "nbvc"
+name: "tents"
+version: "1.0"
+subfolder: "180-flora"
+info:
+  summary: "This file contains mayor menu ploppable tents and some Lots with tents and bonfires."
+  author: "nbvc"
+  website: "https://community.simtropolis.com/files/file/27417-tents/"
+  description: |
+    This file contains mayor menu ploppable tents and some Lots with tents and bonfires. 
+    The Lots with tents will have night lights.
+    The MMP tents do not have no night lights.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2012/4331b7d81ef121b4ed97d89f23b81338-nbvc_tents.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2012/e6a0887f6e8bd5462feb8849264b2ec3-nbvc_tents1.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2012/4c8f76930d322a6cc1ed57408b698e88-nbvc_tents2.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2012/865f627147b793ee686168e7064e11b2-nbvc_tents4.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2012/0626c5349062360728508c72ebcf1167-nbvc_tents3.jpg"
+assets:
+- assetId: "nbvc-tents"
+  include:
+  - "/NBVC_TentProps/"
+  - "/NBVC_TentsMMP/"
+variants:
+- variant: {nbvc:tents:with-lots: "true"}
+  assets:
+  - assetId: "nbvc-tents"
+    include:
+    - "/NBVC_CampingTentsLots/"
+    - "/NBVC_FireLots/"
+  dependencies:
+  - "peg:mtp-super-pack"
+- variant: {nbvc:tents:with-lots: "false"}
+variantDescriptions:
+  nbvc:tents:with-lots:
+    "true": "Lots will be installed. [Default]"
+    "false": "Lots will not be installed."
+
+---
+url: "https://community.simtropolis.com/files/file/27417-tents/?do=download"
+assetId: "nbvc-tents"
+version: "1.0"
+lastModified: "2012-03-28T19:49:40Z"
