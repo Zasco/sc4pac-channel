@@ -1,0 +1,40 @@
+group: "fanta1990"
+name: "authentic-garbage-truck"
+version: "1.0"
+subfolder: "710-automata"
+info:
+  summary: "Finally, what garbage trucks really look like."
+  author: "FANTA1990, apeek"
+  website: "https://community.simtropolis.com/files/file/29341-authentic-garbage-truck/"
+  description: |
+    FANTA1990 Presents:
+    Finally, what garbage trucks really look like. A dull coat of chipped paint, rusty wheels, and a permanent layer of grime give this sanitation vehicle an ultra realistic appearance that doesn't detract from it's form or function. An indistinct logo and lettering are superimposed atop a befitting texture borrowed from GTA IV. Since this is essentially an automata reskin, there are no dependencies and no configuration. It's an easy way to improve on the realism and appearance of other squeaky clean variations currently available.
+    Choose from the following two files:
+    GTA4 GarbageTruck.rar - Uses HD textures, but requires Hardware Acceleration to avoid visual defects.
+    GTA4 GarbageTruck-256.rar - May be used with Software Acceleration.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/c9b0103566d1379d509fd641d0c622d6-udi-day.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/9f9f6441aa8f800d67036b288fe30303-udi-night-1.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/0b5bdd8980ab4662d5ddf48babe8b89d-udi-night-2.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/709a48cffe88cd5e14b5a5426adc939c-real-model.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/fea0942fc60cf3b30a6ec8ec7c22ea41-gta-iv---1.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_03_2014/5a5411f7601b43b597a41b31f91a8f62-gta-iv---2.jpg"
+variants:
+- variant: {fanta1990:authentic-garbage-truck: "hardware"}
+  assets:
+  - assetId: "fanta1990-authentic-garbage-truck-hardware"
+- variant: {fanta1990:authentic-garbage-truck: "software"}
+  assets:
+  - assetId: "fanta1990-authentic-garbage-truck-software"
+
+---
+url: "https://community.simtropolis.com/files/file/29341-authentic-garbage-truck/?do=download&r=126631"
+assetId: "fanta1990-authentic-garbage-truck-hardware"
+version: "1.0"
+lastModified: "2014-03-17T17:58:29Z"
+
+---
+url: "https://community.simtropolis.com/files/file/29341-authentic-garbage-truck/?do=download&r=126632"
+assetId: "fanta1990-authentic-garbage-truck-software"
+version: "1.0"
+lastModified: "2014-03-17T17:58:29Z"
