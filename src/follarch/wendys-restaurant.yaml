@@ -1,0 +1,24 @@
+group: "follarch"
+name: "wendys-restaurant"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Wendy's Fast Food"
+  author: "Follarch"
+  website: "https://community.simtropolis.com/files/file/26315-wendys-restaraunt/"
+  description: |
+    Wendy's Fast Food
+    ----------------------------
+    Found in Anytown, USA Wendy's is an International Fast Food chain founded by Dave Thomas in 1969 in Columbus, Ohio. Wendy's is currently the third largest Burger chain, following McDonalds and Burger King, and takes pride in it's slogan, 'Old Fashioned Hamburgers'.My 7th BAT, Wendy's is one of my local favorite Burger places. And since the STEX only had three Wendy's related BATs on it, I decided to give it a go and bring SimTropolis a modern suburban Wendy's restaraunt.This download contains a single .SC4MODEL file, and two folders, a CS$ Growwable folder, and a LM Ploppable folder, each has a Lot and DESC file. The ploppable is non-functionable, and is included for those who just want a quickly placed aesthetically pleasing burger joint. However if you want jobs, a low wealth CS-$ version is included, which gives you 259 jobs. If you don't want to use one or the other, just remove the folder you wish not to use, from your plugins, and keep the rest. Both versions have been tested in game and are guaranteed to work properly. If they don't, or there's some problem, please state in the comments.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_10_2011/2e82e66fc6769eb513bfcc6f6f0078ba-newwendysicon.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_10_2011/fbf65d96043df8119add7ce2be858dae-dayview.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_10_2011/e259d927c00a212c635cad6ea82052ec-nightview.jpg"
+assets:
+- assetId: "follarch-wendys-restaurant"
+
+---
+url: "https://community.simtropolis.com/files/file/26315-wendys-restaraunt/?do=download"
+assetId: "follarch-wendys-restaurant"
+version: "1.0"
+lastModified: "2011-06-04T03:47:04Z"
