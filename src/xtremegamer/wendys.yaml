@@ -1,0 +1,22 @@
+group: "xtremegamer"
+name: "wendys"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "This is my recreation of the wendy's fast-food chain..."
+  author: "xtremegamer"
+  website: "https://community.simtropolis.com/files/file/2333-wendys/"
+  description: |
+    This is my recreation of the wendy's fast-food chain...
+    The zip file includes a 2x3 plopable (landmark) lot and a 2x3 growable CS$ lot made in the B.A.T.
+    Enjoy!
+  images:
+  - "https://www.simtropolis.com/objects/screens/0014/7e432dfb4080ab14422976aa47a36b13-wendys.JPG"
+assets:
+- assetId: "xtremegamer-wendys"
+
+---
+url: "https://community.simtropolis.com/files/file/2333-wendys/?do=download"
+assetId: "xtremegamer-wendys"
+version: "1.0"
+lastModified: "2004-02-12T19:57:19Z"
