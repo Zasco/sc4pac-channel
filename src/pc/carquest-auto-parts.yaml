@@ -1,0 +1,33 @@
+group: "pc"
+name: "carquest-auto-parts"
+version: "1.0"
+subfolder: "300-commercial"
+info:
+  summary: "Carquest Corporation is an American automotive parts distribution network that is currently owned and operated by Advance Auto Parts via independent retailers associated with the network."
+  author: "pclark06, RRetail"
+  website: "https://community.simtropolis.com/files/file/32288-carquest-auto-parts/"
+  description: |
+    Carquest Corporation is an American automotive parts distribution network that is currently owned and operated by Advance Auto Parts via independent retailers associated with the network. Carquest serves approximately 1,350 independently-owned Carquest branded stores in 49 states, Puerto Rico, the Virgin Islands, and Canada. Many of these are in smaller towns, and tend to be in these pre-fab warehouse type buildings.
+    The zip includes a 2x2 growable and a 3x2 ploppable lot.
+    Thanks to @RRetail for the lotting!
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2018_06/5b153eb0a38d7_Harburg-Mar.1051528085568.png.ff035b459b104e1eb878a3a9c660540b.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2018_06/5b153eb20242e_Harburg-Mar.15051528085614.png.a74732a6f2158483ea65b7a92184931a.png"
+assets:
+- assetId: "pc-carquest-auto-parts"
+dependencies:
+- "bsc:texturepack-cycledogg-vol01"
+- "bsc:mega-props-sg-vol01"
+- "shk:parking-pack"
+- "supershk:mega-parking-textures"
+- "supershk:fa3-parking-textures"
+- "girafe:feather-grass"
+- "girafe:hedges"
+- "girafe:lindens"
+- "girafe:rowan-trees"
+
+---
+url: "https://community.simtropolis.com/files/file/32288-carquest-auto-parts/?do=download"
+assetId: "pc-carquest-auto-parts"
+version: "1.0"
+lastModified: "2018-06-04T13:33:50Z"
