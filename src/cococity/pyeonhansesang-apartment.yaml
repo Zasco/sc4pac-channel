@@ -1,6 +1,6 @@
 group: "cococity"
 name: "pyeonhansesang-apartment"
-version: "1.0.0"
+version: "1.1.0"
 subfolder: "200-residential"
 info:
   summary: "The Pyeonhansesang is a apartment in South Korea."
@@ -23,6 +23,7 @@ info:
   - "https://www.simtropolis.com/objects/screens/monthly_2024_11/673072ad4b07d_-1091-1-261731223984.jpg.0af829d02c8f30807416cd3e4945223b.jpg"
 dependencies:
 - "bsc:vip-girafe-carpack-vol01-vol02"
+- "bsc:mega-props-sg-vol01"
 variants:
 - variant: {nightmode: "standard"}
   assets:
@@ -36,11 +37,11 @@ variants:
 ---
 url: "https://community.simtropolis.com/files/file/36544-coco_e-pyeonhansesang_apt/?do=download&r=204290"
 assetId: "cococity-pyeonhansesang-apartment-mn"
-version: "1.0.0"
-lastModified: "2024-11-10T08:58:16Z"
+version: "1.1.0"
+lastModified: "2024-11-15T17:29:13Z"
 
 ---
 url: "https://community.simtropolis.com/files/file/36544-coco_e-pyeonhansesang_apt/?do=download&r=204291"
 assetId: "cococity-pyeonhansesang-apartment-dn"
-version: "1.0.0"
-lastModified: "2024-11-10T08:58:16Z"
+version: "1.1.0"
+lastModified: "2024-11-15T17:29:13Z"
