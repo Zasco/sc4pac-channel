@@ -1,0 +1,42 @@
+group: "jes"
+name: "gravely-mfg-hd"
+version: "1.0.0"
+subfolder: "400-industrial"
+info:
+  summary: "Makers of collectable knicknacks and ornaments in all shapes and sizes to decorate your homes."
+  author: "jestarr"
+  website: "https://community.simtropolis.com/files/file/36563-gravelymfg_hd/"
+  description: |
+    Makers of collectable knicknacks and ornaments in all shapes and sizes to decorate your homes.
+    Lot Details and Information:
+    Lot Size:           1x4 Tiles
+    Building Style(s):       Building: Industrial, Building: IM, Industry: Anchor, BTE: Ind - Manufacturing
+    Growth Stage:       1
+    Menu Position:       Landmarks [Ploppable]
+    Occupants:       28 - IM
+    Bulldoze Cost:       $207
+    Building Value:       $213
+    Construction Time:       20 Days
+    Max. Fire Stage:       3
+    Power Consumption:   2 MWh/Month
+    Water Consumption:       25 Gallons/Month
+    Air Pollution:       1 over 9 Tiles
+    Water Pollution:       1 over 13 Tiles
+    Garbage Pollution:       4 over 0 Tiles
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/GravelyMfg_Day.jpg.a2c7832f84a143d8f26ea9ccd9fafeb4.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/GravelyMfg_Nite.jpg.f73ee3372ec6b934196d0e828be2c19c.jpg"
+assets:
+- assetId: "jes-gravely-mfg-hd"
+dependencies:
+- "bsc:vip-girafe-carpack-vol01-vol02"
+- "bsc:vip-girafe-carpack-vol04"
+- "bsc:mega-props-jes-vol02"
+- "bsc:bat-props-jes-vol10"
+- "bsc:bat-props-jes-vol13"
+
+---
+url: "https://community.simtropolis.com/files/file/36563-gravelymfg_hd/?do=download"
+assetId: "jes-gravely-mfg-hd"
+version: "1.0.0"
+lastModified: "2024-11-16T19:03:01Z"
