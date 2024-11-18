@@ -1,0 +1,25 @@
+group: "leonv93"
+name: "hydroelectric-power-plant"
+version: "1.0.0"
+subfolder: "500-utilities"
+info:
+  summary: "Hydroelectric Power Plant generates 14000 MW."
+  author: "leonv93"
+  website: "https://community.simtropolis.com/files/file/36562-hydroelectric-power-plant/"
+  description: |
+    Hydroelectric Power Plant generates 14000 MW.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6738c00bd62e2_Canton-Feb.9201731745596.png.ee6e2f26ef35c0f080c902b43eb8a8d2.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6738c00d24312_Canton-Mar.8331731768694.png.f393364f618b964b90bb9a3c274af0fb.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6738c00e6fb42_Canton-Nov.6191731745570.png.5db7cc5cf35409d000fe52ee3bc16e60.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6738c00f71b62_Canton-Nov.18251731767731.png.d86171464bf8ee3121d9ab207fa057b5.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6738c01085026_Canton-Nov.22191731745577.png.1cf2a18f03b70950ca9681ff71e93e3e.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6738c011f3308_Canton-Oct.15251731767723.png.744a99e6fb68217e0ae591ce04f93781.png"
+assets:
+- assetId: "leonv93-hydroelectric-power-plant"
+
+---
+url: "https://community.simtropolis.com/files/file/36562-hydroelectric-power-plant/?do=download"
+assetId: "leonv93-hydroelectric-power-plant"
+version: "1.0.0"
+lastModified: "2024-11-16T15:55:40Z"
