@@ -1,0 +1,31 @@
+group: "kel9509"
+name: "ny-diagonal-midrise-growify-set"
+version: "1.0.1"
+subfolder: "200-residential"
+info:
+  summary: "NY Diagonal Midrise Set Growify"
+  author: "Kel9509"
+  website: "https://community.simtropolis.com/files/file/36565-ny-diagonal-midrise-growify-set/"
+  description: |
+    NY Diagonal Midrise Set Growify
+    By Kel9505
+    Based off of guepardomountain's models: Diagonal Midrises.
+    Included are six diagonal residential growify lots based off of guepardomountain's original eyecandy lots and models. \_There are 6 buildings and one lot per building, for diagonal roads. \_The building stats are as follows:
+    1. NY Diagonal Midrise Growify 1 and 2: Ploppable R$ Residential growify lots with 242 residents.\_
+    2. NY Diagonal Midrise Growify 3 and 4: Ploppable R$ Residential growify lots with 160 residents.
+    3. NY Diagonal Midrise Growify 5 and 6: Ploppable R$ Residential growify lots with 427 residents.
+    These are LOTS ONLY, and do not include the model. They are a new lots and do not overwrite guepardomountain's original landmark eyecandy lots.
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/673bf21aaf4e0_NYDiagonalMidriseSetGrowify1.jpg.193182778bf1b550fc125a16e5008293.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/673bf21b0dc8f_NYDiagonalMidriseSetGrowify2.jpg.d4548ade2c90716866a8e65986f37d8a.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_11/673bf21b78012_NYDiagonalMidriseSetGrowify3.jpg.0169982090d0fd1eccb5d7a49839d064.jpg"
+assets:
+- assetId: "kel9509-ny-diagonal-midrise-growify-set"
+dependencies:
+- "guepardomountain:diagonal-mid-rises"
+
+---
+url: "https://community.simtropolis.com/files/file/36565-ny-diagonal-midrise-growify-set/?do=download"
+assetId: "kel9509-ny-diagonal-midrise-growify-set"
+version: "1.0.1"
+lastModified: "2024-11-19T02:15:25Z"
