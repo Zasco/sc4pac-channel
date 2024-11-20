@@ -1,0 +1,24 @@
+group: "peg"
+name: "cdk-leveler"
+version: "2.05"
+subfolder: "150-mods"
+info:
+  summary: "THE LEVELER is a fast & simple alternative to using those hard-to-master and often fussy terrain tools."
+  author: "Pegasus"
+  website: "https://community.simtropolis.com/files/file/4527-peg-cdk-leveler-v205/"
+  description: |
+    Less time in God Mode... more time playing!!
+    Designed for use with the CDK... but useful just about anywhere. THE LEVELER is a fast & simple alternative to using those hard-to-master and often fussy terrain tools.
+    This is a ploppable lot... not a tool. You plop it where you want level land... you bulldoze it... then you develop on it. No more three finger salutes to the God Mode Terrain tools just to level an area.
+    Also... No more destroying everything in the area when leveling. Surrounding lots will be unaffected when using this tool-lot. Offered in 2 sizes (4x4 and 1x4), you can control the area to be leveled by where and how you plop it. For perfect, level CDK & waterfront usage, plop it like a CDK lot. The tiles behind the lot will be level and ready for roads, etc...
+    For inland leveling, point the orientation arrow downhill and the area covered will level to the bottom side of the lot.
+  images:
+  - "https://www.simtropolis.com/objects/screens/0019/a8850ec9e57d2949aa06e51f2649b341-product_image.jpg"
+assets:
+- assetId: "peg-cdk-leveler"
+
+---
+url: "https://community.simtropolis.com/files/file/4527-peg-cdk-leveler-v205/?do=download"
+assetId: "peg-cdk-leveler"
+version: "2.05"
+lastModified: "2023-06-10T08:38:11Z"
