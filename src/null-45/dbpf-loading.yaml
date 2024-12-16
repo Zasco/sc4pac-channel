@@ -5,6 +5,9 @@ subfolder: "150-mods"
 
 assets:
 - assetId: "null-45-dbpf-loading"
+  withChecksum:
+  - include: "/SC4DBPFLoading.dll"
+    sha256: 5aa000d2de83785670f47bf5c98e628e8462325bba48abe669b49e2936832f4b
 
 info:
   summary: "Optimizes the DBPF plugin loading that the game performs on startup."
