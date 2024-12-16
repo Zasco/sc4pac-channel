@@ -13,9 +13,13 @@ info:
   warning: "Requires SimCity 4 in version 641."
 assets:
 - assetId: "null-45-allow-more-building-styles"
+  withChecksum:
+  - include: "/SC4MoreBuildingStyles.dll"
+    sha256: 362fa2024eaa985dafb8f4429cd8b901faa336f4bbe65e9359ae7015571e0468
 
 ---
-url: "https://community.simtropolis.com/files/file/36112-allow-more-building-styles-dll-plugin/?do=download"
+url: "https://github.com/0xC0000054/sc4-more-building-styles/releases/download/v3.0.2/SC4MoreBuildingStyles.zip"
+nonPersistentUrl: "https://community.simtropolis.com/files/file/36112-allow-more-building-styles-dll-plugin/?do=download"
 assetId: "null-45-allow-more-building-styles"
 version: "3.0.2"
 lastModified: "2024-10-22T07:11:34Z"

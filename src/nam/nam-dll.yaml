@@ -5,6 +5,9 @@ subfolder: "700-transit"
 
 assets:
   - assetId: "nam-nam-dll"
+    withChecksum:
+    - include: "/NAM.dll"
+      sha256: 32bacc4bad84d2188eacb9eb9b2434f68aebca340199a05b1579db878d8df36b
 
 info:
   summary: "Recently, the NAM Team has started developing a DLL that complements and expands the functionality of the NAM in ways that would not otherwise be possible. "

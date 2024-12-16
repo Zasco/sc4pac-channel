@@ -10,9 +10,13 @@ info:
   website: "https://community.simtropolis.com/files/file/36146-no-kickout-lower-wealth-dll-plugin/"
 assets:
 - assetId: "null-45-no-kickout-lower-wealth"
+  withChecksum:
+  - include: "/SC4NoKickOut.dll"
+    sha256: 73c7f60651bd727bb5d56e3d8c7e14886a6516c33c054ba1c6312d1be3967a3e
 
 ---
-url: "https://community.simtropolis.com/files/file/36146-no-kickout-lower-wealth-dll-plugin/?do=download"
+url: "https://github.com/0xC0000054/sc4-no-kick-out/releases/download/v1.0/SC4NoKickOut.zip"
+nonPersistentUrl: "https://community.simtropolis.com/files/file/36146-no-kickout-lower-wealth-dll-plugin/?do=download"
 assetId: "null-45-no-kickout-lower-wealth"
 version: "1.0.0"
 lastModified: "2024-02-27T10:27:18Z"

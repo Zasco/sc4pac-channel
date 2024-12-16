@@ -17,8 +17,6 @@ info:
   - "https://www.simtropolis.com/objects/screens/monthly_09_2014/4d007ee0e07212e1b20d7ef24d0c6d51-screenshot3.jpg"
   - "https://www.simtropolis.com/objects/screens/monthly_09_2014/9826e484b2ff1d184ed55543281a78bd-screenshot2.jpg"
   - "https://www.simtropolis.com/objects/screens/monthly_09_2014/8ff80ef921fdc22a68897bffbc5c7035-screenshot1.jpg"
-dependencies:
-- "historic-harbor:mmps"
 assets:
 - assetId: "historic-harbor-mmps"
 
