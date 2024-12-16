@@ -395,6 +395,8 @@ def validate_text_field(validator, field, text, schema):
     msgs = []
     if text is not None and text.strip().lower() == "none":
         msgs.append(f"""Text "{field}" should not be "{text.strip()}", but should be omitted instead.""")
+    #if text is not None and DependencyChecker.pronouns_pattern.search(text):
+    #    msgs.append(f"""The "{field}" should be written in a neutral perspective (avoid the words 'I', 'me', 'my').""")
     if text is not None and DependencyChecker.desc_invalid_chars_pattern.search(text):
         msgs.append("""The "{field}" seems to be malformed (avoid the characters '\\n', '\\"').""")
     if msgs:
