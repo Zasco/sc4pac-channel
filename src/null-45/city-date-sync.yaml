@@ -19,7 +19,8 @@ assets:
     sha256: 6387214c603191a849473945975afbc70afc63f3a2b294a7504d65e22a48dc33
 
 ---
-url: "https://community.simtropolis.com/files/file/35782-sc4-city-date-sync/?do=download"
+url: "https://github.com/0xC0000054/sc4-city-date-sync/releases/download/v1.0.3/SC4CityDateSync.zip"
+nonPersistentUrl: "https://community.simtropolis.com/files/file/35782-sc4-city-date-sync/?do=download"
 assetId: "null-45-city-date-sync"
 version: "1.0.3"
 lastModified: "2024-01-08T11:05:31Z"
