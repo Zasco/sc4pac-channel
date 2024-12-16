@@ -31,7 +31,7 @@ assets:
 - assetId: "guepardomountain-stacked-duplexes"
 dependencies:
 - "bsc:texturepack-cycledogg-vol01"
-- "gm:props-vol-1"
+- "gm:props-vol1"
 
 ---
 url: "https://community.simtropolis.com/files/file/36519-stacked-duplexes/?do=download"

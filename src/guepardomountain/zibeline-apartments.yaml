@@ -24,7 +24,7 @@ assets:
 - assetId: "guepardomountain-zibeline-apartments"
 dependencies:
 - "bsc:texturepack-cycledogg-vol01"
-- "gm:props-vol-1"
+- "gm:props-vol1"
 
 ---
 url: "https://community.simtropolis.com/files/file/36520-zibeline-apartments/?do=download"

@@ -23,7 +23,7 @@ info:
 assets:
 - assetId: "guepardomountain-brownstones"
 dependencies:
-- "gm:props-vol-1"
+- "gm:props-vol1"
 
 ---
 url: "https://community.simtropolis.com/files/file/36518-brownstones/?do=download"

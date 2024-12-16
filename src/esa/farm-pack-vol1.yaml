@@ -1,5 +1,5 @@
 group: "esa"
-name: "farm-pack-vol-1"
+name: "farm-pack-vol1"
 version: "1.0.0"
 subfolder: "410-agriculture"
 info:
@@ -17,7 +17,7 @@ info:
   - "https://www.simtropolis.com/objects/screens/monthly_2024_11/67293396c0d63_East-Sep.13081730752999.jpg.f104e1d70bdbd9039241da90d5661e1f.jpg"
   - "https://www.simtropolis.com/objects/screens/monthly_2024_11/6729339780008_East-Sep.13081730753026.jpg.20b136e88ee9f7b0a4ae4d20457fec14.jpg"
 assets:
-- assetId: "esa-farm-pack-vol-1"
+- assetId: "esa-farm-pack-vol1"
 dependencies:
 - "bsc:mega-props-cp-vol01"
 - "bsc:mega-props-cp-vol02"
@@ -47,6 +47,6 @@ dependencies:
 
 ---
 url: "https://community.simtropolis.com/files/file/36538-esa-farm-pack-vol-1/?do=download"
-assetId: "esa-farm-pack-vol-1"
+assetId: "esa-farm-pack-vol1"
 version: "1.0.0"
 lastModified: "2024-11-04T20:51:38Z"
