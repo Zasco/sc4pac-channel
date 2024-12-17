@@ -113,12 +113,8 @@ jobs:
         with:
           java-version: '17'
           distribution: 'temurin'
-          cache: 'sbt'
-      - uses: sbt/setup-sbt@v1
-      - name: Build sc4pac executable
-        run: cd sc4pac-tools && sbt assembly && ./sc4pac --version
-      - name: Build channel and website
-        run: make LABEL=Main gh-pages-no-lint
+      - name: Build channel
+        run: sh .github/build.sh
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
