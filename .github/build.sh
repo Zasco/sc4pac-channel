@@ -1,6 +1,8 @@
 #!/bin/sh
 set -e
 
+LABEL="Zasco's channel"
+SRC_URL="https://github.com/zasco/sc4pac-channel/blob/master/src/"
 SRC="src"
 OUT="gh-pages/channel"
 
@@ -15,4 +17,4 @@ echo "sc4pac version: $(./sc4pac-latest/sc4pac --version)"
 
 # build channel
 rm -rf "$OUT"
-./sc4pac-latest/sc4pac channel build --output "$OUT" "$SRC"
+./sc4pac-latest/sc4pac channel build --label "$LABEL" --metadata-source-url "$SRC_URL" --output "$OUT" "$SRC"
