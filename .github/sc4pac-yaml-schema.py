@@ -293,7 +293,7 @@ class DependencyChecker:
         req = urllib.request.Request(channel_url)
         with urllib.request.urlopen(req) as data:
             channel_contents = json.load(data)
-        return channel_contents['contents']
+        return channel_contents
 
     def unknowns(self):
         packages = self.referenced_packages.difference(self.known_packages)
@@ -301,8 +301,8 @@ class DependencyChecker:
         if packages or assets:
             # some dependencies are not known, so check other channels
             contents = [self._get_channel_contents(channel_url) for channel_url in extra_channels]
-            remote_assets = [pkg['name'] for c in contents for pkg in c if pkg['group'] == "sc4pacAsset"]
-            remote_packages = [f"{pkg['group']}:{pkg['name']}" for c in contents for pkg in c if pkg['group'] != "sc4pacAsset"]
+            remote_assets = [asset['name'] for channel in contents for asset in channel['assets']]
+            remote_packages = [f"{pkg['group']}:{pkg['name']}" for channel in contents for pkg in channel['packages']]
             packages = packages.difference(remote_packages)
             assets = assets.difference(remote_assets)
         return {'packages': sorted(packages), 'assets': sorted(assets)}
