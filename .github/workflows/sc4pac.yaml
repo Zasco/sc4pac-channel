@@ -15,8 +15,8 @@ jobs:
       channel-label: Zasco's channel           # your name or other suitable label
       deploy-repository: Zasco/sc4pac-channel  # your GitHub repository
       use-stex-api: false            # optionally enable the STEX API calls if you have a private key
-    #secrets:
-      # stex-api-key: ${{ secrets.STEX_API_KEY }}  # set the STEX_API_KEY under: Settings > Secrets and variables > Actions > Repository secrets
+    secrets:
+       stex-api-key: ${{ secrets.STEX_API_KEY }}  # set the STEX_API_KEY under: Settings > Secrets and variables > Actions > Repository secrets
     permissions:
       pages: write                   # to deploy to GitHub Pages
       id-token: write                # to verify the deployment originates from an appropriate source
